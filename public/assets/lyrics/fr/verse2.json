@@ -1,0 +1,74 @@
+{
+  "sync_cues": [
+    {
+      "sentence": "Pour les Aïeux",
+      "startMs": 0,
+      "endMs": 5000
+    },
+    {
+      "sentence": "pour la Patrie",
+      "startMs": 5000,
+      "endMs": 8000
+    },
+    {
+      "sentence": "Béchons joyeux",
+      "startMs": 8000,
+      "endMs": 9000
+    },
+    {
+      "sentence": "béchons joyeux",
+      "startMs": 9000,
+      "endMs": 12000
+    },
+    {
+      "sentence": "Quand le champ fructifie",
+      "startMs": 12000,
+      "endMs": 16000
+    },
+    {
+      "sentence": "L'âme se fortifie",
+      "startMs": 16000,
+      "endMs": 21000
+    },
+    {
+      "sentence": "Béchons joyeux",
+      "startMs": 21000,
+      "endMs": 23000
+    },
+    {
+      "sentence": "béchons joyeux",
+      "startMs": 23000,
+      "endMs": 26000
+    },
+    {
+      "sentence": "Pour les Aïeux",
+      "startMs": 26000,
+      "endMs": 27000
+    },
+    {
+      "sentence": "pour la Patrie",
+      "startMs": 27000,
+      "endMs": 30000
+    },
+    {
+      "sentence": "Béchons",
+      "startMs": 30000,
+      "endMs": 31000
+    },
+    {
+      "sentence": "béchons",
+      "startMs": 31000,
+      "endMs": 32000
+    },
+    {
+      "sentence": "béchons joyeux",
+      "startMs": 32000,
+      "endMs": 35000
+    },
+    {
+      "sentence": "Pour les Aïeux, pour la Patrie",
+      "startMs": 35000,
+      "endMs": 40000
+    }
+  ]
+}

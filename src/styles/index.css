@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+/* ---- Dark theme tokens (can tweak later) ---- */
+:root {
+  color-scheme: dark;
+  --bg: #0B0B0C;
+  --surface: #141417;
+  --text: #EDEDED;
+  --muted: #A1A1AA;
+  --border: #2A2A2E;
+  --accent: #22C55E;      /* primary */
+  --accent-contrast: #0A0A0A;
+  --highlight: #FDE047;   /* yellow for lyrics */
+}
+
+html, body, #root { height: 100%; }
+html { background: var(--bg); color: var(--text); font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", sans-serif; }
+
+/* Helpful utilities */
+.container { @apply mx-auto max-w-4xl px-4; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 0.75rem; }
+.muted { color: var(--muted); }
+.btn {
+  display:inline-flex; align-items:center; gap:.5rem;
+  padding:.5rem 1rem; border-radius:.5rem; font-weight:600;
+}
+.btn--primary { background: var(--accent); color: var(--accent-contrast); }
+.btn--outline { border:1px solid var(--border); color: var(--text); background: transparent; }
+.btn:disabled { opacity:.5; cursor:not-allowed; }

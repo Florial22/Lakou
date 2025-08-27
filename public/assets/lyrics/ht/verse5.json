@@ -1,0 +1,44 @@
+{
+  "sync_cues": [
+    {
+      "sentence": "Nou gen drapo tankou tout pèp",
+      "startMs": 0,
+      "endMs": 4000
+    },
+    {
+      "sentence": "Se pou nou renmen li mouri pou li",
+      "startMs": 4000,
+      "endMs": 9000
+    },
+    {
+      "sentence": "Se pa kado blan te fè nou",
+      "startMs": 9000,
+      "endMs": 13000
+    },
+    {
+      "sentence": "Se san Zansèt nou yo ki te koule",
+      "startMs": 13000,
+      "endMs": 18000
+    },
+    {
+      "sentence": "Pou nou kenbe drapo nou wo",
+      "startMs": 18000,
+      "endMs": 22000
+    },
+    {
+      "sentence": "Se pou nou travay met tèt ansanm.",
+      "startMs": 22000,
+      "endMs": 27000
+    },
+    {
+      "sentence": "Pou lòt peyi ka respekte li",
+      "startMs": 27000,
+      "endMs": 32000
+    },
+    {
+      "sentence": "Drapo sila a se nanm tout Ayisyen.",
+      "startMs": 32000,
+      "endMs": 37000
+    }
+  ]
+}

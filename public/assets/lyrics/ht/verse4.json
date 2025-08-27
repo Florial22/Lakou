@@ -1,0 +1,44 @@
+{
+  "sync_cues": [
+    {
+      "sentence": "Pou Ayiti onon Zansèt yo",
+      "startMs": 0,
+      "endMs": 4000
+    },
+    {
+      "sentence": "Ann leve tèt nou gad anlè",
+      "startMs": 4000,
+      "endMs": 8000
+    },
+    {
+      "sentence": "Pou tout moun mande Granmèt la",
+      "startMs": 8000,
+      "endMs": 13000
+    },
+    {
+      "sentence": "Pou li ba nou pwoteksyon",
+      "startMs": 13000,
+      "endMs": 17000
+    },
+    {
+      "sentence": "Pou move zanj pa detounen n",
+      "startMs": 17000,
+      "endMs": 22000
+    },
+    {
+      "sentence": "Pou nou ka mache nan bon chimen",
+      "startMs": 22000,
+      "endMs": 26000
+    },
+    {
+      "sentence": "Pou libète ka libète",
+      "startMs": 26000,
+      "endMs": 31000
+    },
+    {
+      "sentence": "Fòk lajistis blayi sou peyi a!",
+      "startMs": 31000,
+      "endMs": 36000
+    }
+  ]
+}

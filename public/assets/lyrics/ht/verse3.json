@@ -1,0 +1,44 @@
+{
+  "sync_cues": [
+    {
+      "sentence": "Pou Ayiti onon Zansèt yo",
+      "startMs": 0,
+      "endMs": 4000
+    },
+    {
+      "sentence": "Se pou nou sekle se pou nou plante",
+      "startMs": 4000,
+      "endMs": 8000
+    },
+    {
+      "sentence": "Se nan tè tout fòs nou chita",
+      "startMs": 8000,
+      "endMs": 13000
+    },
+    {
+      "sentence": "Se li ki ba nou manje",
+      "startMs": 13000,
+      "endMs": 17000
+    },
+    {
+      "sentence": "An bite tè, an voye wou",
+      "startMs": 17000,
+      "endMs": 22000
+    },
+    {
+      "sentence": "Ak kè kontan, fòk tè a bay",
+      "startMs": 22000,
+      "endMs": 26000
+    },
+    {
+      "sentence": "Sekle, wouze, fanm kou gason",
+      "startMs": 26000,
+      "endMs": 31000
+    },
+    {
+      "sentence": "Pou nou rive viv ak sèl fòs ponyèt nou.",
+      "startMs": 31000,
+      "endMs": 36000
+    }
+  ]
+}

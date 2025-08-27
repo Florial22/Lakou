@@ -1,0 +1,1679 @@
+{
+  "meta": { "version": 1, "language": "fr" },
+  "questions": [
+    {
+    "id": "hist-indep-1804",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "En quelle année Haïti a déclaré son indépendance ?",
+    "options": ["1791", "1804", "1825", "1844"],
+    "correct": [1],
+    "explication": "L’indépendance est proclamée le 1ᵉʳ janvier 1804."
+  },
+  {
+    "id": "hist-vertieres-1803",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "En quelle année a eu lieu la bataille de Vertières ?",
+    "options": ["1801", "1802", "1803", "1804"],
+    "correct": [2],
+    "explication": "Le 18 novembre 1803, dernière grande bataille contre les troupes françaises."
+  },
+  {
+    "id": "hist-proclamateur",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Quel dirigeant haïtien a proclamé l’indépendance en 1804 ?",
+    "options": ["Toussaint Louverture", "Jean-Jacques Dessalines", "Henri Christophe", "Alexandre Pétion"],
+    "correct": [1],
+    "explication": "Dessalines proclame l’indépendance à Gonaïves."
+  },
+  {
+    "id": "hist-debut-revolution",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "En quelle année débute la Révolution haïtienne ?",
+    "options": ["1789", "1791", "1794", "1802"],
+    "correct": [1],
+    "explication": "L’insurrection générale éclate en août 1791 à Saint-Domingue."
+  },
+  {
+    "id": "hist-citadelle",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Qui a fait construire la Citadelle Laferrière ?",
+    "options": ["Jean-Jacques Dessalines", "Henri Christophe", "Alexandre Pétion", "Faustin Soulouque"],
+    "correct": [1],
+    "explication": "Henri Christophe lance sa construction au début du XIXᵉ siècle."
+  },
+  {
+    "id": "hist-constitution-1805",
+    "categorie": "Histoire",
+    "type": "boolean",
+    "question": "La Constitution de 1805 déclare que tous les citoyens haïtiens sont « Noirs ».",
+    "options": ["Faux", "Vrai"],
+    "correct": [1],
+    "explication": "Cette disposition affirmait l’égalité et rompait avec la hiérarchie raciale coloniale."
+  },
+  {
+    "id": "hist-reconnaissance-1825",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Quelle puissance reconnaît l’indépendance d’Haïti en 1825 contre une indemnité ?",
+    "options": ["Espagne", "France", "Royaume-Uni", "États-Unis"],
+    "correct": [1],
+    "explication": "Ordonnance de Charles X en 1825, contre une lourde indemnité."
+  },
+  {
+    "id": "hist-fort-de-joux",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Quel chef de la Révolution haïtienne, déporté en 1802, est mort au Fort de Joux ?",
+    "options": ["Toussaint Louverture", "Jean-Jacques Dessalines", "Henri Christophe", "Alexandre Pétion"],
+    "correct": [0],
+    "explication": "Toussaint Louverture meurt en captivité au Fort de Joux en 1803."
+  },
+  {
+    "id": "hist-occupation-us",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Quel pays a occupé Haïti de 1915 à 1934 ?",
+    "options": ["France", "Espagne", "Royaume-Uni", "États-Unis"],
+    "correct": [3],
+    "explication": "Les troupes américaines stationnent en Haïti de 1915 à 1934."
+  },
+  {
+    "id": "hist-1986-duvalier",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "La chute de quel dirigeant en 1986 met fin à la dictature des Duvalier ?",
+    "options": ["François Duvalier", "Jean-Claude Duvalier", "Prosper Avril", "Raoul Cédras"],
+    "correct": [1],
+    "explication": "Jean-Claude « Baby Doc » Duvalier quitte le pays en 1986."
+  },
+  {
+        "id": 1,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quelle est la date officielle de l’indépendance d’Haïti ?",
+        "options": [
+            "12 janvier 2010",
+            "1er janvier 1804",
+            "14 juillet 1789",
+            "7 février 1986"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti a proclamé son indépendance le 1er janvier 1804 à Gonaïves."
+    },
+    {
+        "id": 2,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui est considéré comme le père de la nation haïtienne ?",
+        "options": [
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines",
+            "Toussaint Louverture"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jean-Jacques Dessalines a mené la lutte finale pour l’indépendance et est reconnu comme le père de la nation."
+    },
+    {
+        "id": 3,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a dirigé la cérémonie du Bois Caïman en août 1791 ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Dutty Boukman",
+            "Mackandal",
+            "Toussaint Louverture"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Dutty Boukman, prêtre vodou, a dirigé la cérémonie du Bois Caïman qui a marqué le début de l’insurrection générale."
+    },
+    {
+        "id": 4,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a fait construire la Citadelle Laferrière ?",
+        "options": [
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Faustin Soulouque",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Henri Christophe fit construire la Citadelle Laferrière, symbole de résistance et de souveraineté."
+    },
+    {
+        "id": 5,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Haïti fut la première république noire indépendante du monde.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "En 1804, Haïti devint la première république noire indépendante du monde."
+    },
+    {
+        "id": 6,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut le premier empereur d’Haïti ?",
+        "options": [
+            "Toussaint Louverture",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jean-Jacques Dessalines s’est proclamé empereur Jacques Ier en 1804."
+    },
+    {
+        "id": 7,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut renversé le 7 février 1986 ?",
+        "options": [
+            "Jean-Claude Duvalier",
+            "Raoul Cédras",
+            "Prosper Avril",
+            "François Duvalier"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Claude Duvalier, surnommé 'Baby Doc', fut renversé le 7 février 1986 après 29 ans de dictature familiale."
+    },
+    {
+        "id": 8,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Un tremblement de terre dévastateur a frappé Haïti le 12 janvier 2010.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le séisme du 12 janvier 2010 a causé plus de 200 000 morts et de lourds dégâts."
+    },
+    {
+        "id": 9,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut la première femme présidente d’Haïti ?",
+        "options": [
+            "Claudette Werleigh",
+            "Ertha Pascal-Trouillot",
+            "Michele Pierre-Louis",
+            "Mirlande Manigat"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Ertha Pascal-Trouillot a été présidente provisoire de 1990 à 1991."
+    },
+    {
+        "id": 10,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été assassiné en 2021 ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "Michel Martelly",
+            "René Préval",
+            "Jovenel Moïse"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jovenel Moïse a été assassiné le 7 juillet 2021 dans sa résidence privée."
+    },
+    {
+        "id": 11,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a fondé la ville du Cap-Haïtien au XVIIe siècle ?",
+        "options": [
+            "Les Espagnols",
+            "Les Marrons",
+            "Les colons français",
+            "Les Américains"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le Cap-Haïtien fut fondé par les colons français en 1670 sous le nom de Cap-Français."
+    },
+    {
+        "id": 12,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 1990 lors des premières élections démocratiques ?",
+        "options": [
+            "Jovenel Moïse",
+            "Michel Martelly",
+            "Jean-Bertrand Aristide",
+            "René Préval"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jean-Bertrand Aristide a remporté les élections démocratiques de décembre 1990."
+    },
+    {
+        "id": 13,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Toussaint Louverture a été capturé et envoyé en France où il est mort en prison.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Toussaint Louverture a été capturé par les troupes de Napoléon en 1802 et est mort en prison au Fort de Joux en 1803."
+    },
+    {
+        "id": 14,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été surnommé 'Papa Doc' ?",
+        "options": [
+            "Jean-Claude Duvalier",
+            "François Duvalier",
+            "Sténio Vincent",
+            "Paul Magloire"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "François Duvalier, médecin de formation, était surnommé 'Papa Doc'."
+    },
+    {
+        "id": 15,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel héros de l’indépendance a été tué à Pont-Rouge en 1806 ?",
+        "options": [
+            "Toussaint Louverture",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jean-Jacques Dessalines a été assassiné le 17 octobre 1806 à Pont-Rouge."
+    },
+    {
+        "id": 16,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Haïti a aboli l’esclavage en 1804.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’abolition de l’esclavage fut proclamée en même temps que l’indépendance en 1804."
+    },
+    {
+        "id": 17,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a succédé à René Préval en 2011 ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Boniface Alexandre",
+            "Michel Martelly"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Michel Martelly a été élu président en 2011 après René Préval."
+    },
+    {
+        "id": 18,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui est connu comme 'l’âme de la révolution haïtienne' ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Mackandal",
+            "Henri Christophe",
+            "Toussaint Louverture"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Toussaint Louverture est surnommé 'l’âme de la révolution' pour son rôle central dans la lutte."
+    },
+    {
+        "id": 19,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quelle capitale remplaça Cap-Français après l’indépendance ?",
+        "options": [
+            "Saint-Marc",
+            "Port-au-Prince",
+            "Jacmel",
+            "Les Cayes"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Après l’indépendance, Port-au-Prince devint la capitale en remplacement du Cap-Français."
+    },
+    {
+        "id": 20,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le massacre des Français ordonné par Dessalines eut lieu en 1804.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "En 1804, Dessalines ordonna le massacre des colons français restés en Haïti."
+    },
+    {
+        "id": 21,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 2006 après la crise politique ?",
+        "options": [
+            "Michel Martelly",
+            "Jovenel Moïse",
+            "Jean-Bertrand Aristide",
+            "René Préval"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "René Préval a été élu en 2006 après le départ d’Aristide en 2004."
+    },
+    {
+        "id": 22,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel général haïtien a défendu Vertières en 1803 ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Toussaint Louverture",
+            "Capois La Mort",
+            "Henri Christophe"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Capois La Mort s’est illustré à la bataille de Vertières le 18 novembre 1803."
+    },
+    {
+        "id": 23,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La Constitution de 1805 interdit aux Blancs de posséder des terres en Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Constitution impériale de 1805 interdisait aux Blancs de posséder des terres en Haïti."
+    },
+    {
+        "id": 24,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui était président d’Haïti lors du séisme du 12 janvier 2010 ?",
+        "options": [
+            "Michel Martelly",
+            "René Préval",
+            "Jovenel Moïse",
+            "Jean-Bertrand Aristide"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "René Préval était président lors du séisme du 12 janvier 2010."
+    },
+    {
+        "id": 25,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 2016 ?",
+        "options": [
+            "René Préval",
+            "Michel Martelly",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jovenel Moïse a été élu président en novembre 2016 et investi en février 2017."
+    },
+    {
+        "id": 26,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a succédé à Jean-Jacques Dessalines après son assassinat en 1806 ?",
+        "options": [
+            "Toussaint Louverture",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Pierre Boyer"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Après l’assassinat de Dessalines, le pays fut divisé : Pétion prit le sud comme président, Christophe domina le nord."
+    },
+    {
+        "id": 27,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été surnommé 'Baby Doc' ?",
+        "options": [
+            "Élie Lescot",
+            "Jean-Claude Duvalier",
+            "Sténio Vincent",
+            "François Duvalier"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Jean-Claude Duvalier, fils de François Duvalier, était surnommé 'Baby Doc'."
+    },
+    {
+        "id": 28,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La bataille de Vertières s’est déroulée en 1803.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La bataille de Vertières a eu lieu le 18 novembre 1803 et a scellé la victoire des troupes haïtiennes."
+    },
+    {
+        "id": 29,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a dirigé le pays de 2001 à 2004 avant d’être renversé ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "René Préval",
+            "Jovenel Moïse",
+            "Michel Martelly"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Bertrand Aristide fut renversé pour la seconde fois en 2004."
+    },
+    {
+        "id": 30,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel général haïtien est connu pour avoir résisté héroïquement à la bataille de Crête-à-Pierrot en 1802 ?",
+        "options": [
+            "Toussaint Louverture",
+            "Capois La Mort",
+            "Jean-Jacques Dessalines",
+            "Henri Christophe"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jean-Jacques Dessalines a dirigé la défense héroïque de Crête-à-Pierrot en mars 1802."
+    },
+    {
+        "id": 31,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Henri Christophe s’est proclamé roi d’Haïti en 1811.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Henri Christophe s’est proclamé roi et a établi un royaume dans le nord en 1811."
+    },
+    {
+        "id": 32,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a été président d’Haïti de 1996 à 2001 ?",
+        "options": [
+            "René Préval",
+            "Michel Martelly",
+            "Jovenel Moïse",
+            "Jean-Bertrand Aristide"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "René Préval a exercé deux mandats : 1996-2001 et 2006-2011."
+    },
+    {
+        "id": 33,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel pays a reconnu officiellement l’indépendance d’Haïti en 1825 en échange d’une indemnité ?",
+        "options": [
+            "La France",
+            "Les États-Unis",
+            "Le Royaume-Uni",
+            "L’Espagne"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La France a reconnu Haïti en 1825 en échange d’une lourde indemnité coloniale."
+    },
+    {
+        "id": 34,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le président Sténio Vincent a dirigé Haïti pendant les années 1930.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Sténio Vincent a été président de 1930 à 1941."
+    },
+    {
+        "id": 35,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut assassiné au palais national en 1915 ?",
+        "options": [
+            "Cincinnatus Leconte",
+            "Elie Lescot",
+            "Vilbrun Guillaume Sam",
+            "Michel Oreste"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le président Vilbrun Guillaume Sam fut lynché en juillet 1915, entraînant l’occupation américaine."
+    },
+    {
+        "id": 36,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quelle fut la durée de l’occupation américaine d’Haïti ?",
+        "options": [
+            "1957-1971",
+            "1915-1934",
+            "1804-1825",
+            "2004-2006"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’occupation américaine dura de 1915 à 1934."
+    },
+    {
+        "id": 37,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 1957 et a instauré une dictature ?",
+        "options": [
+            "Paul Magloire",
+            "Sténio Vincent",
+            "François Duvalier",
+            "Jean-Claude Duvalier"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "François Duvalier fut élu en 1957 et instaura une dictature appuyée sur les Tontons Macoutes."
+    },
+    {
+        "id": 38,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le drapeau haïtien fut adopté pour la première fois en 1803.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le drapeau bleu et rouge fut créé à l’Arcahaie en mai 1803."
+    },
+    {
+        "id": 39,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a fondé la Garde d’Haïti en 1915 ?",
+        "options": [
+            "Henri Namphy",
+            "René Préval",
+            "Les Américains",
+            "François Duvalier"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "La Garde d’Haïti fut créée par les forces américaines lors de l’occupation."
+    },
+    {
+        "id": 40,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut l’unique empereur d’Haïti après Dessalines ?",
+        "options": [
+            "Faustin Soulouque",
+            "Jean-Pierre Boyer",
+            "Alexandre Pétion",
+            "Henri Christophe"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Faustin Soulouque se proclama empereur Faustin Ier en 1849."
+    },
+    {
+        "id": 41,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La révolte des esclaves de 1791 a débuté dans le nord de Saint-Domingue.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La grande insurrection d’août 1791 a éclaté dans le nord de la colonie."
+    },
+    {
+        "id": 42,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien est mort dans l’explosion du palais national en 1912 ?",
+        "options": [
+            "Cincinnatus Leconte",
+            "Vilbrun Guillaume Sam",
+            "Michel Oreste",
+            "Jean Price-Mars"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le président Cincinnatus Leconte est mort dans une explosion mystérieuse en 1912."
+    },
+    {
+        "id": 43,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a dirigé le gouvernement provisoire après la chute de Jean-Claude Duvalier en 1986 ?",
+        "options": [
+            "Ertha Pascal-Trouillot",
+            "Henri Namphy",
+            "Prosper Avril",
+            "Marc Bazin"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le général Henri Namphy prit la tête du Conseil National de Gouvernement en 1986."
+    },
+    {
+        "id": 44,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut élu en 1995 par intérim avant l’élection de Préval ?",
+        "options": [
+            "Émile Jonassaint",
+            "Boniface Alexandre",
+            "Ertha Pascal-Trouillot",
+            "Marc Bazin"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Émile Jonassaint fut président provisoire en 1994-1995 avant le retour de Préval."
+    },
+    {
+        "id": 45,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La révolution haïtienne a commencé en 1791.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’insurrection des esclaves débuta en août 1791, marquant le début de la révolution."
+    },
+    {
+        "id": 46,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut élu en 2000 avant d’être renversé en 2004 ?",
+        "options": [
+            "Michel Martelly",
+            "Jovenel Moïse",
+            "Jean-Bertrand Aristide",
+            "René Préval"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Aristide remporta les élections de 2000 mais fut renversé en 2004."
+    },
+    {
+        "id": 47,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut le premier président noir élu démocratiquement en Haïti en 1990 ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Michel Martelly"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Aristide fut élu lors des premières élections libres en décembre 1990."
+    },
+    {
+        "id": 48,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel événement de 1802 a affaibli les troupes françaises de Napoléon à Saint-Domingue ?",
+        "options": [
+            "L’intervention britannique",
+            "La mort de Toussaint Louverture",
+            "La fièvre jaune",
+            "La bataille de Vertières"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "La fièvre jaune décima les troupes françaises envoyées par Napoléon en 1802."
+    },
+    {
+        "id": 49,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le Code Rural fut instauré en 1826 par Jean-Pierre Boyer.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Pierre Boyer instaura le Code Rural en 1826 pour contrôler la main-d’œuvre agricole."
+    },
+    {
+        "id": 51,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel traité signa Jean-Pierre Boyer avec la France en 1825 ?",
+        "options": [
+            "Traité de Paris",
+            "Reconnaissance de l’indépendance",
+            "Traité de Ryswick",
+            "Concordat religieux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "En 1825, Boyer signa avec la France un traité reconnaissant l’indépendance d’Haïti en échange d’une indemnité."
+    },
+    {
+        "id": 52,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a fait construire le Palais Sans-Souci ?",
+        "options": [
+            "Faustin Soulouque",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le roi Henri Christophe fit construire le Palais Sans-Souci, résidence royale dans le nord d’Haïti."
+    },
+    {
+        "id": 53,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le président Florvil Hyppolite est mort en 1896 alors qu’il était en fonction.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Florvil Hyppolite mourut subitement en 1896 pendant son mandat."
+    },
+    {
+        "id": 54,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a signé le Concordat avec le Vatican en 1860 ?",
+        "options": [
+            "Michel Oreste",
+            "Faustin Soulouque",
+            "Jean-Pierre Boyer",
+            "Geffrard"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Le président Fabre Geffrard signa le Concordat avec le Vatican en 1860."
+    },
+    {
+        "id": 55,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La bataille de Crête-à-Pierrot a eu lieu en 1802.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La bataille de Crête-à-Pierrot opposa les troupes haïtiennes aux forces françaises en mars 1802."
+    },
+    {
+        "id": 56,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut le président haïtien assassiné en 1915, entraînant l’occupation américaine ?",
+        "options": [
+            "Florvil Hyppolite",
+            "Cincinnatus Leconte",
+            "Vilbrun Guillaume Sam",
+            "Elie Lescot"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Vilbrun Guillaume Sam fut tué en juillet 1915, précipitant l’intervention américaine."
+    },
+    {
+        "id": 57,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a aboli la monarchie d’Henri Christophe ?",
+        "options": [
+            "Jean-Pierre Boyer",
+            "Faustin Soulouque",
+            "Florvil Hyppolite",
+            "Alexandre Pétion"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Pierre Boyer réunifia le pays après la mort de Christophe en 1820."
+    },
+    {
+        "id": 58,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le drapeau haïtien est bleu et rouge.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le drapeau national est bleu et rouge, inspiré de la version de 1803."
+    },
+    {
+        "id": 59,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 1950 au suffrage universel direct ?",
+        "options": [
+            "Sténio Vincent",
+            "Paul Magloire",
+            "Élie Lescot",
+            "François Duvalier"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Paul Magloire a été élu en 1950 lors des premières élections modernes au suffrage direct."
+    },
+    {
+        "id": 60,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a ordonné le massacre des Français restés en Haïti après l’indépendance ?",
+        "options": [
+            "Toussaint Louverture",
+            "Alexandre Pétion",
+            "Jean-Jacques Dessalines",
+            "Henri Christophe"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Dessalines ordonna le massacre des colons français en 1804."
+    },
+    {
+        "id": 61,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La Constitution de 1987 est toujours en vigueur en Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Constitution de 1987, malgré plusieurs amendements, est toujours en vigueur."
+    },
+    {
+        "id": 62,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a gouverné le plus longtemps au XIXe siècle ?",
+        "options": [
+            "Faustin Soulouque",
+            "Jean-Pierre Boyer",
+            "Henri Christophe",
+            "Alexandre Pétion"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Jean-Pierre Boyer a gouverné de 1818 à 1843, soit 25 ans."
+    },
+    {
+        "id": 63,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le massacre de Jérémie de 1964 a eu lieu sous François Duvalier.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "En 1964, des opposants furent massacrés à Jérémie sur ordre du régime de François Duvalier."
+    },
+    {
+        "id": 64,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui était président d’Haïti lors de l’occupation américaine de 1915 ?",
+        "options": [
+            "Cincinnatus Leconte",
+            "Paul Magloire",
+            "Vilbrun Guillaume Sam",
+            "Philippe Sudré Dartiguenave"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Après l’assassinat de Guillaume Sam, Dartiguenave fut placé président par les Américains."
+    },
+    {
+        "id": 65,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien est revenu au pouvoir en 1994 avec l’aide des États-Unis ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Michel Martelly"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Aristide fut restauré en 1994 après un coup d’État en 1991."
+    },
+    {
+        "id": 66,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La Citadelle Laferrière est classée au patrimoine mondial de l’UNESCO.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Depuis 1982, la Citadelle est inscrite au patrimoine mondial."
+    },
+    {
+        "id": 67,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a dirigé après Michel Martelly en 2016 ?",
+        "options": [
+            "Jovenel Moïse",
+            "Claude Joseph",
+            "Jean-Bertrand Aristide",
+            "René Préval"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jovenel Moïse succéda à Michel Martelly en 2016."
+    },
+    {
+        "id": 68,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a signé l’Acte de l’Indépendance d’Haïti en 1804 ?",
+        "options": [
+            "Alexandre Pétion",
+            "Toussaint Louverture",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jean-Jacques Dessalines proclama l’indépendance le 1er janvier 1804."
+    },
+    {
+        "id": 69,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Haïti a participé à la création de l’ONU en 1945.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti fut membre fondateur de l’Organisation des Nations Unies en 1945."
+    },
+    {
+        "id": 70,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut élu après la chute de Baby Doc en 1990 ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "Ertha Pascal-Trouillot",
+            "Marc Bazin",
+            "René Préval"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Aristide remporta les élections de décembre 1990."
+    },
+    {
+        "id": 71,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut l’ennemi principal des troupes haïtiennes lors de la bataille de Vertières ?",
+        "options": [
+            "Les Américains",
+            "Les troupes françaises",
+            "Les Britanniques",
+            "Les Espagnols"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "À Vertières en 1803, les troupes haïtiennes affrontèrent les Français."
+    },
+    {
+        "id": 72,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La dynastie des Duvalier a gouverné Haïti de 1957 à 1986.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "François puis Jean-Claude Duvalier ont régné de 1957 à 1986."
+    },
+    {
+        "id": 73,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut en fonction lors du séisme de 2021 ?",
+        "options": [
+            "Claude Joseph",
+            "Jovenel Moïse",
+            "Michel Martelly",
+            "Ariel Henry"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "En août 2021, Ariel Henry était Premier ministre lors du séisme du sud."
+    },
+    {
+        "id": 74,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel roi d’Haïti a instauré un système de noblesse dans le nord ?",
+        "options": [
+            "Henri Christophe",
+            "Jean-Jacques Dessalines",
+            "Faustin Soulouque",
+            "Alexandre Pétion"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Henri Christophe établit un système de noblesse héréditaire dans son royaume."
+    },
+
+    {
+        "id": 76,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 1879 après la chute de Boisrond-Canal ?",
+        "options": [
+            "Sténio Vincent",
+            "Florvil Hyppolite",
+            "Michel Oreste",
+            "Lysius Salomon"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Lysius Salomon devint président en 1879 après le départ de Boisrond-Canal."
+    },
+    {
+        "id": 77,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Jean-Bertrand Aristide a été président d’Haïti à trois reprises.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Aristide fut élu en 1990, revenu en 1994, puis réélu en 2000."
+    },
+    {
+        "id": 78,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel empereur haïtien s’est suicidé en 1820 après une révolte ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Faustin Soulouque"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Henri Christophe s’est donné la mort en octobre 1820 face à une rébellion."
+    },
+    {
+        "id": 79,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La Constitution de 1801 a été proclamée par Toussaint Louverture.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Toussaint Louverture proclama une Constitution autonome en 1801, bien qu’il restât fidèle à la France."
+    },
+    {
+        "id": 80,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a dirigé après la chute de Jean-Claude Duvalier ?",
+        "options": [
+            "Marc Bazin",
+            "Henri Namphy",
+            "René Préval",
+            "Jean-Bertrand Aristide"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Henri Namphy prit la tête du Conseil National de Gouvernement en 1986."
+    },
+    {
+        "id": 81,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le président Sam a été assassiné en 1915.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Vilbrun Guillaume Sam fut lynché en juillet 1915, entraînant l’occupation américaine."
+    },
+    {
+        "id": 82,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président a dirigé Haïti de 1971 à 1986 ?",
+        "options": [
+            "Jean-Claude Duvalier",
+            "René Préval",
+            "Michel Martelly",
+            "François Duvalier"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Claude Duvalier, dit 'Baby Doc', succéda à son père en 1971 et régna jusqu’en 1986."
+    },
+    {
+        "id": 83,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le mouvement des Cacos s’opposa à plusieurs présidents au XIXe et au XXe siècle.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les Cacos, groupes armés paysans, furent actifs dans les luttes politiques d’Haïti."
+    },
+    {
+        "id": 84,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut président d’Haïti lors de l’indépendance de la République Dominicaine en 1844 ?",
+        "options": [
+            "Faustin Soulouque",
+            "Geffrard",
+            "Charles Rivière-Hérard",
+            "Jean-Pierre Boyer"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Charles Rivière-Hérard était président lors de la séparation dominicaine en 1844."
+    },
+    {
+        "id": 85,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La bataille de Vertières s’est déroulée le 18 novembre 1803.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La victoire de Vertières scella l’indépendance d’Haïti en 1803."
+    },
+    {
+        "id": 86,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a pris le pouvoir en 1870 ?",
+        "options": [
+            "Michel Oreste",
+            "Florvil Hyppolite",
+            "Nissage Saget",
+            "Sténio Vincent"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Nissage Saget fut élu président en 1870 après la chute de Sylvain Salnave."
+    },
+    {
+        "id": 87,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La dynastie des Duvalier a commencé en 1957.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "François Duvalier fut élu président en 1957, inaugurant la dynastie familiale."
+    },
+    {
+        "id": 88,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président fut en fonction durant l’invasion américaine de 1994 ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Émile Jonassaint",
+            "Boniface Alexandre"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Émile Jonassaint était président provisoire lors de l’opération américaine 'Uphold Democracy' en 1994."
+    },
+    {
+        "id": 89,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "L’occupation américaine d’Haïti dura 19 ans.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’occupation dura de 1915 à 1934, soit 19 ans."
+    },
+    {
+        "id": 90,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut le président haïtien assassiné en 2021 ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Michel Martelly"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le président Jovenel Moïse fut assassiné le 7 juillet 2021."
+    },
+    {
+        "id": 91,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Jean-Pierre Boyer a dirigé Haïti pendant plus de 20 ans.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Pierre Boyer a dirigé de 1818 à 1843."
+    },
+    {
+        "id": 92,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut au pouvoir lors du tremblement de terre de 2010 ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Michel Martelly",
+            "Jovenel Moïse"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "René Préval était président le 12 janvier 2010 lors du séisme dévastateur."
+    },
+    {
+        "id": 93,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La première Constitution haïtienne a été adoptée en 1805.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Constitution impériale de 1805 fut adoptée sous Dessalines."
+    },
+    {
+        "id": 94,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président a remplacé René Préval en 2011 ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Michel Martelly",
+            "Boniface Alexandre"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Michel Martelly fut élu en 2011."
+    },
+    {
+        "id": 95,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le président Florvil Hyppolite est arrivé au pouvoir en 1889.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Florvil Hyppolite devint président en 1889 et resta en fonction jusqu’en 1896."
+    },
+    {
+        "id": 96,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut l’empereur Faustin Ier ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Henri Christophe",
+            "Faustin Soulouque",
+            "Alexandre Pétion"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Faustin Soulouque se proclama empereur Faustin Ier en 1849."
+    },
+    {
+        "id": 97,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La révolution haïtienne a inspiré d’autres mouvements d’indépendance en Amérique latine.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La révolution haïtienne a eu une influence majeure sur les luttes d’indépendance dans les Amériques."
+    },
+    {
+        "id": 98,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 2006 après la crise politique ?",
+        "options": [
+            "René Préval",
+            "Michel Martelly",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "René Préval remporta les élections de 2006 après le départ d’Aristide en 2004."
+    },
+    {
+        "id": 99,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le palais national d’Haïti a été gravement endommagé en 2010.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le séisme du 12 janvier 2010 a détruit le palais national."
+    },
+
+  
+
+
+
+
+  {
+    "id": "geo-departements",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel est le nombre total de départements en Haïti ?",
+    "options": ["8", "10", "9", "12"],
+    "correct": [1],
+    "explication": "Haïti est officiellement divisée en 10 départements administratifs."
+  },
+  {
+    "id": "geo-capitale",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quelle est la capitale d'Haïti ?",
+    "options": ["Jacmel", "Cap-Haïtien", "Port-au-Prince", "Gonaïves"],
+    "correct": [2],
+    "explication": "Port-au-Prince est la capitale et le centre politique et économique d'Haïti."
+  },
+  {
+    "id": "geo-sommet",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel est le point culminant d'Haïti ?",
+    "options": ["Pic Macaya", "Massif de la Hotte", "Morne La Selle", "Pic La Selle"],
+    "correct": [2],
+    "explication": "Le Morne La Selle, avec ses 2 680 mètres, est le plus haut sommet d'Haïti."
+  },
+  {
+    "id": "geo-lac",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel est le plus grand lac d'Haïti ?",
+    "options": ["Lac de Péligre", "Lac Miragoâne", "Étang Saumâtre", "Lac Azuei"],
+    "correct": [2],
+    "explication": "L'Étang Saumâtre est le plus grand lac d'Haïti et se trouve dans l'est du pays."
+  },
+  {
+    "id": "geo-ile",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quelle île partage Haïti avec la République dominicaine ?",
+    "options": ["Cuba", "La Jamaïque", "Hispaniola", "Porto Rico"],
+    "correct": [2],
+    "explication": "Haïti et la République Dominicaine se partagent l'île d'Hispaniola."
+  },
+  {
+    "id": "geo-grande-ile",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quelle est la plus grande île d'Haïti ?",
+    "options": ["Île de la Tortue", "Île à Vache", "Grande Cayemite", "Île de la Gonâve"],
+    "correct": [3],
+    "explication": "L'Île de la Gonâve, située dans le golfe du même nom, est la plus grande île du pays."
+  },
+  {
+    "id": "geo-fleuve-frontiere",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel fleuve sert de frontière naturelle sur une partie de la frontière nord entre Haïti et la République dominicaine ?",
+    "options": ["Fleuve Artibonite", "Fleuve Dajabón", "Rivière de la Grande Anse", "Fleuve des Cayes"],
+    "correct": [1],
+    "explication": "Le fleuve Dajabón, aussi appelé le fleuve Massacre, sert de frontière naturelle entre les deux pays sur une partie de sa longueur."
+  },
+  {
+    "id": "geo-golfe",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel golfe baigne la côte ouest d'Haïti ?",
+    "options": ["Golfe du Mexique", "Golfe de Guinée", "Golfe de la Gonâve", "Baie de Port-au-Prince"],
+    "correct": [2],
+    "explication": "Le Golfe de la Gonâve est un grand golfe qui baigne la côte ouest d'Haïti et qui contient l'île de la Gonâve."
+  },
+  {
+    "id": "geo-peninsule-sud",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quelle chaîne de montagnes traverse la péninsule du Sud d'Haïti ?",
+    "options": ["Le Massif du Nord", "La Chaîne de la Selle", "Le Massif de la Hotte", "La Chaîne des Matheux"],
+    "correct": [2],
+    "explication": "Le Massif de la Hotte est la principale chaîne de montagnes qui traverse la péninsule du Sud d'Haïti."
+  },
+  {
+    "id": "geo-cap-haitien",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Dans quel département se trouve la ville historique du Cap-Haïtien ?",
+    "options": ["Ouest", "Nord", "Nord-Est", "Nord-Ouest"],
+    "correct": [1],
+    "explication": "Le Cap-Haïtien est la ville principale et le chef-lieu du département du Nord."
+  }
+    
+  ]
+}

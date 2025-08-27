@@ -1,0 +1,44 @@
+{
+  "sync_cues": [
+    {
+      "sentence": "Pou Ayiti peyi Zansèt yo",
+      "startMs": 0,
+      "endMs": 8000
+    },
+    {
+      "sentence": "Se pou nou mache men nan lamen",
+      "startMs": 8000,
+      "endMs": 13000
+    },
+    {
+      "sentence": "Nan mitan nou pa fèt pou gen trèt",
+      "startMs": 13000,
+      "endMs": 17000
+    },
+    {
+      "sentence": "Nou fèt pou nou sèl mèt tèt nou.",
+      "startMs": 17000,
+      "endMs": 22000
+    },
+    {
+      "sentence": "Annou mache men nan lamen",
+      "startMs": 22000,
+      "endMs": 26000
+    },
+    {
+      "sentence": "Pou Ayiti ka vin pi bèl",
+      "startMs": 26000,
+      "endMs": 30000
+    },
+    {
+      "sentence": "Annou, annou, met tèt ansanm",
+      "startMs": 30000,
+      "endMs": 36000
+    },
+    {
+      "sentence": "Pou Ayiti onon tout Zansèt yo.",
+      "startMs": 36000,
+      "endMs": 42000
+    }
+  ]
+}

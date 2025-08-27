@@ -1,0 +1,44 @@
+{
+  "sync_cues": [
+    {
+      "sentence": "Pou Ayiti ak pou Zansèt yo",
+      "startMs": 0,
+      "endMs": 4000
+    },
+    {
+      "sentence": "Fò nou kapab vanyan gason",
+      "startMs": 4000,
+      "endMs": 8000
+    },
+    {
+      "sentence": "Moun pa fèt pou ret ak moun",
+      "startMs": 8000,
+      "endMs": 13000
+    },
+    {
+      "sentence": "Se sa ki fè tout manman ak tout papa",
+      "startMs": 13000,
+      "endMs": 17000
+    },
+    {
+      "sentence": "Dwe pou voye timoun yo lekòl",
+      "startMs": 17000,
+      "endMs": 22000
+    },
+    {
+      "sentence": "Pou yo aprann, pou yo konnen",
+      "startMs": 22000,
+      "endMs": 26000
+    },
+    {
+      "sentence": "Sa Toussaint, Dessalines, Christophe, Pétion",
+      "startMs": 26000,
+      "endMs": 32000
+    },
+    {
+      "sentence": "Te fè pou wet Ayisyen anba kòd blan.",
+      "startMs": 32000,
+      "endMs": 37000
+    }
+  ]
+}

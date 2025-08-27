@@ -1,0 +1,69 @@
+{
+  "sync_cues": [
+    {
+      "sentence": "Pour le Pays",
+      "startMs": 0,
+      "endMs": 5000
+    },
+    {
+      "sentence": "et pour nos Pères",
+      "startMs": 5000,
+      "endMs": 8000
+    },
+    {
+      "sentence": "Formons des Fils",
+      "startMs": 8000,
+      "endMs": 9000
+    },
+    {
+      "sentence": "formons des Fils",
+      "startMs": 9000,
+      "endMs": 12000
+    },
+    {
+      "sentence": "Libres, forts et prospères",
+      "startMs": 12000,
+      "endMs": 16000
+    },
+    {
+      "sentence": "Toujours nous serons frères",
+      "startMs": 16000,
+      "endMs": 21000
+    },
+    {
+      "sentence": "Formons des Fils",
+      "startMs": 21000,
+      "endMs": 23000
+    },
+    {
+      "sentence": "formons des Fils",
+      "startMs": 23000,
+      "endMs": 26000
+    },
+    {
+      "sentence": "Pour le Pays et pour nos Pères",
+      "startMs": 26000,
+      "endMs": 30000
+    },
+    {
+      "sentence": "Formons",
+      "startMs": 30000,
+      "endMs": 31000
+    },
+    {
+      "sentence": "formons",
+      "startMs": 31000,
+      "endMs": 32000
+    },
+    {
+      "sentence": "formons des Fils",
+      "startMs": 32000,
+      "endMs": 36000
+    },
+    {
+      "sentence": "Pour le Pays et pour nos Pères",
+      "startMs": 36000,
+      "endMs": 40000
+    }
+  ]
+}
