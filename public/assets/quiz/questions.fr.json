@@ -1673,7 +1673,2964 @@
     "options": ["Ouest", "Nord", "Nord-Est", "Nord-Ouest"],
     "correct": [1],
     "explication": "Le Cap-Haïtien est la ville principale et le chef-lieu du département du Nord."
-  }
-    
+  },
+
+    {
+        "id": "geo-ba9cc6",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le plus haut sommet d'Haïti ?",
+        "options": [
+            "Morne l’Hôpital",
+            "Morne la Selle",
+            "Morne du Cap",
+            "Morne Macaya"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le Morne la Selle culmine à environ 2 680 mètres, ce qui en fait le plus haut sommet d’Haïti."
+    },
+    {
+        "id": "geo-985c74",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la plus longue rivière d’Haïti ?",
+        "options": [
+            "Rivière Grise",
+            "Rivière Artibonite",
+            "Rivière Blanche",
+            "Rivière Momance"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’Artibonite est la plus longue rivière d’Haïti et elle joue un rôle essentiel dans l’agriculture."
+    },
+    {
+        "id": "geo-38af51",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le plus grand lac d’Haïti ?",
+        "options": [
+            "Lac Azuei",
+            "Lac de Péligre",
+            "Lac Saumâtre",
+            "Lac Miragoâne"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le Lac Saumâtre, également appelé Étang Saumâtre, est le plus grand lac d’Haïti."
+    },
+    {
+        "id": "geo-6f218f",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti partage une frontière terrestre avec la République dominicaine.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Haïti occupe le tiers ouest de l’île d’Hispaniola et partage sa frontière avec la République dominicaine."
+    },
+    {
+        "id": "geo-8daf21",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle chaîne de montagnes traverse la péninsule du Sud d'Haïti ?",
+        "options": [
+            "Le Massif du Nord",
+            "La Chaîne de la Selle",
+            "Le Massif de la Hotte",
+            "La Chaîne des Matheux"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le Massif de la Hotte est la principale chaîne de montagnes qui traverse la péninsule du Sud d'Haïti."
+    },
+    {
+        "id": "geo-81ea06",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Port-au-Prince est située dans le département de l’Ouest.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Port-au-Prince se situe dans le département de l’Ouest."
+    },
+    {
+        "id": "geo-4d6c2b",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est le plus vaste d’Haïti ?",
+        "options": [
+            "Nord",
+            "Ouest",
+            "Artibonite",
+            "Sud"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le département de l’Artibonite est le plus vaste d’Haïti."
+    },
+    {
+        "id": "geo-2c3daa",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le deuxième plus grand port d’Haïti après Port-au-Prince ?",
+        "options": [
+            "Gonaïves",
+            "Jacmel",
+            "Cap-Haïtien",
+            "Miragoâne"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le port du Cap-Haïtien est le deuxième plus important du pays."
+    },
+    {
+        "id": "geo-e00618",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Morne Macaya est situé dans le Sud d’Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Morne Macaya, culminant à 2 347 mètres, est situé dans le département du Sud."
+    },
+    {
+        "id": "geo-d05f3a",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le point le plus bas d’Haïti ?",
+        "options": [
+            "Lac de Péligre",
+            "Mer des Caraïbes",
+            "Plaine du Cul-de-Sac",
+            "Étang Saumâtre"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "L’Étang Saumâtre (Lac Azuei) est situé sous le niveau de la mer et constitue le point le plus bas du pays."
+    },
+    {
+        "id": "geo-a1dd65",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "L’île de la Gonâve est située en face de Port-au-Prince.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’île de la Gonâve se trouve dans le golfe de la Gonâve, en face de Port-au-Prince."
+    },
+    {
+        "id": "geo-536c14",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le plus grand département d’Haïti en population ?",
+        "options": [
+            "Ouest",
+            "Artibonite",
+            "Sud-Est",
+            "Nord"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le département de l’Ouest, qui inclut Port-au-Prince, est le plus peuplé."
+    },
+    {
+        "id": "geo-a84aec",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Plaine du Nord est une zone agricole fertile.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Plaine du Nord est l’une des principales régions agricoles du pays."
+    },
+    {
+        "id": "geo-ad6a2c",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le principal aéroport international d’Haïti ?",
+        "options": [
+            "Aéroport des Cayes",
+            "Aéroport de Jacmel",
+            "Aéroport du Cap-Haïtien",
+            "Aéroport Toussaint Louverture"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "L’aéroport international Toussaint Louverture, situé à Port-au-Prince, est le principal du pays."
+    },
+    {
+        "id": "geo-3da61f",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Massif du Nord se situe dans la partie septentrionale d’Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Massif du Nord traverse la partie septentrionale du pays."
+    },
+    {
+        "id": "geo-55dc05",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle mer borde Haïti au sud ?",
+        "options": [
+            "Mer des Caraïbes",
+            "Mer Rouge",
+            "Mer Méditerranée",
+            "Océan Atlantique"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La côte sud d’Haïti est bordée par la mer des Caraïbes."
+    },
+    {
+        "id": "geo-81521e",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le fleuve Artibonite prend sa source en République dominicaine.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’Artibonite prend sa source en République dominicaine et traverse Haïti."
+    },
+    {
+        "id": "geo-04cc0e",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle baie est connue pour la bataille navale de 1816 ?",
+        "options": [
+            "Baie de Jacmel",
+            "Baie de Miragoâne",
+            "Baie de Port-au-Prince",
+            "Baie de Môle-Saint-Nicolas"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "La baie de Môle-Saint-Nicolas fut le théâtre d’événements navals importants."
+    },
+    {
+        "id": "geo-8ffe47",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Presqu’île du Sud est aussi appelée péninsule Tiburon.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La péninsule du Sud est également connue sous le nom de péninsule de Tiburon."
+    },
+    {
+        "id": "geo-f862cf",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le deuxième plus grand lac d’Haïti après l’Étang Saumâtre ?",
+        "options": [
+            "Lac Péligre",
+            "Lac Miragoâne",
+            "Étang Douat",
+            "Lac Azuei"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le lac Miragoâne, situé dans le département de Nippes, est le deuxième plus grand du pays."
+    },
+    {
+        "id": "geo-de3606",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le climat haïtien est principalement tropical.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le climat d’Haïti est de type tropical, avec une saison sèche et une saison humide."
+    },
+    {
+        "id": "geo-213a5f",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle île haïtienne est située au nord-ouest du pays ?",
+        "options": [
+            "Île de la Tortue",
+            "Île Cabrits",
+            "Île de la Gonâve",
+            "Île-à-Vache"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Tortue est située au large du nord-ouest d’Haïti."
+    },
+    {
+        "id": "geo-20089e",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le lac de Péligre est un lac artificiel créé par un barrage.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le lac de Péligre a été créé suite à la construction du barrage hydroélectrique du même nom."
+    },
+    {
+        "id": "geo-c6bff2",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel golfe se trouve devant Port-au-Prince ?",
+        "options": [
+            "Golfe du Venezuela",
+            "Golfe de Saint-Laurent",
+            "Golfe de la Gonâve",
+            "Golfe du Mexique"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Port-au-Prince est située sur le golfe de la Gonâve."
+    },
+    {
+        "id": "geo-9c3f6f",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Pic la Selle est plus haut que le Morne Macaya.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Pic la Selle (2 680 m) est plus élevé que le Morne Macaya (2 347 m)."
+    },
+    {
+        "id": "geo-73234d",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est connu comme le grenier agricole d’Haïti ?",
+        "options": [
+            "Artibonite",
+            "Nord",
+            "Sud",
+            "Ouest"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’Artibonite est surnommée le grenier d’Haïti grâce à sa production agricole."
+    },
+    {
+        "id": "geo-b25624",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti est situé sur l’île d’Hispaniola.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti occupe le tiers ouest de l’île d’Hispaniola, qu’elle partage avec la République dominicaine."
+    },
+    {
+        "id": "geo-2ebd20",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département abrite la ville du Cap-Haïtien ?",
+        "options": [
+            "Nord",
+            "Sud",
+            "Ouest",
+            "Centre"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Cap-Haïtien est situé dans le département du Nord."
+    },
+    {
+        "id": "geo-53c1bc",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "L’île-à-Vache se trouve au large du département du Sud.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’île-à-Vache est une petite île située près de la côte sud d’Haïti."
+    },
+    {
+        "id": "geo-168e0b",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le principal fleuve utilisé pour l’irrigation du riz en Haïti ?",
+        "options": [
+            "Rivière Artibonite",
+            "Rivière Momance",
+            "Rivière Grise",
+            "Rivière Blanche"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La vallée de l’Artibonite est la principale région de culture du riz en Haïti."
+    },
+    {
+        "id": "geo-787960",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le climat de la côte nord d’Haïti est influencé par l’océan Atlantique.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La côte nord, exposée à l’Atlantique, connaît plus d’humidité que la côte sud."
+    },
+    {
+        "id": "geo-e16c39",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département haïtien est limitrophe de la République dominicaine ?",
+        "options": [
+            "Sud",
+            "Nord-Est",
+            "Nippes",
+            "Ouest"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département du Nord-Est partage une frontière terrestre avec la République dominicaine."
+    },
+    {
+        "id": "geo-31543b",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Parc National Macaya est situé dans le département du Sud.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Parc National Macaya se trouve dans le massif de la Hotte, dans le Sud."
+    },
+    {
+        "id": "geo-9c8949",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle île est connue pour avoir été un repaire de pirates au XVIIe siècle ?",
+        "options": [
+            "Île Cabrits",
+            "Île de la Gonâve",
+            "Île-à-Vache",
+            "Île de la Tortue"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "L’île de la Tortue fut un repaire célèbre des boucaniers et pirates."
+    },
+    {
+        "id": "geo-5f9b2e",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Centre est dépourvu de littoral.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le département du Centre est enclavé et n’a pas d’accès direct à la mer."
+    },
+    {
+        "id": "geo-f9fb85",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le principal lac d’eau douce d’Haïti ?",
+        "options": [
+            "Lac Péligre",
+            "Lac Miragoâne",
+            "Étang Saumâtre",
+            "Lac Azuei"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le lac Miragoâne est le plus grand lac naturel d’eau douce du pays."
+    },
+    {
+        "id": "geo-e2d374",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Les côtes haïtiennes sont bordées de récifs coralliens.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les récifs coralliens sont présents tout au long des côtes haïtiennes."
+    },
+    {
+        "id": "geo-b6848b",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est le moins peuplé d’Haïti ?",
+        "options": [
+            "Centre",
+            "Nippes",
+            "Nord-Ouest",
+            "Sud-Est"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département des Nippes est l’un des moins peuplés du pays."
+    },
+    {
+        "id": "geo-a0b800",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Massif de la Selle contient le plus haut sommet d’Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Pic la Selle culmine à 2 680 mètres dans la Chaîne de la Selle."
+    },
+    {
+        "id": "geo-cc49a8",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est surnommée la Cité de l’Indépendance ?",
+        "options": [
+            "Jacmel",
+            "Gonaïves",
+            "Cap-Haïtien",
+            "Les Cayes"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les Gonaïves sont appelées Cité de l’Indépendance car l’acte de 1804 y fut proclamé."
+    },
+    {
+        "id": "geo-5e8e1b",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Plaine du Cul-de-Sac est située près de Port-au-Prince.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La plaine du Cul-de-Sac se trouve à l’est de Port-au-Prince et abrite l’Étang Saumâtre."
+    },
+    {
+        "id": "geo-7c48be",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le principal aéroport du nord d’Haïti ?",
+        "options": [
+            "Aéroport du Cap-Haïtien",
+            "Aéroport de Jacmel",
+            "Aéroport des Cayes",
+            "Aéroport Toussaint Louverture"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’aéroport du Cap-Haïtien dessert la région nord du pays."
+    },
+    {
+        "id": "geo-de4922",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Les montagnes haïtiennes occupent environ les deux tiers du territoire.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti est un pays très montagneux, avec environ 2/3 de son territoire couvert de montagnes."
+    },
+    {
+        "id": "geo-8e5d39",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel golfe se situe au nord-ouest d’Haïti ?",
+        "options": [
+            "Golfe de Môle-Saint-Nicolas",
+            "Golfe du Mexique",
+            "Golfe de Saint-Laurent",
+            "Golfe de la Gonâve"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le golfe de Môle-Saint-Nicolas se situe au nord-ouest du pays."
+    },
+    {
+        "id": "geo-f1f23a",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Sud-Est est traversé par la Chaîne de la Selle.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La Chaîne de la Selle traverse le département du Sud-Est où se trouve le Pic la Selle."
+    },
+    {
+        "id": "geo-85cefc",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville côtière est réputée pour son carnaval et son architecture coloniale ?",
+        "options": [
+            "Cap-Haïtien",
+            "Gonaïves",
+            "Jacmel",
+            "Port-de-Paix"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jacmel est célèbre pour son carnaval et son architecture coloniale."
+    },
+    {
+        "id": "geo-7b7d5c",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Massif de la Hotte se trouve dans le département du Sud.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Massif de la Hotte est situé dans la péninsule sud d’Haïti."
+    },
+    {
+        "id": "geo-8cabec",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la deuxième ville la plus peuplée d’Haïti après Port-au-Prince ?",
+        "options": [
+            "Les Cayes",
+            "Gonaïves",
+            "Jacmel",
+            "Cap-Haïtien"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Cap-Haïtien est la deuxième ville du pays par sa population."
+    },
+    {
+        "id": "geo-3cca3f",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le littoral haïtien mesure environ 1 500 kilomètres.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le littoral haïtien est estimé à environ 1 500 km de longueur."
+    },
+    {
+        "id": "geo-534a35",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "L’île de la Gonâve est située dans le département du Centre.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Gonâve est située dans le département de l’Ouest, en face de Port-au-Prince."
+    },
+    {
+        "id": "geo-00821e",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département abrite la ville des Cayes ?",
+        "options": [
+            "Sud",
+            "Ouest",
+            "Nord",
+            "Artibonite"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La ville des Cayes se situe dans le département du Sud."
+    },
+    {
+        "id": "geo-514367",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Plaine de l’Artibonite est une des zones agricoles les plus productives d’Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Plaine de l’Artibonite est connue pour sa production de riz."
+    },
+    {
+        "id": "geo-f8fb83",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est surnommée la Perle des Antilles ?",
+        "options": [
+            "Port-au-Prince",
+            "Cap-Haïtien",
+            "Port-de-Paix",
+            "Jacmel"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Cap-Haïtien a longtemps été surnommée la Perle des Antilles."
+    },
+    {
+        "id": "geo-50b5ea",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département de l’Ouest comprend l’île de la Gonâve.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Gonâve appartient administrativement au département de l’Ouest."
+    },
+    {
+        "id": "geo-6aad45",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est frontalier avec la mer des Caraïbes au sud ?",
+        "options": [
+            "Sud",
+            "Nord",
+            "Centre",
+            "Nord-Est"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le département du Sud est frontalier avec la mer des Caraïbes au sud."
+    },
+    {
+        "id": "geo-70b4c5",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti possède plusieurs plaines fertiles.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "On retrouve la plaine de l’Artibonite, du Cul-de-Sac, et la Plaine du Nord."
+    },
+    {
+        "id": "geo-6a0736",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est un port important du Nord-Ouest ?",
+        "options": [
+            "Jacmel",
+            "Miragoâne",
+            "Les Cayes",
+            "Port-de-Paix"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Port-de-Paix est la principale ville portuaire du Nord-Ouest."
+    },
+    {
+        "id": "geo-553ed7",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La rivière Grise traverse Port-au-Prince.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La rivière Grise traverse la région de Port-au-Prince."
+    },
+    {
+        "id": "geo-6780e6",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville haïtienne est réputée pour ses plages et son tourisme ?",
+        "options": [
+            "Cap-Haïtien",
+            "Hinche",
+            "Gonaïves",
+            "Jacmel"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jacmel est célèbre pour ses plages et son carnaval."
+    },
+    {
+        "id": "geo-c74a43",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Massif de la Hotte est situé dans la presqu’île du Sud.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Massif de la Hotte est localisé dans la presqu’île du Sud."
+    },
+    {
+        "id": "geo-be17f3",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département abrite la ville de Jacmel ?",
+        "options": [
+            "Sud-Est",
+            "Ouest",
+            "Nippes",
+            "Nord"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jacmel est située dans le département du Sud-Est."
+    },
+    {
+        "id": "geo-6716e9",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La presqu’île du Nord-Ouest est une extension du Massif du Nord.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La péninsule du Nord-Ouest est une prolongation du Massif du Nord."
+    },
+    {
+        "id": "geo-99450b",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est la capitale du département de l’Artibonite ?",
+        "options": [
+            "Hinche",
+            "Gonaïves",
+            "Cap-Haïtien",
+            "St-Marc"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les Gonaïves sont la capitale administrative de l’Artibonite."
+    },
+    {
+        "id": "geo-1ae6bf",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Centre est traversé par la rivière Guayamouc.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La rivière Guayamouc traverse le département du Centre."
+    },
+    {
+        "id": "geo-a1cedb",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est située sur la côte sud-ouest d’Haïti ?",
+        "options": [
+            "Port-de-Paix",
+            "Jacmel",
+            "Cap-Haïtien",
+            "Les Cayes"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Les Cayes se trouvent sur la côte sud-ouest."
+    },
+    {
+        "id": "geo-7ae988",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La plaine du Cul-de-Sac est connue pour son lac salé, l’Étang Saumâtre.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’Étang Saumâtre est un lac salé situé dans la plaine du Cul-de-Sac."
+    },
+    {
+        "id": "geo-dd4bdc",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est un centre administratif important du Plateau Central ?",
+        "options": [
+            "Hinche",
+            "Cap-Haïtien",
+            "Les Cayes",
+            "Jacmel"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Hinche est la capitale administrative du Plateau Central."
+    },
+    {
+        "id": "geo-5bd3d8",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département des Nippes est l’un des plus jeunes départements d’Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département des Nippes a été créé en 2003."
+    },
+    {
+        "id": "geo-3d45fc",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville côtière est située dans le département du Nord-Est ?",
+        "options": [
+            "Cap-Haïtien",
+            "Jacmel",
+            "Fort-Liberté",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Fort-Liberté est la capitale du département du Nord-Est."
+    },
+    {
+        "id": "geo-22b344",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Morne la Vigie se trouve dans le département du Nord-Ouest.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Morne la Vigie est une montagne importante du Nord-Ouest."
+    },
+    {
+        "id": "geo-7a6c02",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est un port majeur du département du Sud-Est ?",
+        "options": [
+            "Cap-Haïtien",
+            "Port-de-Paix",
+            "Jacmel",
+            "Miragoâne"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jacmel possède un port important dans le Sud-Est."
+    },
+    {
+        "id": "geo-d46f2a",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Nord-Est abrite la rivière Massacre, frontière naturelle avec la République dominicaine.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La rivière Massacre marque une partie de la frontière entre Haïti et la République dominicaine."
+    },
+    {
+        "id": "geo-41b42d",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville haïtienne est connue comme un centre historique et culturel du Nord ?",
+        "options": [
+            "Jacmel",
+            "Les Cayes",
+            "Cap-Haïtien",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Cap-Haïtien est un centre historique majeur avec la Citadelle et Sans-Souci."
+    },
+    {
+        "id": "geo-7b9d70",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La chaîne des Matheux est située entre Port-au-Prince et Saint-Marc.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La chaîne des Matheux est une chaîne de montagnes située au centre-ouest du pays."
+    },
+    {
+        "id": "geo-cccf43",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la superficie approximative d’Haïti ?",
+        "options": [
+            "10 000 km²",
+            "75 000 km²",
+            "50 000 km²",
+            "27 750 km²"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "La superficie d’Haïti est d’environ 27 750 km²."
+    },
+    {
+        "id": "geo-90fdae",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti a une plus grande superficie que la République dominicaine.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La République dominicaine est environ deux fois plus grande qu’Haïti."
+    },
+    {
+        "id": "geo-e0d916",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le plus petit département d’Haïti en superficie ?",
+        "options": [
+            "Nippes",
+            "Nord-Est",
+            "Ouest",
+            "Centre"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le département des Nippes est le plus petit en superficie."
+    },
+    {
+        "id": "geo-2e992a",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti a une seule langue officielle.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti a deux langues officielles : le créole haïtien et le français."
+    },
+    {
+        "id": "geo-29c5f4",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département abrite la ville de Miragoâne ?",
+        "options": [
+            "Nippes",
+            "Artibonite",
+            "Sud-Est",
+            "Nord-Ouest"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Miragoâne est la capitale du département des Nippes."
+    },
+    {
+        "id": "geo-d60c93",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Nord-Ouest comprend l’île de la Tortue.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Tortue fait partie du département du Nord-Ouest."
+    },
+    {
+        "id": "geo-677273",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est la capitale du département du Centre ?",
+        "options": [
+            "Hinche",
+            "Belladère",
+            "Mirebalais",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Hinche est la capitale administrative du département du Centre."
+    },
+    {
+        "id": "geo-c6081e",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La péninsule du Sud est aussi appelée péninsule de Tiburon.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La presqu’île du Sud est aussi appelée péninsule de Tiburon."
+    },
+    {
+        "id": "geo-f7e003",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le département situé le plus au nord d’Haïti ?",
+        "options": [
+            "Artibonite",
+            "Nord",
+            "Nord-Est",
+            "Nord-Ouest"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département du Nord est le plus septentrional."
+    },
+    {
+        "id": "geo-087658",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Sud abrite le Parc National Macaya.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Parc Macaya est situé dans le massif de la Hotte, dans le Sud."
+    },
+    {
+        "id": "geo-3f9fa5",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la ville principale du département du Nord-Est ?",
+        "options": [
+            "Cap-Haïtien",
+            "Gonaïves",
+            "Fort-Liberté",
+            "Ouanaminthe"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Fort-Liberté est la capitale du Nord-Est."
+    },
+    {
+        "id": "geo-fd0d6c",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti est entouré de la mer des Caraïbes et de l’océan Atlantique.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Haïti est bordé au sud par la mer des Caraïbes et au nord par l’océan Atlantique."
+    },
+    {
+        "id": "geo-4d7a18",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est surnommée la Cité Christophe ?",
+        "options": [
+            "Hinche",
+            "Cap-Haïtien",
+            "Port-au-Prince",
+            "Les Cayes"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Cap-Haïtien est surnommée la Cité Christophe en hommage au roi Henri Christophe."
+    },
+    {
+        "id": "geo-b90729",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La rivière Massacre se trouve à la frontière avec la République dominicaine.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La rivière Massacre sépare une partie d’Haïti et de la République dominicaine."
+    },
+    {
+        "id": "geo-d7e09d",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle île se situe au sud-ouest d’Haïti ?",
+        "options": [
+            "Île Cabrits",
+            "Île de la Tortue",
+            "Île-à-Vache",
+            "Île de la Gonâve"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "L’île-à-Vache est située au large des Cayes, dans le Sud."
+    },
+    {
+        "id": "geo-b82fe8",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Plaine du Nord est propice à l’agriculture.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La Plaine du Nord est une région agricole fertile."
+    },
+    {
+        "id": "geo-b6aa69",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la capitale du département du Sud-Est ?",
+        "options": [
+            "Jacmel",
+            "Miragoâne",
+            "Les Cayes",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jacmel est la capitale du département du Sud-Est."
+    },
+    {
+        "id": "geo-74f663",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le climat d’Haïti comprend une saison sèche et une saison pluvieuse.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti connaît un climat tropical avec deux saisons principales."
+    },
+    {
+        "id": "geo-74a955",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est la capitale du département de l’Ouest ?",
+        "options": [
+            "Hinche",
+            "Jacmel",
+            "Cap-Haïtien",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Port-au-Prince est la capitale du département de l’Ouest."
+    },
+    {
+        "id": "geo-25becd",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti est divisé en 10 départements.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Haïti compte 10 départements administratifs."
+    },
+    {
+        "id": "geo-8de03f",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le département où se situe Port-de-Paix ?",
+        "options": [
+            "Nord-Ouest",
+            "Nord",
+            "Artibonite",
+            "Sud"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Port-de-Paix est la capitale du Nord-Ouest."
+    },
+    {
+        "id": "geo-f1e047",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "L’île de la Tortue est au large de Port-de-Paix.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Tortue est située face à Port-de-Paix."
+    },
+    {
+        "id": "geo-05add2",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est situé entre le Nord et l’Ouest ?",
+        "options": [
+            "Sud",
+            "Artibonite",
+            "Sud-Est",
+            "Centre"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département de l’Artibonite se situe entre le Nord et l’Ouest."
+    },
+    {
+        "id": "geo-804fdc",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Les Gonaïves se trouvent sur la côte des Caraïbes.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les Gonaïves sont situées au bord de la baie des Gonaïves, sur la mer des Caraïbes."
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": "cult-kompa-origines",
+      "categorie": "Culture",
+      "type": "boolean",
+      "question": "Le kompa (konpa) est un genre musical né en Haïti dans les années 1950.",
+      "options": ["Faux", "Vrai"],
+      "correct": [1],
+      "explication": "Popularisé par Nemours Jean-Baptiste à la fin des années 1950, le kompa est devenu l’un des styles phares de la musique haïtienne."
+    },
+
+       {
+        "id": "culture-847f21",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quelle ville haïtienne est réputée pour son carnaval coloré et ses masques artisanaux ?",
+        "options": [
+            "Les Cayes",
+            "Cap-Haïtien",
+            "Port-au-Prince",
+            "Jacmel"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jacmel est mondialement connue pour son carnaval haut en couleur et ses masques traditionnels."
+    },
+    {
+        "id": "culture-392166",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le vodou haïtien est reconnu comme une religion officielle en Haïti depuis 2003.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le vodou a été officiellement reconnu comme religion par l’État haïtien en 2003."
+    },
+    {
+        "id": "culture-485aa3",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat traditionnel est consommé le 1er janvier pour célébrer l’indépendance ?",
+        "options": [
+            "Soup joumou",
+            "Marinad",
+            "Griot",
+            "Diri ak djon djon"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La soupe joumou est consommée chaque 1er janvier pour commémorer l’indépendance."
+    },
+    {
+        "id": "culture-5e514f",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le compas est un style musical haïtien populaire.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le compas (ou konpa) est un style musical haïtien inventé par Nemours Jean-Baptiste dans les années 1950."
+    },
+    {
+        "id": "culture-239d23",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quelle boisson gazeuse est emblématique d’Haïti ?",
+        "options": [
+            "Kleren",
+            "Malta",
+            "Cola Couronne",
+            "Prestige"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le Cola Couronne est une boisson gazeuse emblématique et populaire en Haïti."
+    },
+    {
+        "id": "culture-a06cae",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse Yanvalou est associée au rituel vodou.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le Yanvalou est une danse traditionnelle pratiquée dans les cérémonies vodou."
+    },
+    {
+        "id": "culture-8969b9",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur du roman 'Gouverneurs de la rosée' ?",
+        "options": [
+            "Dany Laferrière",
+            "Jacques Roumain",
+            "Frankétienne",
+            "René Depestre"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Jacques Roumain est l’auteur de 'Gouverneurs de la rosée', un classique de la littérature haïtienne."
+    },
+    {
+        "id": "culture-889245",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est une musique traditionnelle haïtienne jouée pendant la période de Pâques.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le rara est une musique festive et populaire jouée pendant le carême et à Pâques."
+    },
+    {
+        "id": "culture-f546f5",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel instrument est largement utilisé dans la musique rara ?",
+        "options": [
+            "Piano",
+            "Violon",
+            "Guitare",
+            "Cornet en bambou"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Les cornes en bambou et les tambours sont des instruments phares du rara."
+    },
+    {
+        "id": "culture-da827f",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le griot est un plat haïtien préparé avec du porc frit.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le griot est un plat emblématique de porc mariné et frit, servi avec du riz ou du pikliz."
+    },
+    {
+        "id": "culture-1f44d6",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel artiste haïtien est connu pour ses peintures naïves colorées ?",
+        "options": [
+            "Philomé Obin",
+            "Jean-Michel Basquiat",
+            "Hector Hyppolite",
+            "Edouard Duval-Carrié"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Hector Hyppolite est un peintre haïtien célèbre pour ses œuvres naïves et spirituelles."
+    },
+    {
+        "id": "culture-447cfd",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le konpa dirèk a été inventé par Nemours Jean-Baptiste.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Nemours Jean-Baptiste est considéré comme le père du konpa dirèk."
+    },
+    {
+        "id": "culture-6f2f09",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat est préparé avec des champignons noirs appelés 'djon djon' ?",
+        "options": [
+            "Mayi moulen",
+            "Soup joumou",
+            "Lalo",
+            "Diri ak djon djon"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Le 'diri ak djon djon' est un plat typique de riz préparé avec des champignons noirs haïtiens."
+    },
+    {
+        "id": "culture-2db05d",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La fête du drapeau haïtien est célébrée le 18 mai.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Chaque 18 mai, Haïti célèbre la création de son drapeau à l’Arcahaie en 1803."
+    },
+    {
+        "id": "culture-8f2432",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est surnommé 'le roi du kompa' ?",
+        "options": [
+            "Nemours Jean-Baptiste",
+            "Carimi",
+            "T-Vice",
+            "Sweet Micky"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Nemours Jean-Baptiste est reconnu comme le roi du kompa."
+    },
+    {
+        "id": "culture-ad9188",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La peinture haïtienne est souvent caractérisée par des couleurs vives et des scènes de la vie quotidienne.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les peintures haïtiennes représentent souvent des scènes de marché, de campagne et des fêtes."
+    },
+    {
+        "id": "culture-3bcdb3",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a été élu à l’Académie française ?",
+        "options": [
+            "Jacques Roumain",
+            "René Depestre",
+            "Frankétienne",
+            "Dany Laferrière"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Dany Laferrière est le premier auteur haïtien élu à l’Académie française en 2013."
+    },
+    {
+        "id": "culture-29c7cc",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse Rabòday est une tendance musicale récente en Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le Rabòday est une musique et danse urbaine moderne en Haïti."
+    },
+    {
+        "id": "culture-d34e50",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel aliment accompagne souvent le griot haïtien ?",
+        "options": [
+            "Bananes pesées",
+            "Toutes ces réponses",
+            "Riz collé",
+            "Pikliz"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le griot est traditionnellement servi avec du riz, des bananes pesées et du pikliz."
+    },
+    {
+        "id": "culture-a03649",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est joué uniquement dans les églises catholiques.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le rara est une musique de rue festive, associée aux traditions populaires et au vodou."
+    },
+    {
+        "id": "culture-7b934c",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel est le nom du théâtre populaire traditionnel en Haïti ?",
+        "options": [
+            "Lanmò",
+            "Languichatte",
+            "Teyat lakou",
+            "Lavi nan peyi"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le théâtre populaire traditionnel haïtien est appelé 'teyat lakou'."
+    },
+    {
+        "id": "culture-13707a",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La soupe joumou est un symbole de liberté en Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Autrefois interdite aux esclaves, la soupe joumou est devenue un symbole de liberté après l’indépendance."
+    },
+    {
+        "id": "culture-69950a",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est devenu président de la République ?",
+        "options": [
+            "Nemours Jean-Baptiste",
+            "Michel Martelly",
+            "Carlo Vieux",
+            "Wyclef Jean"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Michel Martelly, surnommé Sweet Micky, est passé de musicien à président d’Haïti."
+    },
+    {
+        "id": "culture-2a02f4",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le tambour est un instrument central dans la musique traditionnelle haïtienne.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le tambour rythme les danses, les cérémonies et la musique populaire haïtienne."
+    },
+    {
+        "id": "culture-63a5a4",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel poète haïtien est connu pour son œuvre 'Hadriana dans tous mes rêves' ?",
+        "options": [
+            "Dany Laferrière",
+            "Frankétienne",
+            "René Depestre",
+            "Jacques Roumain"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "René Depestre a publié le roman 'Hadriana dans tous mes rêves' en 1988."
+    },
+    {
+        "id": "culture-135fc5",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quelle boisson alcoolisée traditionnelle haïtienne est fabriquée à base de canne à sucre ?",
+        "options": [
+            "Prestige",
+            "Rhum Barbancourt",
+            "Malta",
+            "Kleren"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Le kleren est une boisson alcoolisée traditionnelle haïtienne issue de la distillation de la canne à sucre."
+    },
+    {
+        "id": "culture-3fa748",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La musique troubadour est un genre traditionnel haïtien.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les troubadours haïtiens jouent des chansons acoustiques populaires, souvent accompagnées de guitare."
+    },
+    {
+        "id": "culture-794e33",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est connu pour son œuvre 'Mûr à crever' ?",
+        "options": [
+            "Jacques Roumain",
+            "René Depestre",
+            "Dany Laferrière",
+            "Frankétienne"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Frankétienne, figure majeure de la littérature haïtienne, est l’auteur de 'Mûr à crever'."
+    },
+    {
+        "id": "culture-d05deb",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Le rara est principalement joué pendant quelle période ?",
+        "options": [
+            "Carême et Pâques",
+            "Fête du drapeau",
+            "Indépendance",
+            "Noël"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le rara est une musique festive et populaire jouée surtout pendant le carême et Pâques."
+    },
+    {
+        "id": "culture-d0ba44",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le festival de jazz de Port-au-Prince attire des musiciens internationaux.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le PAP Jazz Festival accueille chaque année des artistes de renommée mondiale."
+    },
+    {
+        "id": "culture-90e923",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a écrit 'Pays sans chapeau' ?",
+        "options": [
+            "Frankétienne",
+            "Jacques Roumain",
+            "René Depestre",
+            "Dany Laferrière"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Dany Laferrière est l’auteur du roman 'Pays sans chapeau'."
+    },
+    {
+        "id": "culture-7bc94f",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La Prestige est une bière produite en Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La bière Prestige est l’une des boissons les plus connues d’Haïti."
+    },
+    {
+        "id": "culture-6e0a81",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel groupe musical haïtien est célèbre pour son style compas direct ?",
+        "options": [
+            "T-Vice",
+            "Sweet Micky",
+            "Carimi",
+            "Tabou Combo"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Tabou Combo est un groupe mythique du compas haïtien, fondé en 1968."
+    },
+    {
+        "id": "culture-653a5f",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La fête de la musique rara est célébrée principalement dans les campagnes.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le rara est particulièrement répandu dans les zones rurales du pays."
+    },
+    {
+        "id": "culture-9a041e",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel peintre haïtien est associé à l’école du Cap-Haïtien ?",
+        "options": [
+            "Philomé Obin",
+            "Prefète Duffaut",
+            "Edouard Duval-Carrié",
+            "Hector Hyppolite"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Philomé Obin est un peintre majeur de l’école du Cap-Haïtien."
+    },
+    {
+        "id": "culture-966b73",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le festival international de film de Jacmel est un événement culturel important.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le festival de Jacmel est un rendez-vous majeur du cinéma en Haïti."
+    },
+    {
+        "id": "culture-6e1cd4",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel instrument de percussion est central dans le vodou ?",
+        "options": [
+            "Guitare",
+            "Violon",
+            "Tambour",
+            "Flûte"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le tambour est essentiel dans les cérémonies vodou."
+    },
+    {
+        "id": "culture-574b74",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le carnaval de Port-au-Prince est plus ancien que celui de Jacmel.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le carnaval de Jacmel est plus ancien et plus réputé pour son authenticité."
+    },
+    {
+        "id": "culture-6e078e",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel poète haïtien est l’auteur de 'Romancero aux étoiles' ?",
+        "options": [
+            "Ida Faubert",
+            "René Depestre",
+            "Jacques Roumain",
+            "Frankétienne"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "René Depestre a publié 'Romancero aux étoiles' en 1960."
+    },
+    {
+        "id": "culture-413937",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 1er janvier est célébré comme le jour de l’indépendance et de la soupe joumou.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Chaque 1er janvier, Haïti commémore son indépendance en partageant la soupe joumou."
+    },
+    {
+        "id": "culture-ce0f7f",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel chanteur haïtien est connu comme 'Sweet Micky' ?",
+        "options": [
+            "Wyclef Jean",
+            "Michel Martelly",
+            "Carlo Vieux",
+            "King Kino"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Michel Martelly, alias Sweet Micky, est un chanteur de compas devenu président."
+    },
+    {
+        "id": "culture-e7cbc2",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 'pikliz' est un condiment épicé haïtien à base de légumes marinés.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le pikliz est un condiment à base de chou, carottes, piments et vinaigre."
+    },
+    {
+        "id": "culture-8122cc",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien a été membre du groupe Fugees ?",
+        "options": [
+            "Michel Martelly",
+            "Carimi",
+            "Wyclef Jean",
+            "T-Vice"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Wyclef Jean, célèbre musicien haïtien, a fait partie du groupe américain Fugees."
+    },
+    {
+        "id": "culture-341f82",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse folklorique Yanvalou est dédiée au loa Damballah dans le vodou.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le Yanvalou est une danse dédiée à Damballah, l’un des loa du panthéon vodou."
+    },
+    {
+        "id": "culture-559781",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel peintre haïtien est connu pour ses fresques murales religieuses à Port-au-Prince ?",
+        "options": [
+            "Edouard Duval-Carrié",
+            "Préféte Duffaut",
+            "Basquiat",
+            "Philomé Obin"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Préféte Duffaut est célèbre pour ses fresques murales à caractère religieux."
+    },
+    {
+        "id": "culture-c21e8c",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La musique 'mizik rasin' mélange le vodou et les rythmes modernes.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La 'mizik rasin' fusionne les percussions vodou et les influences modernes."
+    },
+    {
+        "id": "culture-6c49d9",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur de 'Le Nègre marron' ?",
+        "options": [
+            "Jean Price-Mars",
+            "Ida Faubert",
+            "Frankétienne",
+            "Carl Brouard"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean Price-Mars est l’auteur de 'Le Nègre marron' et figure de la négritude haïtienne."
+    },
+    {
+        "id": "culture-7902d8",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Les tambours haïtiens portent parfois le nom de 'manman tanbou'.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le 'manman tanbou' est le tambour maître dans les cérémonies haïtiennes."
+    },
+    {
+        "id": "culture-0b54e2",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur de 'Mémoires d’un égaré' ?",
+        "options": [
+            "Gary Victor",
+            "Jacques Roumain",
+            "René Depestre",
+            "Dany Laferrière"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Gary Victor est un écrivain contemporain haïtien connu pour 'Mémoires d’un égaré'."
+    },
+    {
+        "id": "culture-d6ed63",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel chanteur haïtien est connu pour la chanson 'Anba Rad La' ?",
+        "options": [
+            "T-Vice",
+            "Emeline Michel",
+            "Boukman Eksperyans",
+            "Carimi"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Emeline Michel est une chanteuse haïtienne renommée, interprète de 'Anba Rad La'."
+    },
+    {
+        "id": "culture-d41285",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est une musique traditionnelle associée aux cérémonies funéraires.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le rara est une musique festive jouée lors du carême et des processions populaires."
+    },
+    {
+        "id": "culture-58fcb2",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a écrit 'L’espace d’un cillement' ?",
+        "options": [
+            "René Depestre",
+            "Gary Victor",
+            "Jacques Stephen Alexis",
+            "Frankétienne"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jacques Stephen Alexis est l’auteur du roman 'L’espace d’un cillement'."
+    },
+    {
+        "id": "culture-4f5933",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse Yanvalou est pratiquée en l’honneur des esprits du vodou.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Yanvalou est une danse dédiée aux esprits, notamment Damballah."
+    },
+    {
+        "id": "culture-674c61",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel artiste haïtien a popularisé la peinture surréaliste et vodouesque ?",
+        "options": [
+            "Basquiat",
+            "Hector Hyppolite",
+            "Edouard Duval-Carrié",
+            "Philomé Obin"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Edouard Duval-Carrié est un artiste contemporain qui mêle surréalisme et culture vodou."
+    },
+    {
+        "id": "culture-c943b9",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le festival 'Fête de la Mer' se déroule à Aquin.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La 'Fête de la Mer' est célébrée à Aquin chaque été avec musique et gastronomie."
+    },
+    {
+        "id": "culture-3c5153",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a publié 'Le goût des jeunes filles' ?",
+        "options": [
+            "Frankétienne",
+            "Gary Victor",
+            "Dany Laferrière",
+            "René Depestre"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Dany Laferrière est l’auteur de 'Le goût des jeunes filles'."
+    },
+    {
+        "id": "culture-1c4432",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La 'mizik rasin' s’inspire du vodou et des rythmes traditionnels.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La mizik rasin mélange percussions traditionnelles et influences modernes."
+    },
+    {
+        "id": "culture-6d172a",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat haïtien est à base de feuilles de lalo (corète potagère) ?",
+        "options": [
+            "Lalo",
+            "Marinad",
+            "Soup joumou",
+            "Griot"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le lalo est un plat préparé avec des feuilles de corète potagère, souvent avec du crabe."
+    },
+    {
+        "id": "culture-431140",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le tambour 'petwo' est utilisé dans certaines cérémonies vodou.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le tambour petwo est associé aux rituels énergiques du vodou."
+    },
+    {
+        "id": "culture-20a33a",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est l’auteur du morceau 'Ayiti Se' ?",
+        "options": [
+            "Emeline Michel",
+            "Tabou Combo",
+            "Boukman Eksperyans",
+            "Sweet Micky"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le groupe Boukman Eksperyans a popularisé la chanson 'Ayiti Se'."
+    },
+    {
+        "id": "culture-4ad725",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La 'Rara tech' est une fusion moderne de rara et de musique électronique.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Rara tech est une évolution contemporaine qui mélange rara et sons électroniques."
+    },
+    {
+        "id": "culture-5f6920",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel auteur haïtien a écrit 'Compère Général Soleil' ?",
+        "options": [
+            "Dany Laferrière",
+            "Gary Victor",
+            "Jacques Roumain",
+            "Jacques Stephen Alexis"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jacques Stephen Alexis est l’auteur du roman 'Compère Général Soleil'."
+    },
+    {
+        "id": "culture-e8d0d0",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le carnaval de Jacmel est inscrit au patrimoine culturel immatériel de l’UNESCO.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le carnaval de Jacmel est reconnu internationalement, mais pas inscrit à l’UNESCO."
+    },
+    {
+        "id": "culture-9fa315",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel groupe haïtien a popularisé la chanson 'Panama m Tombe' ?",
+        "options": [
+            "Carimi",
+            "Skah Shah",
+            "T-Vice",
+            "Tabou Combo"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Tabou Combo a popularisé 'Panama m Tombe', un succès international."
+    },
+    {
+        "id": "culture-f398d9",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Les 'marinades' sont des beignets frits populaires en Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les marinades sont de petits beignets salés très populaires en Haïti."
+    },
+    {
+        "id": "culture-eff224",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur du roman 'Clair de manbo' ?",
+        "options": [
+            "Frankétienne",
+            "Dany Laferrière",
+            "Jacques Roumain",
+            "Gary Victor"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Gary Victor est l’auteur du roman 'Clair de manbo', inspiré de la culture vodou."
+    },
+    {
+        "id": "culture-37a8cd",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse 'Ibo' est une danse traditionnelle haïtienne.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La danse Ibo est une danse traditionnelle d’origine africaine pratiquée en Haïti."
+    },
+    {
+        "id": "culture-7ef5f1",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat haïtien est préparé avec du maïs moulu et des haricots ?",
+        "options": [
+            "Soup joumou",
+            "Diri ak djon djon",
+            "Mayi moulen ak pwa",
+            "Griot"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le mayi moulen ak pwa est un plat à base de maïs moulu et d’haricots."
+    },
+    {
+        "id": "culture-3874aa",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est joué avec des instruments comme les 'vaksin' (tubes de bambou).",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les vaksin en bambou sont des instruments phares du rara."
+    },
+    {
+        "id": "culture-d77c2a",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel auteur haïtien a écrit 'Texaco' ?",
+        "options": [
+            "Dany Laferrière",
+            "Frankétienne",
+            "René Depestre",
+            "Patrick Chamoiseau"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Patrick Chamoiseau est un auteur martiniquais, pas haïtien, mais souvent confondu avec la littérature caribéenne."
+    },
+    {
+        "id": "culture-b7c9bd",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 'rabòday' est un style de musique électronique haïtienne.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le rabòday est une musique urbaine populaire en Haïti, très dansée par la jeunesse."
+    },
+    {
+        "id": "culture-579672",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat haïtien est une soupe de poisson préparée dans le Sud ?",
+        "options": [
+            "Bouyon pwason",
+            "Lalo",
+            "Soup joumou",
+            "Diri ak pwa"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le bouyon pwason est une soupe de poisson traditionnelle dans le Sud d’Haïti."
+    },
+    {
+        "id": "culture-f339a6",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La tradition du conte oral est encore vivante en Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les contes et proverbes transmis oralement font partie intégrante de la culture haïtienne."
+    },
+    {
+        "id": "culture-e2f4dc",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur de 'Amour, colère et folie' ?",
+        "options": [
+            "Yanick Lahens",
+            "Marie Vieux-Chauvet",
+            "Ida Faubert",
+            "Edwidge Danticat"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Marie Vieux-Chauvet est l’auteure du roman 'Amour, colère et folie'."
+    },
+    {
+        "id": "culture-98ab46",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La 'mizik twoubadou' est jouée avec guitare et percussions légères.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les troubadours haïtiens utilisent souvent guitare, banjo et percussions."
+    },
+    {
+        "id": "culture-13b981",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a publié 'Le Cri des oiseaux fous' ?",
+        "options": [
+            "Dany Laferrière",
+            "Gary Victor",
+            "Frankétienne",
+            "René Depestre"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Dany Laferrière est l’auteur de 'Le Cri des oiseaux fous'."
+    },
+    {
+        "id": "culture-a8b406",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La fête patronale de Saut-d’Eau attire des pèlerins chaque été.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La fête de Saut-d’Eau en juillet attire des pèlerins catholiques et vodouisants."
+    },
+    {
+        "id": "culture-e3e416",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat haïtien est préparé avec du cabri (chèvre) mariné et frit ?",
+        "options": [
+            "Soup joumou",
+            "Tassot cabrit",
+            "Griot",
+            "Lalo"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le tassot cabrit est un plat de chèvre mariné puis frit, servi avec du riz et du pikliz."
+    },
+    {
+        "id": "culture-ebb171",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est une musique exclusivement urbaine.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le rara est surtout rural, mais il est aussi présent dans les villes."
+    },
+    {
+        "id": "culture-a611fe",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel auteur haïtien a écrit 'Bonheur d’occasion' ?",
+        "options": [
+            "Gabrielle Roy",
+            "Jacques Roumain",
+            "Dany Laferrière",
+            "Frankétienne"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Gabrielle Roy est une écrivaine canadienne. La question met en évidence la distinction culturelle."
+    },
+    {
+        "id": "culture-d624fe",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La peinture haïtienne est internationalement reconnue pour son style naïf.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les peintres haïtiens comme Hector Hyppolite et Philomé Obin ont popularisé ce style."
+    },
+    {
+        "id": "culture-67b5c3",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est le fondateur du groupe Carimi ?",
+        "options": [
+            "Mickaël Guirand",
+            "Richard Cavé",
+            "Tous",
+            "Carlo Vieux"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Carlo Vieux, Mickaël Guirand et Richard Cavé sont les fondateurs du groupe Carimi."
+    },
+    {
+        "id": "culture-11b4df",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le carnaval haïtien se déroule généralement en février.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Comme dans de nombreux pays, le carnaval précède le carême."
+    },
+    {
+        "id": "culture-9c0d18",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a reçu le prix Médicis en 2009 ?",
+        "options": [
+            "Dany Laferrière",
+            "Lyonel Trouillot",
+            "Jean-Euphèle Milcé",
+            "Yanick Lahens"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Dany Laferrière a reçu le prix Médicis pour son œuvre 'L’Enigme du retour'."
+    },
+    {
+        "id": "culture-48f240",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse 'Petwo' est associée aux rituels vodou dynamiques.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La danse Petwo est énergique et associée à des rituels vodou puissants."
+    },
+    {
+        "id": "culture-22e701",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel poète haïtien est l’auteur de 'Choucoune' ?",
+        "options": [
+            "Gary Victor",
+            "Oswald Durand",
+            "Ida Faubert",
+            "René Depestre"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Oswald Durand est l’auteur du poème 'Choucoune', mis en musique sous le nom 'Yellow Bird'."
+    },
+    {
+        "id": "culture-b4b55a",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 'mayi moulen' est une préparation à base de maïs moulu.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le mayi moulen est une bouillie ou accompagnement de maïs moulu souvent servi avec des haricots."
+    },
+    {
+        "id": "culture-101885",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est aussi connu comme militant politique et social ?",
+        "options": [
+            "Tabou Combo",
+            "Sweet Micky",
+            "Emeline Michel",
+            "Wyclef Jean"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Wyclef Jean, membre des Fugees, s’est engagé politiquement pour Haïti."
+    },
+    {
+        "id": "culture-128ec4",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La fête du drapeau haïtien est célébrée à l’Arcahaie.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’Arcahaie est la ville où le drapeau haïtien a été créé en 1803."
+    },
+    {
+        "id": "culture-69acea",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a écrit 'La Fermeture' ?",
+        "options": [
+            "Gary Victor",
+            "Frankétienne",
+            "Lyonel Trouillot",
+            "Yanick Lahens"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Lyonel Trouillot est un écrivain contemporain auteur de 'La Fermeture'."
+    },
+    {
+        "id": "culture-864a78",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le carnaval de Jacmel met en avant des masques en papier mâché.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les masques en papier mâché sont une spécialité artisanale du carnaval de Jacmel."
+    },
+    {
+        "id": "culture-49aeaf",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel groupe haïtien est connu pour la chanson 'Haiti Twoubadou' ?",
+        "options": [
+            "Carimi",
+            "Boukan Ginen",
+            "T-Vice",
+            "Tabou Combo"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Boukan Ginen a popularisé la chanson 'Haiti Twoubadou'."
+    },
+    {
+        "id": "culture-b35b54",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La cuisine haïtienne utilise souvent des épices fortes et du piment.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La cuisine haïtienne est réputée pour ses plats relevés au piment et aux épices locales."
+    },
+    {
+        "id": "culture-7f36b6",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a écrit 'Bicentenaire' ?",
+        "options": [
+            "Lyonel Trouillot",
+            "Gary Victor",
+            "Frankétienne",
+            "Yanick Lahens"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Lyonel Trouillot a publié 'Bicentenaire' en 2004."
+    },
+    {
+        "id": "culture-a4bd50",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 'pain patate' est un dessert haïtien à base de patate douce.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le pain patate est un dessert populaire à base de patate douce, lait et épices."
+    },
+    {
+        "id": "culture-08443e",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel groupe haïtien est associé à la chanson 'Se Kreyòl Nou Ye' ?",
+        "options": [
+            "Tabou Combo",
+            "T-Vice",
+            "Carimi",
+            "Boukman Eksperyans"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Boukman Eksperyans a popularisé 'Se Kreyòl Nou Ye', un hymne identitaire."
+    },
+    {
+        "id": "culture-1399a1",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La 'sauce pois' accompagne souvent le riz haïtien.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La sauce pois, faite à base de haricots, accompagne presque toujours le riz en Haïti."
+    }
   ]
 }
