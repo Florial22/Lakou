@@ -1,13 +1,58 @@
+import type { QuizMeta } from '../types/quiz'
+export let lastQuizSource: 'remote' | 'local' = 'local';
+export let lastQuizWasFallback = false;
+
+
+export let lastQuizMeta: QuizMeta | null = null;
+
+
 import type { QuizData, QuizItem, QuizMode, QuizCategory } from '../types/quiz';
 
-export async function loadQuizData(lang: 'fr' | 'ht' = 'fr'): Promise<QuizData> {
-  const url = `/assets/quiz/questions.${lang}.json`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error('quiz_not_found');
-  const data = await res.json();
-  if (!data?.questions?.length) throw new Error('quiz_empty');
-  return data as QuizData;
+  export async function loadQuizData(lang: 'fr' | 'ht' = 'fr'): Promise<QuizData> {
+  console.log('[Lakou] VITE_QUIZ_REMOTE =', import.meta.env.VITE_QUIZ_REMOTE);
+  const remoteBase = (import.meta.env.VITE_QUIZ_REMOTE ?? '').trim();
+  const localUrl = `${import.meta.env.BASE_URL}assets/quiz/questions.${lang}.json`;
+
+  // Helper with timeout
+  async function fetchWithTimeout(url: string, ms = 6000) {
+    const ctrl = new AbortController();
+    const id = setTimeout(() => ctrl.abort(), ms);
+    try {
+      const res = await fetch(url, { signal: ctrl.signal });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return res.json();
+    } finally {
+      clearTimeout(id);
+    }
+  }
+
+  // 1) Try remote first (with cache-buster in dev)
+  if (remoteBase) {
+    let remoteUrl = `${remoteBase}questions.${lang}.json`;
+    if (import.meta.env.DEV) remoteUrl += `?v=${Date.now()}`; // bypass CDN cache in dev
+    try {
+      const data = (await fetchWithTimeout(remoteUrl)) as QuizData;
+      if (data?.questions?.length) {
+        lastQuizSource = 'remote';
+        lastQuizWasFallback = false;
+        console.info('[quiz] remote loaded:', remoteUrl, `(${data.questions.length} q)`);
+        return data;
+      }
+      console.warn('[quiz] remote returned no questions, falling back:', remoteUrl);
+    } catch (e) {
+      console.warn('[quiz] remote failed, falling back:', e);
+    }
+  }
+
+  // 2) Fallback to bundled local file
+  const data = (await fetchWithTimeout(localUrl)) as QuizData;
+  if (!(data?.questions?.length)) throw new Error('quiz_empty');
+  lastQuizSource = 'local';
+  lastQuizWasFallback = !!remoteBase; // true if we *tried* remote and fell back
+  console.info('[quiz] local loaded:', localUrl, `(${data.questions.length} q)`);
+  return data;
 }
+
 
 export function shuffle<T>(arr: T[]): T[] {
   const a = arr.slice();
@@ -17,6 +62,9 @@ export function shuffle<T>(arr: T[]): T[] {
   }
   return a;
 }
+
+
+
 
 // Sélectionne 10 questions selon le mode (catégorie ou Général)
 export function pickTen(questions: QuizItem[], mode: QuizMode): QuizItem[] {

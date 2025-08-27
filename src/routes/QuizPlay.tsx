@@ -2,6 +2,8 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { loadQuizData, pickTen } from '../lib/loadQuiz';
 import type { PlayedQuestion, QuizItem, QuizMode } from '../types/quiz';
+import { lastQuizSource, lastQuizWasFallback } from '../lib/loadQuiz';
+
 
 type NavState = { mode?: QuizMode };
 
@@ -272,6 +274,19 @@ export default function QuizPlay() {
           />
         </div>
       </div>
+
+      {/* Source badges */}
+    <div className="mt-3 flex items-center justify-between">
+      <span className="text-[11px] px-2 py-1 rounded-full border border-[#2A2A2E]">
+        Données : {lastQuizSource === 'remote' ? 'En ligne' : 'Locale'}
+      </span>
+      {lastQuizWasFallback && (
+        <span className="text-[11px] text-yellow-400">
+          Mode hors-ligne : questions locales
+        </span>
+      )}
+    </div>
+
 
       {/* Question card */}
       <section className="card p-6 space-y-4">
