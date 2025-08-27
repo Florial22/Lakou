@@ -1,0 +1,4636 @@
+{
+  "meta": { "version": 1, "language": "fr" },
+  "questions": [
+    {
+    "id": "hist-indep-1804",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "En quelle année Haïti a déclaré son indépendance ?",
+    "options": ["1791", "1804", "1825", "1844"],
+    "correct": [1],
+    "explication": "L’indépendance est proclamée le 1ᵉʳ janvier 1804."
+  },
+  {
+    "id": "hist-vertieres-1803",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "En quelle année a eu lieu la bataille de Vertières ?",
+    "options": ["1801", "1802", "1803", "1804"],
+    "correct": [2],
+    "explication": "Le 18 novembre 1803, dernière grande bataille contre les troupes françaises."
+  },
+  {
+    "id": "hist-proclamateur",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Quel dirigeant haïtien a proclamé l’indépendance en 1804 ?",
+    "options": ["Toussaint Louverture", "Jean-Jacques Dessalines", "Henri Christophe", "Alexandre Pétion"],
+    "correct": [1],
+    "explication": "Dessalines proclame l’indépendance à Gonaïves."
+  },
+  {
+    "id": "hist-debut-revolution",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "En quelle année débute la Révolution haïtienne ?",
+    "options": ["1789", "1791", "1794", "1802"],
+    "correct": [1],
+    "explication": "L’insurrection générale éclate en août 1791 à Saint-Domingue."
+  },
+  {
+    "id": "hist-citadelle",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Qui a fait construire la Citadelle Laferrière ?",
+    "options": ["Jean-Jacques Dessalines", "Henri Christophe", "Alexandre Pétion", "Faustin Soulouque"],
+    "correct": [1],
+    "explication": "Henri Christophe lance sa construction au début du XIXᵉ siècle."
+  },
+  {
+    "id": "hist-constitution-1805",
+    "categorie": "Histoire",
+    "type": "boolean",
+    "question": "La Constitution de 1805 déclare que tous les citoyens haïtiens sont « Noirs ».",
+    "options": ["Faux", "Vrai"],
+    "correct": [1],
+    "explication": "Cette disposition affirmait l’égalité et rompait avec la hiérarchie raciale coloniale."
+  },
+  {
+    "id": "hist-reconnaissance-1825",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Quelle puissance reconnaît l’indépendance d’Haïti en 1825 contre une indemnité ?",
+    "options": ["Espagne", "France", "Royaume-Uni", "États-Unis"],
+    "correct": [1],
+    "explication": "Ordonnance de Charles X en 1825, contre une lourde indemnité."
+  },
+  {
+    "id": "hist-fort-de-joux",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Quel chef de la Révolution haïtienne, déporté en 1802, est mort au Fort de Joux ?",
+    "options": ["Toussaint Louverture", "Jean-Jacques Dessalines", "Henri Christophe", "Alexandre Pétion"],
+    "correct": [0],
+    "explication": "Toussaint Louverture meurt en captivité au Fort de Joux en 1803."
+  },
+  {
+    "id": "hist-occupation-us",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "Quel pays a occupé Haïti de 1915 à 1934 ?",
+    "options": ["France", "Espagne", "Royaume-Uni", "États-Unis"],
+    "correct": [3],
+    "explication": "Les troupes américaines stationnent en Haïti de 1915 à 1934."
+  },
+  {
+    "id": "hist-1986-duvalier",
+    "categorie": "Histoire",
+    "type": "single",
+    "question": "La chute de quel dirigeant en 1986 met fin à la dictature des Duvalier ?",
+    "options": ["François Duvalier", "Jean-Claude Duvalier", "Prosper Avril", "Raoul Cédras"],
+    "correct": [1],
+    "explication": "Jean-Claude « Baby Doc » Duvalier quitte le pays en 1986."
+  },
+  {
+        "id": 1,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quelle est la date officielle de l’indépendance d’Haïti ?",
+        "options": [
+            "12 janvier 2010",
+            "1er janvier 1804",
+            "14 juillet 1789",
+            "7 février 1986"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti a proclamé son indépendance le 1er janvier 1804 à Gonaïves."
+    },
+    {
+        "id": 2,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui est considéré comme le père de la nation haïtienne ?",
+        "options": [
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines",
+            "Toussaint Louverture"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jean-Jacques Dessalines a mené la lutte finale pour l’indépendance et est reconnu comme le père de la nation."
+    },
+    {
+        "id": 3,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a dirigé la cérémonie du Bois Caïman en août 1791 ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Dutty Boukman",
+            "Mackandal",
+            "Toussaint Louverture"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Dutty Boukman, prêtre vodou, a dirigé la cérémonie du Bois Caïman qui a marqué le début de l’insurrection générale."
+    },
+    {
+        "id": 4,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a fait construire la Citadelle Laferrière ?",
+        "options": [
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Faustin Soulouque",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Henri Christophe fit construire la Citadelle Laferrière, symbole de résistance et de souveraineté."
+    },
+    {
+        "id": 5,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Haïti fut la première république noire indépendante du monde.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "En 1804, Haïti devint la première république noire indépendante du monde."
+    },
+    {
+        "id": 6,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut le premier empereur d’Haïti ?",
+        "options": [
+            "Toussaint Louverture",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jean-Jacques Dessalines s’est proclamé empereur Jacques Ier en 1804."
+    },
+    {
+        "id": 7,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut renversé le 7 février 1986 ?",
+        "options": [
+            "Jean-Claude Duvalier",
+            "Raoul Cédras",
+            "Prosper Avril",
+            "François Duvalier"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Claude Duvalier, surnommé 'Baby Doc', fut renversé le 7 février 1986 après 29 ans de dictature familiale."
+    },
+    {
+        "id": 8,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Un tremblement de terre dévastateur a frappé Haïti le 12 janvier 2010.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le séisme du 12 janvier 2010 a causé plus de 200 000 morts et de lourds dégâts."
+    },
+    {
+        "id": 9,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut la première femme présidente d’Haïti ?",
+        "options": [
+            "Claudette Werleigh",
+            "Ertha Pascal-Trouillot",
+            "Michele Pierre-Louis",
+            "Mirlande Manigat"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Ertha Pascal-Trouillot a été présidente provisoire de 1990 à 1991."
+    },
+    {
+        "id": 10,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été assassiné en 2021 ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "Michel Martelly",
+            "René Préval",
+            "Jovenel Moïse"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jovenel Moïse a été assassiné le 7 juillet 2021 dans sa résidence privée."
+    },
+    {
+        "id": 11,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a fondé la ville du Cap-Haïtien au XVIIe siècle ?",
+        "options": [
+            "Les Espagnols",
+            "Les Marrons",
+            "Les colons français",
+            "Les Américains"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le Cap-Haïtien fut fondé par les colons français en 1670 sous le nom de Cap-Français."
+    },
+    {
+        "id": 12,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 1990 lors des premières élections démocratiques ?",
+        "options": [
+            "Jovenel Moïse",
+            "Michel Martelly",
+            "Jean-Bertrand Aristide",
+            "René Préval"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jean-Bertrand Aristide a remporté les élections démocratiques de décembre 1990."
+    },
+    {
+        "id": 13,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Toussaint Louverture a été capturé et envoyé en France où il est mort en prison.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Toussaint Louverture a été capturé par les troupes de Napoléon en 1802 et est mort en prison au Fort de Joux en 1803."
+    },
+    {
+        "id": 14,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été surnommé 'Papa Doc' ?",
+        "options": [
+            "Jean-Claude Duvalier",
+            "François Duvalier",
+            "Sténio Vincent",
+            "Paul Magloire"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "François Duvalier, médecin de formation, était surnommé 'Papa Doc'."
+    },
+    {
+        "id": 15,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel héros de l’indépendance a été tué à Pont-Rouge en 1806 ?",
+        "options": [
+            "Toussaint Louverture",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jean-Jacques Dessalines a été assassiné le 17 octobre 1806 à Pont-Rouge."
+    },
+    {
+        "id": 16,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Haïti a aboli l’esclavage en 1804.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’abolition de l’esclavage fut proclamée en même temps que l’indépendance en 1804."
+    },
+    {
+        "id": 17,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a succédé à René Préval en 2011 ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Boniface Alexandre",
+            "Michel Martelly"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Michel Martelly a été élu président en 2011 après René Préval."
+    },
+    {
+        "id": 18,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui est connu comme 'l’âme de la révolution haïtienne' ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Mackandal",
+            "Henri Christophe",
+            "Toussaint Louverture"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Toussaint Louverture est surnommé 'l’âme de la révolution' pour son rôle central dans la lutte."
+    },
+    {
+        "id": 19,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quelle capitale remplaça Cap-Français après l’indépendance ?",
+        "options": [
+            "Saint-Marc",
+            "Port-au-Prince",
+            "Jacmel",
+            "Les Cayes"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Après l’indépendance, Port-au-Prince devint la capitale en remplacement du Cap-Français."
+    },
+    {
+        "id": 20,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le massacre des Français ordonné par Dessalines eut lieu en 1804.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "En 1804, Dessalines ordonna le massacre des colons français restés en Haïti."
+    },
+    {
+        "id": 21,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 2006 après la crise politique ?",
+        "options": [
+            "Michel Martelly",
+            "Jovenel Moïse",
+            "Jean-Bertrand Aristide",
+            "René Préval"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "René Préval a été élu en 2006 après le départ d’Aristide en 2004."
+    },
+    {
+        "id": 22,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel général haïtien a défendu Vertières en 1803 ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Toussaint Louverture",
+            "Capois La Mort",
+            "Henri Christophe"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Capois La Mort s’est illustré à la bataille de Vertières le 18 novembre 1803."
+    },
+    {
+        "id": 23,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La Constitution de 1805 interdit aux Blancs de posséder des terres en Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Constitution impériale de 1805 interdisait aux Blancs de posséder des terres en Haïti."
+    },
+    {
+        "id": 24,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui était président d’Haïti lors du séisme du 12 janvier 2010 ?",
+        "options": [
+            "Michel Martelly",
+            "René Préval",
+            "Jovenel Moïse",
+            "Jean-Bertrand Aristide"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "René Préval était président lors du séisme du 12 janvier 2010."
+    },
+    {
+        "id": 25,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 2016 ?",
+        "options": [
+            "René Préval",
+            "Michel Martelly",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jovenel Moïse a été élu président en novembre 2016 et investi en février 2017."
+    },
+    {
+        "id": 26,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a succédé à Jean-Jacques Dessalines après son assassinat en 1806 ?",
+        "options": [
+            "Toussaint Louverture",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Pierre Boyer"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Après l’assassinat de Dessalines, le pays fut divisé : Pétion prit le sud comme président, Christophe domina le nord."
+    },
+    {
+        "id": 27,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été surnommé 'Baby Doc' ?",
+        "options": [
+            "Élie Lescot",
+            "Jean-Claude Duvalier",
+            "Sténio Vincent",
+            "François Duvalier"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Jean-Claude Duvalier, fils de François Duvalier, était surnommé 'Baby Doc'."
+    },
+    {
+        "id": 28,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La bataille de Vertières s’est déroulée en 1803.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La bataille de Vertières a eu lieu le 18 novembre 1803 et a scellé la victoire des troupes haïtiennes."
+    },
+    {
+        "id": 29,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a dirigé le pays de 2001 à 2004 avant d’être renversé ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "René Préval",
+            "Jovenel Moïse",
+            "Michel Martelly"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Bertrand Aristide fut renversé pour la seconde fois en 2004."
+    },
+    {
+        "id": 30,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel général haïtien est connu pour avoir résisté héroïquement à la bataille de Crête-à-Pierrot en 1802 ?",
+        "options": [
+            "Toussaint Louverture",
+            "Capois La Mort",
+            "Jean-Jacques Dessalines",
+            "Henri Christophe"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jean-Jacques Dessalines a dirigé la défense héroïque de Crête-à-Pierrot en mars 1802."
+    },
+    {
+        "id": 31,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Henri Christophe s’est proclamé roi d’Haïti en 1811.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Henri Christophe s’est proclamé roi et a établi un royaume dans le nord en 1811."
+    },
+    {
+        "id": 32,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a été président d’Haïti de 1996 à 2001 ?",
+        "options": [
+            "René Préval",
+            "Michel Martelly",
+            "Jovenel Moïse",
+            "Jean-Bertrand Aristide"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "René Préval a exercé deux mandats : 1996-2001 et 2006-2011."
+    },
+    {
+        "id": 33,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel pays a reconnu officiellement l’indépendance d’Haïti en 1825 en échange d’une indemnité ?",
+        "options": [
+            "La France",
+            "Les États-Unis",
+            "Le Royaume-Uni",
+            "L’Espagne"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La France a reconnu Haïti en 1825 en échange d’une lourde indemnité coloniale."
+    },
+    {
+        "id": 34,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le président Sténio Vincent a dirigé Haïti pendant les années 1930.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Sténio Vincent a été président de 1930 à 1941."
+    },
+    {
+        "id": 35,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut assassiné au palais national en 1915 ?",
+        "options": [
+            "Cincinnatus Leconte",
+            "Elie Lescot",
+            "Vilbrun Guillaume Sam",
+            "Michel Oreste"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le président Vilbrun Guillaume Sam fut lynché en juillet 1915, entraînant l’occupation américaine."
+    },
+    {
+        "id": 36,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quelle fut la durée de l’occupation américaine d’Haïti ?",
+        "options": [
+            "1957-1971",
+            "1915-1934",
+            "1804-1825",
+            "2004-2006"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’occupation américaine dura de 1915 à 1934."
+    },
+    {
+        "id": 37,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 1957 et a instauré une dictature ?",
+        "options": [
+            "Paul Magloire",
+            "Sténio Vincent",
+            "François Duvalier",
+            "Jean-Claude Duvalier"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "François Duvalier fut élu en 1957 et instaura une dictature appuyée sur les Tontons Macoutes."
+    },
+    {
+        "id": 38,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le drapeau haïtien fut adopté pour la première fois en 1803.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le drapeau bleu et rouge fut créé à l’Arcahaie en mai 1803."
+    },
+    {
+        "id": 39,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a fondé la Garde d’Haïti en 1915 ?",
+        "options": [
+            "Henri Namphy",
+            "René Préval",
+            "Les Américains",
+            "François Duvalier"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "La Garde d’Haïti fut créée par les forces américaines lors de l’occupation."
+    },
+    {
+        "id": 40,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut l’unique empereur d’Haïti après Dessalines ?",
+        "options": [
+            "Faustin Soulouque",
+            "Jean-Pierre Boyer",
+            "Alexandre Pétion",
+            "Henri Christophe"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Faustin Soulouque se proclama empereur Faustin Ier en 1849."
+    },
+    {
+        "id": 41,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La révolte des esclaves de 1791 a débuté dans le nord de Saint-Domingue.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La grande insurrection d’août 1791 a éclaté dans le nord de la colonie."
+    },
+    {
+        "id": 42,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien est mort dans l’explosion du palais national en 1912 ?",
+        "options": [
+            "Cincinnatus Leconte",
+            "Vilbrun Guillaume Sam",
+            "Michel Oreste",
+            "Jean Price-Mars"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le président Cincinnatus Leconte est mort dans une explosion mystérieuse en 1912."
+    },
+    {
+        "id": 43,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a dirigé le gouvernement provisoire après la chute de Jean-Claude Duvalier en 1986 ?",
+        "options": [
+            "Ertha Pascal-Trouillot",
+            "Henri Namphy",
+            "Prosper Avril",
+            "Marc Bazin"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le général Henri Namphy prit la tête du Conseil National de Gouvernement en 1986."
+    },
+    {
+        "id": 44,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut élu en 1995 par intérim avant l’élection de Préval ?",
+        "options": [
+            "Émile Jonassaint",
+            "Boniface Alexandre",
+            "Ertha Pascal-Trouillot",
+            "Marc Bazin"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Émile Jonassaint fut président provisoire en 1994-1995 avant le retour de Préval."
+    },
+    {
+        "id": 45,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La révolution haïtienne a commencé en 1791.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’insurrection des esclaves débuta en août 1791, marquant le début de la révolution."
+    },
+    {
+        "id": 46,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut élu en 2000 avant d’être renversé en 2004 ?",
+        "options": [
+            "Michel Martelly",
+            "Jovenel Moïse",
+            "Jean-Bertrand Aristide",
+            "René Préval"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Aristide remporta les élections de 2000 mais fut renversé en 2004."
+    },
+    {
+        "id": 47,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut le premier président noir élu démocratiquement en Haïti en 1990 ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Michel Martelly"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Aristide fut élu lors des premières élections libres en décembre 1990."
+    },
+    {
+        "id": 48,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel événement de 1802 a affaibli les troupes françaises de Napoléon à Saint-Domingue ?",
+        "options": [
+            "L’intervention britannique",
+            "La mort de Toussaint Louverture",
+            "La fièvre jaune",
+            "La bataille de Vertières"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "La fièvre jaune décima les troupes françaises envoyées par Napoléon en 1802."
+    },
+    {
+        "id": 49,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le Code Rural fut instauré en 1826 par Jean-Pierre Boyer.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Pierre Boyer instaura le Code Rural en 1826 pour contrôler la main-d’œuvre agricole."
+    },
+    {
+        "id": 51,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel traité signa Jean-Pierre Boyer avec la France en 1825 ?",
+        "options": [
+            "Traité de Paris",
+            "Reconnaissance de l’indépendance",
+            "Traité de Ryswick",
+            "Concordat religieux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "En 1825, Boyer signa avec la France un traité reconnaissant l’indépendance d’Haïti en échange d’une indemnité."
+    },
+    {
+        "id": 52,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a fait construire le Palais Sans-Souci ?",
+        "options": [
+            "Faustin Soulouque",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le roi Henri Christophe fit construire le Palais Sans-Souci, résidence royale dans le nord d’Haïti."
+    },
+    {
+        "id": 53,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le président Florvil Hyppolite est mort en 1896 alors qu’il était en fonction.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Florvil Hyppolite mourut subitement en 1896 pendant son mandat."
+    },
+    {
+        "id": 54,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a signé le Concordat avec le Vatican en 1860 ?",
+        "options": [
+            "Michel Oreste",
+            "Faustin Soulouque",
+            "Jean-Pierre Boyer",
+            "Geffrard"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Le président Fabre Geffrard signa le Concordat avec le Vatican en 1860."
+    },
+    {
+        "id": 55,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La bataille de Crête-à-Pierrot a eu lieu en 1802.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La bataille de Crête-à-Pierrot opposa les troupes haïtiennes aux forces françaises en mars 1802."
+    },
+    {
+        "id": 56,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut le président haïtien assassiné en 1915, entraînant l’occupation américaine ?",
+        "options": [
+            "Florvil Hyppolite",
+            "Cincinnatus Leconte",
+            "Vilbrun Guillaume Sam",
+            "Elie Lescot"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Vilbrun Guillaume Sam fut tué en juillet 1915, précipitant l’intervention américaine."
+    },
+    {
+        "id": 57,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a aboli la monarchie d’Henri Christophe ?",
+        "options": [
+            "Jean-Pierre Boyer",
+            "Faustin Soulouque",
+            "Florvil Hyppolite",
+            "Alexandre Pétion"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Pierre Boyer réunifia le pays après la mort de Christophe en 1820."
+    },
+    {
+        "id": 58,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le drapeau haïtien est bleu et rouge.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le drapeau national est bleu et rouge, inspiré de la version de 1803."
+    },
+    {
+        "id": 59,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 1950 au suffrage universel direct ?",
+        "options": [
+            "Sténio Vincent",
+            "Paul Magloire",
+            "Élie Lescot",
+            "François Duvalier"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Paul Magloire a été élu en 1950 lors des premières élections modernes au suffrage direct."
+    },
+    {
+        "id": 60,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a ordonné le massacre des Français restés en Haïti après l’indépendance ?",
+        "options": [
+            "Toussaint Louverture",
+            "Alexandre Pétion",
+            "Jean-Jacques Dessalines",
+            "Henri Christophe"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Dessalines ordonna le massacre des colons français en 1804."
+    },
+    {
+        "id": 61,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La Constitution de 1987 est toujours en vigueur en Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Constitution de 1987, malgré plusieurs amendements, est toujours en vigueur."
+    },
+    {
+        "id": 62,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a gouverné le plus longtemps au XIXe siècle ?",
+        "options": [
+            "Faustin Soulouque",
+            "Jean-Pierre Boyer",
+            "Henri Christophe",
+            "Alexandre Pétion"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Jean-Pierre Boyer a gouverné de 1818 à 1843, soit 25 ans."
+    },
+    {
+        "id": 63,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le massacre de Jérémie de 1964 a eu lieu sous François Duvalier.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "En 1964, des opposants furent massacrés à Jérémie sur ordre du régime de François Duvalier."
+    },
+    {
+        "id": 64,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui était président d’Haïti lors de l’occupation américaine de 1915 ?",
+        "options": [
+            "Cincinnatus Leconte",
+            "Paul Magloire",
+            "Vilbrun Guillaume Sam",
+            "Philippe Sudré Dartiguenave"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Après l’assassinat de Guillaume Sam, Dartiguenave fut placé président par les Américains."
+    },
+    {
+        "id": 65,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien est revenu au pouvoir en 1994 avec l’aide des États-Unis ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Michel Martelly"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Aristide fut restauré en 1994 après un coup d’État en 1991."
+    },
+    {
+        "id": 66,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La Citadelle Laferrière est classée au patrimoine mondial de l’UNESCO.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Depuis 1982, la Citadelle est inscrite au patrimoine mondial."
+    },
+    {
+        "id": 67,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a dirigé après Michel Martelly en 2016 ?",
+        "options": [
+            "Jovenel Moïse",
+            "Claude Joseph",
+            "Jean-Bertrand Aristide",
+            "René Préval"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jovenel Moïse succéda à Michel Martelly en 2016."
+    },
+    {
+        "id": 68,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui a signé l’Acte de l’Indépendance d’Haïti en 1804 ?",
+        "options": [
+            "Alexandre Pétion",
+            "Toussaint Louverture",
+            "Henri Christophe",
+            "Jean-Jacques Dessalines"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jean-Jacques Dessalines proclama l’indépendance le 1er janvier 1804."
+    },
+    {
+        "id": 69,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Haïti a participé à la création de l’ONU en 1945.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti fut membre fondateur de l’Organisation des Nations Unies en 1945."
+    },
+    {
+        "id": 70,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut élu après la chute de Baby Doc en 1990 ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "Ertha Pascal-Trouillot",
+            "Marc Bazin",
+            "René Préval"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Aristide remporta les élections de décembre 1990."
+    },
+    {
+        "id": 71,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut l’ennemi principal des troupes haïtiennes lors de la bataille de Vertières ?",
+        "options": [
+            "Les Américains",
+            "Les troupes françaises",
+            "Les Britanniques",
+            "Les Espagnols"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "À Vertières en 1803, les troupes haïtiennes affrontèrent les Français."
+    },
+    {
+        "id": 72,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La dynastie des Duvalier a gouverné Haïti de 1957 à 1986.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "François puis Jean-Claude Duvalier ont régné de 1957 à 1986."
+    },
+    {
+        "id": 73,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut en fonction lors du séisme de 2021 ?",
+        "options": [
+            "Claude Joseph",
+            "Jovenel Moïse",
+            "Michel Martelly",
+            "Ariel Henry"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "En août 2021, Ariel Henry était Premier ministre lors du séisme du sud."
+    },
+    {
+        "id": 74,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel roi d’Haïti a instauré un système de noblesse dans le nord ?",
+        "options": [
+            "Henri Christophe",
+            "Jean-Jacques Dessalines",
+            "Faustin Soulouque",
+            "Alexandre Pétion"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Henri Christophe établit un système de noblesse héréditaire dans son royaume."
+    },
+
+    {
+        "id": 76,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 1879 après la chute de Boisrond-Canal ?",
+        "options": [
+            "Sténio Vincent",
+            "Florvil Hyppolite",
+            "Michel Oreste",
+            "Lysius Salomon"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Lysius Salomon devint président en 1879 après le départ de Boisrond-Canal."
+    },
+    {
+        "id": 77,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Jean-Bertrand Aristide a été président d’Haïti à trois reprises.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Aristide fut élu en 1990, revenu en 1994, puis réélu en 2000."
+    },
+    {
+        "id": 78,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel empereur haïtien s’est suicidé en 1820 après une révolte ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Alexandre Pétion",
+            "Henri Christophe",
+            "Faustin Soulouque"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Henri Christophe s’est donné la mort en octobre 1820 face à une rébellion."
+    },
+    {
+        "id": 79,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La Constitution de 1801 a été proclamée par Toussaint Louverture.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Toussaint Louverture proclama une Constitution autonome en 1801, bien qu’il restât fidèle à la France."
+    },
+    {
+        "id": 80,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a dirigé après la chute de Jean-Claude Duvalier ?",
+        "options": [
+            "Marc Bazin",
+            "Henri Namphy",
+            "René Préval",
+            "Jean-Bertrand Aristide"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Henri Namphy prit la tête du Conseil National de Gouvernement en 1986."
+    },
+    {
+        "id": 81,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le président Sam a été assassiné en 1915.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Vilbrun Guillaume Sam fut lynché en juillet 1915, entraînant l’occupation américaine."
+    },
+    {
+        "id": 82,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président a dirigé Haïti de 1971 à 1986 ?",
+        "options": [
+            "Jean-Claude Duvalier",
+            "René Préval",
+            "Michel Martelly",
+            "François Duvalier"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Claude Duvalier, dit 'Baby Doc', succéda à son père en 1971 et régna jusqu’en 1986."
+    },
+    {
+        "id": 83,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le mouvement des Cacos s’opposa à plusieurs présidents au XIXe et au XXe siècle.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les Cacos, groupes armés paysans, furent actifs dans les luttes politiques d’Haïti."
+    },
+    {
+        "id": 84,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut président d’Haïti lors de l’indépendance de la République Dominicaine en 1844 ?",
+        "options": [
+            "Faustin Soulouque",
+            "Geffrard",
+            "Charles Rivière-Hérard",
+            "Jean-Pierre Boyer"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Charles Rivière-Hérard était président lors de la séparation dominicaine en 1844."
+    },
+    {
+        "id": 85,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La bataille de Vertières s’est déroulée le 18 novembre 1803.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La victoire de Vertières scella l’indépendance d’Haïti en 1803."
+    },
+    {
+        "id": 86,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a pris le pouvoir en 1870 ?",
+        "options": [
+            "Michel Oreste",
+            "Florvil Hyppolite",
+            "Nissage Saget",
+            "Sténio Vincent"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Nissage Saget fut élu président en 1870 après la chute de Sylvain Salnave."
+    },
+    {
+        "id": 87,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La dynastie des Duvalier a commencé en 1957.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "François Duvalier fut élu président en 1957, inaugurant la dynastie familiale."
+    },
+    {
+        "id": 88,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président fut en fonction durant l’invasion américaine de 1994 ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Émile Jonassaint",
+            "Boniface Alexandre"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Émile Jonassaint était président provisoire lors de l’opération américaine 'Uphold Democracy' en 1994."
+    },
+    {
+        "id": 89,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "L’occupation américaine d’Haïti dura 19 ans.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’occupation dura de 1915 à 1934, soit 19 ans."
+    },
+    {
+        "id": 90,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut le président haïtien assassiné en 2021 ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Michel Martelly"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le président Jovenel Moïse fut assassiné le 7 juillet 2021."
+    },
+    {
+        "id": 91,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Jean-Pierre Boyer a dirigé Haïti pendant plus de 20 ans.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean-Pierre Boyer a dirigé de 1818 à 1843."
+    },
+    {
+        "id": 92,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien fut au pouvoir lors du tremblement de terre de 2010 ?",
+        "options": [
+            "René Préval",
+            "Jean-Bertrand Aristide",
+            "Michel Martelly",
+            "Jovenel Moïse"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "René Préval était président le 12 janvier 2010 lors du séisme dévastateur."
+    },
+    {
+        "id": 93,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La première Constitution haïtienne a été adoptée en 1805.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Constitution impériale de 1805 fut adoptée sous Dessalines."
+    },
+    {
+        "id": 94,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président a remplacé René Préval en 2011 ?",
+        "options": [
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse",
+            "Michel Martelly",
+            "Boniface Alexandre"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Michel Martelly fut élu en 2011."
+    },
+    {
+        "id": 95,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le président Florvil Hyppolite est arrivé au pouvoir en 1889.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Florvil Hyppolite devint président en 1889 et resta en fonction jusqu’en 1896."
+    },
+    {
+        "id": 96,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Qui fut l’empereur Faustin Ier ?",
+        "options": [
+            "Jean-Jacques Dessalines",
+            "Henri Christophe",
+            "Faustin Soulouque",
+            "Alexandre Pétion"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Faustin Soulouque se proclama empereur Faustin Ier en 1849."
+    },
+    {
+        "id": 97,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "La révolution haïtienne a inspiré d’autres mouvements d’indépendance en Amérique latine.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La révolution haïtienne a eu une influence majeure sur les luttes d’indépendance dans les Amériques."
+    },
+    {
+        "id": 98,
+        "categorie": "Histoire",
+        "type": "single",
+        "question": "Quel président haïtien a été élu en 2006 après la crise politique ?",
+        "options": [
+            "René Préval",
+            "Michel Martelly",
+            "Jean-Bertrand Aristide",
+            "Jovenel Moïse"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "René Préval remporta les élections de 2006 après le départ d’Aristide en 2004."
+    },
+    {
+        "id": 99,
+        "categorie": "Histoire",
+        "type": "boolean",
+        "question": "Le palais national d’Haïti a été gravement endommagé en 2010.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le séisme du 12 janvier 2010 a détruit le palais national."
+    },
+
+  
+
+
+
+
+  {
+    "id": "geo-departements",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel est le nombre total de départements en Haïti ?",
+    "options": ["8", "10", "9", "12"],
+    "correct": [1],
+    "explication": "Haïti est officiellement divisée en 10 départements administratifs."
+  },
+  {
+    "id": "geo-capitale",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quelle est la capitale d'Haïti ?",
+    "options": ["Jacmel", "Cap-Haïtien", "Port-au-Prince", "Gonaïves"],
+    "correct": [2],
+    "explication": "Port-au-Prince est la capitale et le centre politique et économique d'Haïti."
+  },
+  {
+    "id": "geo-sommet",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel est le point culminant d'Haïti ?",
+    "options": ["Pic Macaya", "Massif de la Hotte", "Morne La Selle", "Pic La Selle"],
+    "correct": [2],
+    "explication": "Le Morne La Selle, avec ses 2 680 mètres, est le plus haut sommet d'Haïti."
+  },
+  {
+    "id": "geo-lac",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel est le plus grand lac d'Haïti ?",
+    "options": ["Lac de Péligre", "Lac Miragoâne", "Étang Saumâtre", "Lac Azuei"],
+    "correct": [2],
+    "explication": "L'Étang Saumâtre est le plus grand lac d'Haïti et se trouve dans l'est du pays."
+  },
+  {
+    "id": "geo-ile",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quelle île partage Haïti avec la République dominicaine ?",
+    "options": ["Cuba", "La Jamaïque", "Hispaniola", "Porto Rico"],
+    "correct": [2],
+    "explication": "Haïti et la République Dominicaine se partagent l'île d'Hispaniola."
+  },
+  {
+    "id": "geo-grande-ile",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quelle est la plus grande île d'Haïti ?",
+    "options": ["Île de la Tortue", "Île à Vache", "Grande Cayemite", "Île de la Gonâve"],
+    "correct": [3],
+    "explication": "L'Île de la Gonâve, située dans le golfe du même nom, est la plus grande île du pays."
+  },
+  {
+    "id": "geo-fleuve-frontiere",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel fleuve sert de frontière naturelle sur une partie de la frontière nord entre Haïti et la République dominicaine ?",
+    "options": ["Fleuve Artibonite", "Fleuve Dajabón", "Rivière de la Grande Anse", "Fleuve des Cayes"],
+    "correct": [1],
+    "explication": "Le fleuve Dajabón, aussi appelé le fleuve Massacre, sert de frontière naturelle entre les deux pays sur une partie de sa longueur."
+  },
+  {
+    "id": "geo-golfe",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quel golfe baigne la côte ouest d'Haïti ?",
+    "options": ["Golfe du Mexique", "Golfe de Guinée", "Golfe de la Gonâve", "Baie de Port-au-Prince"],
+    "correct": [2],
+    "explication": "Le Golfe de la Gonâve est un grand golfe qui baigne la côte ouest d'Haïti et qui contient l'île de la Gonâve."
+  },
+  {
+    "id": "geo-peninsule-sud",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Quelle chaîne de montagnes traverse la péninsule du Sud d'Haïti ?",
+    "options": ["Le Massif du Nord", "La Chaîne de la Selle", "Le Massif de la Hotte", "La Chaîne des Matheux"],
+    "correct": [2],
+    "explication": "Le Massif de la Hotte est la principale chaîne de montagnes qui traverse la péninsule du Sud d'Haïti."
+  },
+  {
+    "id": "geo-cap-haitien",
+    "categorie": "Géographie",
+    "type": "single",
+    "question": "Dans quel département se trouve la ville historique du Cap-Haïtien ?",
+    "options": ["Ouest", "Nord", "Nord-Est", "Nord-Ouest"],
+    "correct": [1],
+    "explication": "Le Cap-Haïtien est la ville principale et le chef-lieu du département du Nord."
+  },
+
+    {
+        "id": "geo-ba9cc6",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le plus haut sommet d'Haïti ?",
+        "options": [
+            "Morne l’Hôpital",
+            "Morne la Selle",
+            "Morne du Cap",
+            "Morne Macaya"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le Morne la Selle culmine à environ 2 680 mètres, ce qui en fait le plus haut sommet d’Haïti."
+    },
+    {
+        "id": "geo-985c74",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la plus longue rivière d’Haïti ?",
+        "options": [
+            "Rivière Grise",
+            "Rivière Artibonite",
+            "Rivière Blanche",
+            "Rivière Momance"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’Artibonite est la plus longue rivière d’Haïti et elle joue un rôle essentiel dans l’agriculture."
+    },
+    {
+        "id": "geo-38af51",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le plus grand lac d’Haïti ?",
+        "options": [
+            "Lac Azuei",
+            "Lac de Péligre",
+            "Lac Saumâtre",
+            "Lac Miragoâne"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le Lac Saumâtre, également appelé Étang Saumâtre, est le plus grand lac d’Haïti."
+    },
+    {
+        "id": "geo-6f218f",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti partage une frontière terrestre avec la République dominicaine.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Haïti occupe le tiers ouest de l’île d’Hispaniola et partage sa frontière avec la République dominicaine."
+    },
+    {
+        "id": "geo-8daf21",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle chaîne de montagnes traverse la péninsule du Sud d'Haïti ?",
+        "options": [
+            "Le Massif du Nord",
+            "La Chaîne de la Selle",
+            "Le Massif de la Hotte",
+            "La Chaîne des Matheux"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le Massif de la Hotte est la principale chaîne de montagnes qui traverse la péninsule du Sud d'Haïti."
+    },
+    {
+        "id": "geo-81ea06",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Port-au-Prince est située dans le département de l’Ouest.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Port-au-Prince se situe dans le département de l’Ouest."
+    },
+    {
+        "id": "geo-4d6c2b",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est le plus vaste d’Haïti ?",
+        "options": [
+            "Nord",
+            "Ouest",
+            "Artibonite",
+            "Sud"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le département de l’Artibonite est le plus vaste d’Haïti."
+    },
+    {
+        "id": "geo-2c3daa",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le deuxième plus grand port d’Haïti après Port-au-Prince ?",
+        "options": [
+            "Gonaïves",
+            "Jacmel",
+            "Cap-Haïtien",
+            "Miragoâne"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le port du Cap-Haïtien est le deuxième plus important du pays."
+    },
+    {
+        "id": "geo-e00618",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Morne Macaya est situé dans le Sud d’Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Morne Macaya, culminant à 2 347 mètres, est situé dans le département du Sud."
+    },
+    {
+        "id": "geo-d05f3a",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le point le plus bas d’Haïti ?",
+        "options": [
+            "Lac de Péligre",
+            "Mer des Caraïbes",
+            "Plaine du Cul-de-Sac",
+            "Étang Saumâtre"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "L’Étang Saumâtre (Lac Azuei) est situé sous le niveau de la mer et constitue le point le plus bas du pays."
+    },
+    {
+        "id": "geo-a1dd65",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "L’île de la Gonâve est située en face de Port-au-Prince.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’île de la Gonâve se trouve dans le golfe de la Gonâve, en face de Port-au-Prince."
+    },
+    {
+        "id": "geo-536c14",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le plus grand département d’Haïti en population ?",
+        "options": [
+            "Ouest",
+            "Artibonite",
+            "Sud-Est",
+            "Nord"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le département de l’Ouest, qui inclut Port-au-Prince, est le plus peuplé."
+    },
+    {
+        "id": "geo-a84aec",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Plaine du Nord est une zone agricole fertile.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Plaine du Nord est l’une des principales régions agricoles du pays."
+    },
+    {
+        "id": "geo-ad6a2c",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le principal aéroport international d’Haïti ?",
+        "options": [
+            "Aéroport des Cayes",
+            "Aéroport de Jacmel",
+            "Aéroport du Cap-Haïtien",
+            "Aéroport Toussaint Louverture"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "L’aéroport international Toussaint Louverture, situé à Port-au-Prince, est le principal du pays."
+    },
+    {
+        "id": "geo-3da61f",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Massif du Nord se situe dans la partie septentrionale d’Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Massif du Nord traverse la partie septentrionale du pays."
+    },
+    {
+        "id": "geo-55dc05",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle mer borde Haïti au sud ?",
+        "options": [
+            "Mer des Caraïbes",
+            "Mer Rouge",
+            "Mer Méditerranée",
+            "Océan Atlantique"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La côte sud d’Haïti est bordée par la mer des Caraïbes."
+    },
+    {
+        "id": "geo-81521e",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le fleuve Artibonite prend sa source en République dominicaine.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’Artibonite prend sa source en République dominicaine et traverse Haïti."
+    },
+    {
+        "id": "geo-04cc0e",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle baie est connue pour la bataille navale de 1816 ?",
+        "options": [
+            "Baie de Jacmel",
+            "Baie de Miragoâne",
+            "Baie de Port-au-Prince",
+            "Baie de Môle-Saint-Nicolas"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "La baie de Môle-Saint-Nicolas fut le théâtre d’événements navals importants."
+    },
+    {
+        "id": "geo-8ffe47",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Presqu’île du Sud est aussi appelée péninsule Tiburon.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La péninsule du Sud est également connue sous le nom de péninsule de Tiburon."
+    },
+    {
+        "id": "geo-f862cf",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le deuxième plus grand lac d’Haïti après l’Étang Saumâtre ?",
+        "options": [
+            "Lac Péligre",
+            "Lac Miragoâne",
+            "Étang Douat",
+            "Lac Azuei"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le lac Miragoâne, situé dans le département de Nippes, est le deuxième plus grand du pays."
+    },
+    {
+        "id": "geo-de3606",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le climat haïtien est principalement tropical.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le climat d’Haïti est de type tropical, avec une saison sèche et une saison humide."
+    },
+    {
+        "id": "geo-213a5f",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle île haïtienne est située au nord-ouest du pays ?",
+        "options": [
+            "Île de la Tortue",
+            "Île Cabrits",
+            "Île de la Gonâve",
+            "Île-à-Vache"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Tortue est située au large du nord-ouest d’Haïti."
+    },
+    {
+        "id": "geo-20089e",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le lac de Péligre est un lac artificiel créé par un barrage.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le lac de Péligre a été créé suite à la construction du barrage hydroélectrique du même nom."
+    },
+    {
+        "id": "geo-c6bff2",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel golfe se trouve devant Port-au-Prince ?",
+        "options": [
+            "Golfe du Venezuela",
+            "Golfe de Saint-Laurent",
+            "Golfe de la Gonâve",
+            "Golfe du Mexique"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Port-au-Prince est située sur le golfe de la Gonâve."
+    },
+    {
+        "id": "geo-9c3f6f",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Pic la Selle est plus haut que le Morne Macaya.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Pic la Selle (2 680 m) est plus élevé que le Morne Macaya (2 347 m)."
+    },
+    {
+        "id": "geo-73234d",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est connu comme le grenier agricole d’Haïti ?",
+        "options": [
+            "Artibonite",
+            "Nord",
+            "Sud",
+            "Ouest"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’Artibonite est surnommée le grenier d’Haïti grâce à sa production agricole."
+    },
+    {
+        "id": "geo-b25624",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti est situé sur l’île d’Hispaniola.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti occupe le tiers ouest de l’île d’Hispaniola, qu’elle partage avec la République dominicaine."
+    },
+    {
+        "id": "geo-2ebd20",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département abrite la ville du Cap-Haïtien ?",
+        "options": [
+            "Nord",
+            "Sud",
+            "Ouest",
+            "Centre"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Cap-Haïtien est situé dans le département du Nord."
+    },
+    {
+        "id": "geo-53c1bc",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "L’île-à-Vache se trouve au large du département du Sud.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’île-à-Vache est une petite île située près de la côte sud d’Haïti."
+    },
+    {
+        "id": "geo-168e0b",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le principal fleuve utilisé pour l’irrigation du riz en Haïti ?",
+        "options": [
+            "Rivière Artibonite",
+            "Rivière Momance",
+            "Rivière Grise",
+            "Rivière Blanche"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La vallée de l’Artibonite est la principale région de culture du riz en Haïti."
+    },
+    {
+        "id": "geo-787960",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le climat de la côte nord d’Haïti est influencé par l’océan Atlantique.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La côte nord, exposée à l’Atlantique, connaît plus d’humidité que la côte sud."
+    },
+    {
+        "id": "geo-e16c39",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département haïtien est limitrophe de la République dominicaine ?",
+        "options": [
+            "Sud",
+            "Nord-Est",
+            "Nippes",
+            "Ouest"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département du Nord-Est partage une frontière terrestre avec la République dominicaine."
+    },
+    {
+        "id": "geo-31543b",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Parc National Macaya est situé dans le département du Sud.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Parc National Macaya se trouve dans le massif de la Hotte, dans le Sud."
+    },
+    {
+        "id": "geo-9c8949",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle île est connue pour avoir été un repaire de pirates au XVIIe siècle ?",
+        "options": [
+            "Île Cabrits",
+            "Île de la Gonâve",
+            "Île-à-Vache",
+            "Île de la Tortue"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "L’île de la Tortue fut un repaire célèbre des boucaniers et pirates."
+    },
+    {
+        "id": "geo-5f9b2e",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Centre est dépourvu de littoral.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le département du Centre est enclavé et n’a pas d’accès direct à la mer."
+    },
+    {
+        "id": "geo-f9fb85",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le principal lac d’eau douce d’Haïti ?",
+        "options": [
+            "Lac Péligre",
+            "Lac Miragoâne",
+            "Étang Saumâtre",
+            "Lac Azuei"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le lac Miragoâne est le plus grand lac naturel d’eau douce du pays."
+    },
+    {
+        "id": "geo-e2d374",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Les côtes haïtiennes sont bordées de récifs coralliens.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les récifs coralliens sont présents tout au long des côtes haïtiennes."
+    },
+    {
+        "id": "geo-b6848b",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est le moins peuplé d’Haïti ?",
+        "options": [
+            "Centre",
+            "Nippes",
+            "Nord-Ouest",
+            "Sud-Est"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département des Nippes est l’un des moins peuplés du pays."
+    },
+    {
+        "id": "geo-a0b800",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Massif de la Selle contient le plus haut sommet d’Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Pic la Selle culmine à 2 680 mètres dans la Chaîne de la Selle."
+    },
+    {
+        "id": "geo-cc49a8",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est surnommée la Cité de l’Indépendance ?",
+        "options": [
+            "Jacmel",
+            "Gonaïves",
+            "Cap-Haïtien",
+            "Les Cayes"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les Gonaïves sont appelées Cité de l’Indépendance car l’acte de 1804 y fut proclamé."
+    },
+    {
+        "id": "geo-5e8e1b",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Plaine du Cul-de-Sac est située près de Port-au-Prince.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La plaine du Cul-de-Sac se trouve à l’est de Port-au-Prince et abrite l’Étang Saumâtre."
+    },
+    {
+        "id": "geo-7c48be",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le principal aéroport du nord d’Haïti ?",
+        "options": [
+            "Aéroport du Cap-Haïtien",
+            "Aéroport de Jacmel",
+            "Aéroport des Cayes",
+            "Aéroport Toussaint Louverture"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’aéroport du Cap-Haïtien dessert la région nord du pays."
+    },
+    {
+        "id": "geo-de4922",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Les montagnes haïtiennes occupent environ les deux tiers du territoire.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti est un pays très montagneux, avec environ 2/3 de son territoire couvert de montagnes."
+    },
+    {
+        "id": "geo-8e5d39",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel golfe se situe au nord-ouest d’Haïti ?",
+        "options": [
+            "Golfe de Môle-Saint-Nicolas",
+            "Golfe du Mexique",
+            "Golfe de Saint-Laurent",
+            "Golfe de la Gonâve"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le golfe de Môle-Saint-Nicolas se situe au nord-ouest du pays."
+    },
+    {
+        "id": "geo-f1f23a",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Sud-Est est traversé par la Chaîne de la Selle.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La Chaîne de la Selle traverse le département du Sud-Est où se trouve le Pic la Selle."
+    },
+    {
+        "id": "geo-85cefc",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville côtière est réputée pour son carnaval et son architecture coloniale ?",
+        "options": [
+            "Cap-Haïtien",
+            "Gonaïves",
+            "Jacmel",
+            "Port-de-Paix"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jacmel est célèbre pour son carnaval et son architecture coloniale."
+    },
+    {
+        "id": "geo-7b7d5c",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Massif de la Hotte se trouve dans le département du Sud.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Massif de la Hotte est situé dans la péninsule sud d’Haïti."
+    },
+    {
+        "id": "geo-8cabec",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la deuxième ville la plus peuplée d’Haïti après Port-au-Prince ?",
+        "options": [
+            "Les Cayes",
+            "Gonaïves",
+            "Jacmel",
+            "Cap-Haïtien"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Cap-Haïtien est la deuxième ville du pays par sa population."
+    },
+    {
+        "id": "geo-3cca3f",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le littoral haïtien mesure environ 1 500 kilomètres.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le littoral haïtien est estimé à environ 1 500 km de longueur."
+    },
+    {
+        "id": "geo-534a35",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "L’île de la Gonâve est située dans le département du Centre.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Gonâve est située dans le département de l’Ouest, en face de Port-au-Prince."
+    },
+    {
+        "id": "geo-00821e",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département abrite la ville des Cayes ?",
+        "options": [
+            "Sud",
+            "Ouest",
+            "Nord",
+            "Artibonite"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La ville des Cayes se situe dans le département du Sud."
+    },
+    {
+        "id": "geo-514367",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Plaine de l’Artibonite est une des zones agricoles les plus productives d’Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Plaine de l’Artibonite est connue pour sa production de riz."
+    },
+    {
+        "id": "geo-f8fb83",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est surnommée la Perle des Antilles ?",
+        "options": [
+            "Port-au-Prince",
+            "Cap-Haïtien",
+            "Port-de-Paix",
+            "Jacmel"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Cap-Haïtien a longtemps été surnommée la Perle des Antilles."
+    },
+    {
+        "id": "geo-50b5ea",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département de l’Ouest comprend l’île de la Gonâve.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Gonâve appartient administrativement au département de l’Ouest."
+    },
+    {
+        "id": "geo-6aad45",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est frontalier avec la mer des Caraïbes au sud ?",
+        "options": [
+            "Sud",
+            "Nord",
+            "Centre",
+            "Nord-Est"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le département du Sud est frontalier avec la mer des Caraïbes au sud."
+    },
+    {
+        "id": "geo-70b4c5",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti possède plusieurs plaines fertiles.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "On retrouve la plaine de l’Artibonite, du Cul-de-Sac, et la Plaine du Nord."
+    },
+    {
+        "id": "geo-6a0736",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est un port important du Nord-Ouest ?",
+        "options": [
+            "Jacmel",
+            "Miragoâne",
+            "Les Cayes",
+            "Port-de-Paix"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Port-de-Paix est la principale ville portuaire du Nord-Ouest."
+    },
+    {
+        "id": "geo-553ed7",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La rivière Grise traverse Port-au-Prince.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La rivière Grise traverse la région de Port-au-Prince."
+    },
+    {
+        "id": "geo-6780e6",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville haïtienne est réputée pour ses plages et son tourisme ?",
+        "options": [
+            "Cap-Haïtien",
+            "Hinche",
+            "Gonaïves",
+            "Jacmel"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jacmel est célèbre pour ses plages et son carnaval."
+    },
+    {
+        "id": "geo-c74a43",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Massif de la Hotte est situé dans la presqu’île du Sud.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Massif de la Hotte est localisé dans la presqu’île du Sud."
+    },
+    {
+        "id": "geo-be17f3",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département abrite la ville de Jacmel ?",
+        "options": [
+            "Sud-Est",
+            "Ouest",
+            "Nippes",
+            "Nord"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jacmel est située dans le département du Sud-Est."
+    },
+    {
+        "id": "geo-6716e9",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La presqu’île du Nord-Ouest est une extension du Massif du Nord.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La péninsule du Nord-Ouest est une prolongation du Massif du Nord."
+    },
+    {
+        "id": "geo-99450b",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est la capitale du département de l’Artibonite ?",
+        "options": [
+            "Hinche",
+            "Gonaïves",
+            "Cap-Haïtien",
+            "St-Marc"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les Gonaïves sont la capitale administrative de l’Artibonite."
+    },
+    {
+        "id": "geo-1ae6bf",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Centre est traversé par la rivière Guayamouc.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La rivière Guayamouc traverse le département du Centre."
+    },
+    {
+        "id": "geo-a1cedb",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est située sur la côte sud-ouest d’Haïti ?",
+        "options": [
+            "Port-de-Paix",
+            "Jacmel",
+            "Cap-Haïtien",
+            "Les Cayes"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Les Cayes se trouvent sur la côte sud-ouest."
+    },
+    {
+        "id": "geo-7ae988",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La plaine du Cul-de-Sac est connue pour son lac salé, l’Étang Saumâtre.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "L’Étang Saumâtre est un lac salé situé dans la plaine du Cul-de-Sac."
+    },
+    {
+        "id": "geo-dd4bdc",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est un centre administratif important du Plateau Central ?",
+        "options": [
+            "Hinche",
+            "Cap-Haïtien",
+            "Les Cayes",
+            "Jacmel"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Hinche est la capitale administrative du Plateau Central."
+    },
+    {
+        "id": "geo-5bd3d8",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département des Nippes est l’un des plus jeunes départements d’Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département des Nippes a été créé en 2003."
+    },
+    {
+        "id": "geo-3d45fc",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville côtière est située dans le département du Nord-Est ?",
+        "options": [
+            "Cap-Haïtien",
+            "Jacmel",
+            "Fort-Liberté",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Fort-Liberté est la capitale du département du Nord-Est."
+    },
+    {
+        "id": "geo-22b344",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le Morne la Vigie se trouve dans le département du Nord-Ouest.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Morne la Vigie est une montagne importante du Nord-Ouest."
+    },
+    {
+        "id": "geo-7a6c02",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est un port majeur du département du Sud-Est ?",
+        "options": [
+            "Cap-Haïtien",
+            "Port-de-Paix",
+            "Jacmel",
+            "Miragoâne"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jacmel possède un port important dans le Sud-Est."
+    },
+    {
+        "id": "geo-d46f2a",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Nord-Est abrite la rivière Massacre, frontière naturelle avec la République dominicaine.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La rivière Massacre marque une partie de la frontière entre Haïti et la République dominicaine."
+    },
+    {
+        "id": "geo-41b42d",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville haïtienne est connue comme un centre historique et culturel du Nord ?",
+        "options": [
+            "Jacmel",
+            "Les Cayes",
+            "Cap-Haïtien",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Cap-Haïtien est un centre historique majeur avec la Citadelle et Sans-Souci."
+    },
+    {
+        "id": "geo-7b9d70",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La chaîne des Matheux est située entre Port-au-Prince et Saint-Marc.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La chaîne des Matheux est une chaîne de montagnes située au centre-ouest du pays."
+    },
+    {
+        "id": "geo-cccf43",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la superficie approximative d’Haïti ?",
+        "options": [
+            "10 000 km²",
+            "75 000 km²",
+            "50 000 km²",
+            "27 750 km²"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "La superficie d’Haïti est d’environ 27 750 km²."
+    },
+    {
+        "id": "geo-90fdae",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti a une plus grande superficie que la République dominicaine.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La République dominicaine est environ deux fois plus grande qu’Haïti."
+    },
+    {
+        "id": "geo-e0d916",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le plus petit département d’Haïti en superficie ?",
+        "options": [
+            "Nippes",
+            "Nord-Est",
+            "Ouest",
+            "Centre"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le département des Nippes est le plus petit en superficie."
+    },
+    {
+        "id": "geo-2e992a",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti a une seule langue officielle.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti a deux langues officielles : le créole haïtien et le français."
+    },
+    {
+        "id": "geo-29c5f4",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département abrite la ville de Miragoâne ?",
+        "options": [
+            "Nippes",
+            "Artibonite",
+            "Sud-Est",
+            "Nord-Ouest"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Miragoâne est la capitale du département des Nippes."
+    },
+    {
+        "id": "geo-d60c93",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Nord-Ouest comprend l’île de la Tortue.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Tortue fait partie du département du Nord-Ouest."
+    },
+    {
+        "id": "geo-677273",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est la capitale du département du Centre ?",
+        "options": [
+            "Hinche",
+            "Belladère",
+            "Mirebalais",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Hinche est la capitale administrative du département du Centre."
+    },
+    {
+        "id": "geo-c6081e",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La péninsule du Sud est aussi appelée péninsule de Tiburon.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La presqu’île du Sud est aussi appelée péninsule de Tiburon."
+    },
+    {
+        "id": "geo-f7e003",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le département situé le plus au nord d’Haïti ?",
+        "options": [
+            "Artibonite",
+            "Nord",
+            "Nord-Est",
+            "Nord-Ouest"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département du Nord est le plus septentrional."
+    },
+    {
+        "id": "geo-087658",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le département du Sud abrite le Parc National Macaya.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Parc Macaya est situé dans le massif de la Hotte, dans le Sud."
+    },
+    {
+        "id": "geo-3f9fa5",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la ville principale du département du Nord-Est ?",
+        "options": [
+            "Cap-Haïtien",
+            "Gonaïves",
+            "Fort-Liberté",
+            "Ouanaminthe"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Fort-Liberté est la capitale du Nord-Est."
+    },
+    {
+        "id": "geo-fd0d6c",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti est entouré de la mer des Caraïbes et de l’océan Atlantique.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Haïti est bordé au sud par la mer des Caraïbes et au nord par l’océan Atlantique."
+    },
+    {
+        "id": "geo-4d7a18",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est surnommée la Cité Christophe ?",
+        "options": [
+            "Hinche",
+            "Cap-Haïtien",
+            "Port-au-Prince",
+            "Les Cayes"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Cap-Haïtien est surnommée la Cité Christophe en hommage au roi Henri Christophe."
+    },
+    {
+        "id": "geo-b90729",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La rivière Massacre se trouve à la frontière avec la République dominicaine.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La rivière Massacre sépare une partie d’Haïti et de la République dominicaine."
+    },
+    {
+        "id": "geo-d7e09d",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle île se situe au sud-ouest d’Haïti ?",
+        "options": [
+            "Île Cabrits",
+            "Île de la Tortue",
+            "Île-à-Vache",
+            "Île de la Gonâve"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "L’île-à-Vache est située au large des Cayes, dans le Sud."
+    },
+    {
+        "id": "geo-b82fe8",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "La Plaine du Nord est propice à l’agriculture.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La Plaine du Nord est une région agricole fertile."
+    },
+    {
+        "id": "geo-b6aa69",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle est la capitale du département du Sud-Est ?",
+        "options": [
+            "Jacmel",
+            "Miragoâne",
+            "Les Cayes",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jacmel est la capitale du département du Sud-Est."
+    },
+    {
+        "id": "geo-74f663",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Le climat d’Haïti comprend une saison sèche et une saison pluvieuse.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Haïti connaît un climat tropical avec deux saisons principales."
+    },
+    {
+        "id": "geo-74a955",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quelle ville est la capitale du département de l’Ouest ?",
+        "options": [
+            "Hinche",
+            "Jacmel",
+            "Cap-Haïtien",
+            "Port-au-Prince"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Port-au-Prince est la capitale du département de l’Ouest."
+    },
+    {
+        "id": "geo-25becd",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Haïti est divisé en 10 départements.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Haïti compte 10 départements administratifs."
+    },
+    {
+        "id": "geo-8de03f",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel est le département où se situe Port-de-Paix ?",
+        "options": [
+            "Nord-Ouest",
+            "Nord",
+            "Artibonite",
+            "Sud"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Port-de-Paix est la capitale du Nord-Ouest."
+    },
+    {
+        "id": "geo-f1e047",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "L’île de la Tortue est au large de Port-de-Paix.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’île de la Tortue est située face à Port-de-Paix."
+    },
+    {
+        "id": "geo-05add2",
+        "categorie": "Géographie",
+        "type": "single",
+        "question": "Quel département est situé entre le Nord et l’Ouest ?",
+        "options": [
+            "Sud",
+            "Artibonite",
+            "Sud-Est",
+            "Centre"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le département de l’Artibonite se situe entre le Nord et l’Ouest."
+    },
+    {
+        "id": "geo-804fdc",
+        "categorie": "Géographie",
+        "type": "boolean",
+        "question": "Les Gonaïves se trouvent sur la côte des Caraïbes.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les Gonaïves sont situées au bord de la baie des Gonaïves, sur la mer des Caraïbes."
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": "cult-kompa-origines",
+      "categorie": "Culture",
+      "type": "boolean",
+      "question": "Le kompa (konpa) est un genre musical né en Haïti dans les années 1950.",
+      "options": ["Faux", "Vrai"],
+      "correct": [1],
+      "explication": "Popularisé par Nemours Jean-Baptiste à la fin des années 1950, le kompa est devenu l’un des styles phares de la musique haïtienne."
+    },
+
+       {
+        "id": "culture-847f21",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quelle ville haïtienne est réputée pour son carnaval coloré et ses masques artisanaux ?",
+        "options": [
+            "Les Cayes",
+            "Cap-Haïtien",
+            "Port-au-Prince",
+            "Jacmel"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jacmel est mondialement connue pour son carnaval haut en couleur et ses masques traditionnels."
+    },
+    {
+        "id": "culture-392166",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le vodou haïtien est reconnu comme une religion officielle en Haïti depuis 2003.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le vodou a été officiellement reconnu comme religion par l’État haïtien en 2003."
+    },
+    {
+        "id": "culture-485aa3",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat traditionnel est consommé le 1er janvier pour célébrer l’indépendance ?",
+        "options": [
+            "Soup joumou",
+            "Marinad",
+            "Griot",
+            "Diri ak djon djon"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La soupe joumou est consommée chaque 1er janvier pour commémorer l’indépendance."
+    },
+    {
+        "id": "culture-5e514f",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le compas est un style musical haïtien populaire.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le compas (ou konpa) est un style musical haïtien inventé par Nemours Jean-Baptiste dans les années 1950."
+    },
+    {
+        "id": "culture-239d23",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quelle boisson gazeuse est emblématique d’Haïti ?",
+        "options": [
+            "Kleren",
+            "Malta",
+            "Cola Couronne",
+            "Prestige"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le Cola Couronne est une boisson gazeuse emblématique et populaire en Haïti."
+    },
+    {
+        "id": "culture-a06cae",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse Yanvalou est associée au rituel vodou.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le Yanvalou est une danse traditionnelle pratiquée dans les cérémonies vodou."
+    },
+    {
+        "id": "culture-8969b9",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur du roman 'Gouverneurs de la rosée' ?",
+        "options": [
+            "Dany Laferrière",
+            "Jacques Roumain",
+            "Frankétienne",
+            "René Depestre"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Jacques Roumain est l’auteur de 'Gouverneurs de la rosée', un classique de la littérature haïtienne."
+    },
+    {
+        "id": "culture-889245",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est une musique traditionnelle haïtienne jouée pendant la période de Pâques.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le rara est une musique festive et populaire jouée pendant le carême et à Pâques."
+    },
+    {
+        "id": "culture-f546f5",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel instrument est largement utilisé dans la musique rara ?",
+        "options": [
+            "Piano",
+            "Violon",
+            "Guitare",
+            "Cornet en bambou"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Les cornes en bambou et les tambours sont des instruments phares du rara."
+    },
+    {
+        "id": "culture-da827f",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le griot est un plat haïtien préparé avec du porc frit.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le griot est un plat emblématique de porc mariné et frit, servi avec du riz ou du pikliz."
+    },
+    {
+        "id": "culture-1f44d6",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel artiste haïtien est connu pour ses peintures naïves colorées ?",
+        "options": [
+            "Philomé Obin",
+            "Jean-Michel Basquiat",
+            "Hector Hyppolite",
+            "Edouard Duval-Carrié"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Hector Hyppolite est un peintre haïtien célèbre pour ses œuvres naïves et spirituelles."
+    },
+    {
+        "id": "culture-447cfd",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le konpa dirèk a été inventé par Nemours Jean-Baptiste.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Nemours Jean-Baptiste est considéré comme le père du konpa dirèk."
+    },
+    {
+        "id": "culture-6f2f09",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat est préparé avec des champignons noirs appelés 'djon djon' ?",
+        "options": [
+            "Mayi moulen",
+            "Soup joumou",
+            "Lalo",
+            "Diri ak djon djon"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Le 'diri ak djon djon' est un plat typique de riz préparé avec des champignons noirs haïtiens."
+    },
+    {
+        "id": "culture-2db05d",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La fête du drapeau haïtien est célébrée le 18 mai.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Chaque 18 mai, Haïti célèbre la création de son drapeau à l’Arcahaie en 1803."
+    },
+    {
+        "id": "culture-8f2432",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est surnommé 'le roi du kompa' ?",
+        "options": [
+            "Nemours Jean-Baptiste",
+            "Carimi",
+            "T-Vice",
+            "Sweet Micky"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Nemours Jean-Baptiste est reconnu comme le roi du kompa."
+    },
+    {
+        "id": "culture-ad9188",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La peinture haïtienne est souvent caractérisée par des couleurs vives et des scènes de la vie quotidienne.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les peintures haïtiennes représentent souvent des scènes de marché, de campagne et des fêtes."
+    },
+    {
+        "id": "culture-3bcdb3",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a été élu à l’Académie française ?",
+        "options": [
+            "Jacques Roumain",
+            "René Depestre",
+            "Frankétienne",
+            "Dany Laferrière"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Dany Laferrière est le premier auteur haïtien élu à l’Académie française en 2013."
+    },
+    {
+        "id": "culture-29c7cc",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse Rabòday est une tendance musicale récente en Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le Rabòday est une musique et danse urbaine moderne en Haïti."
+    },
+    {
+        "id": "culture-d34e50",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel aliment accompagne souvent le griot haïtien ?",
+        "options": [
+            "Bananes pesées",
+            "Toutes ces réponses",
+            "Riz collé",
+            "Pikliz"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le griot est traditionnellement servi avec du riz, des bananes pesées et du pikliz."
+    },
+    {
+        "id": "culture-a03649",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est joué uniquement dans les églises catholiques.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le rara est une musique de rue festive, associée aux traditions populaires et au vodou."
+    },
+    {
+        "id": "culture-7b934c",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel est le nom du théâtre populaire traditionnel en Haïti ?",
+        "options": [
+            "Lanmò",
+            "Languichatte",
+            "Teyat lakou",
+            "Lavi nan peyi"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le théâtre populaire traditionnel haïtien est appelé 'teyat lakou'."
+    },
+    {
+        "id": "culture-13707a",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La soupe joumou est un symbole de liberté en Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Autrefois interdite aux esclaves, la soupe joumou est devenue un symbole de liberté après l’indépendance."
+    },
+    {
+        "id": "culture-69950a",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est devenu président de la République ?",
+        "options": [
+            "Nemours Jean-Baptiste",
+            "Michel Martelly",
+            "Carlo Vieux",
+            "Wyclef Jean"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Michel Martelly, surnommé Sweet Micky, est passé de musicien à président d’Haïti."
+    },
+    {
+        "id": "culture-2a02f4",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le tambour est un instrument central dans la musique traditionnelle haïtienne.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le tambour rythme les danses, les cérémonies et la musique populaire haïtienne."
+    },
+    {
+        "id": "culture-63a5a4",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel poète haïtien est connu pour son œuvre 'Hadriana dans tous mes rêves' ?",
+        "options": [
+            "Dany Laferrière",
+            "Frankétienne",
+            "René Depestre",
+            "Jacques Roumain"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "René Depestre a publié le roman 'Hadriana dans tous mes rêves' en 1988."
+    },
+    {
+        "id": "culture-135fc5",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quelle boisson alcoolisée traditionnelle haïtienne est fabriquée à base de canne à sucre ?",
+        "options": [
+            "Prestige",
+            "Rhum Barbancourt",
+            "Malta",
+            "Kleren"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Le kleren est une boisson alcoolisée traditionnelle haïtienne issue de la distillation de la canne à sucre."
+    },
+    {
+        "id": "culture-3fa748",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La musique troubadour est un genre traditionnel haïtien.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les troubadours haïtiens jouent des chansons acoustiques populaires, souvent accompagnées de guitare."
+    },
+    {
+        "id": "culture-794e33",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est connu pour son œuvre 'Mûr à crever' ?",
+        "options": [
+            "Jacques Roumain",
+            "René Depestre",
+            "Dany Laferrière",
+            "Frankétienne"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Frankétienne, figure majeure de la littérature haïtienne, est l’auteur de 'Mûr à crever'."
+    },
+    {
+        "id": "culture-d05deb",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Le rara est principalement joué pendant quelle période ?",
+        "options": [
+            "Carême et Pâques",
+            "Fête du drapeau",
+            "Indépendance",
+            "Noël"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le rara est une musique festive et populaire jouée surtout pendant le carême et Pâques."
+    },
+    {
+        "id": "culture-d0ba44",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le festival de jazz de Port-au-Prince attire des musiciens internationaux.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le PAP Jazz Festival accueille chaque année des artistes de renommée mondiale."
+    },
+    {
+        "id": "culture-90e923",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a écrit 'Pays sans chapeau' ?",
+        "options": [
+            "Frankétienne",
+            "Jacques Roumain",
+            "René Depestre",
+            "Dany Laferrière"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Dany Laferrière est l’auteur du roman 'Pays sans chapeau'."
+    },
+    {
+        "id": "culture-7bc94f",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La Prestige est une bière produite en Haïti.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La bière Prestige est l’une des boissons les plus connues d’Haïti."
+    },
+    {
+        "id": "culture-6e0a81",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel groupe musical haïtien est célèbre pour son style compas direct ?",
+        "options": [
+            "T-Vice",
+            "Sweet Micky",
+            "Carimi",
+            "Tabou Combo"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Tabou Combo est un groupe mythique du compas haïtien, fondé en 1968."
+    },
+    {
+        "id": "culture-653a5f",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La fête de la musique rara est célébrée principalement dans les campagnes.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le rara est particulièrement répandu dans les zones rurales du pays."
+    },
+    {
+        "id": "culture-9a041e",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel peintre haïtien est associé à l’école du Cap-Haïtien ?",
+        "options": [
+            "Philomé Obin",
+            "Prefète Duffaut",
+            "Edouard Duval-Carrié",
+            "Hector Hyppolite"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Philomé Obin est un peintre majeur de l’école du Cap-Haïtien."
+    },
+    {
+        "id": "culture-966b73",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le festival international de film de Jacmel est un événement culturel important.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le festival de Jacmel est un rendez-vous majeur du cinéma en Haïti."
+    },
+    {
+        "id": "culture-6e1cd4",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel instrument de percussion est central dans le vodou ?",
+        "options": [
+            "Guitare",
+            "Violon",
+            "Tambour",
+            "Flûte"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le tambour est essentiel dans les cérémonies vodou."
+    },
+    {
+        "id": "culture-574b74",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le carnaval de Port-au-Prince est plus ancien que celui de Jacmel.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le carnaval de Jacmel est plus ancien et plus réputé pour son authenticité."
+    },
+    {
+        "id": "culture-6e078e",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel poète haïtien est l’auteur de 'Romancero aux étoiles' ?",
+        "options": [
+            "Ida Faubert",
+            "René Depestre",
+            "Jacques Roumain",
+            "Frankétienne"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "René Depestre a publié 'Romancero aux étoiles' en 1960."
+    },
+    {
+        "id": "culture-413937",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 1er janvier est célébré comme le jour de l’indépendance et de la soupe joumou.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Chaque 1er janvier, Haïti commémore son indépendance en partageant la soupe joumou."
+    },
+    {
+        "id": "culture-ce0f7f",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel chanteur haïtien est connu comme 'Sweet Micky' ?",
+        "options": [
+            "Wyclef Jean",
+            "Michel Martelly",
+            "Carlo Vieux",
+            "King Kino"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Michel Martelly, alias Sweet Micky, est un chanteur de compas devenu président."
+    },
+    {
+        "id": "culture-e7cbc2",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 'pikliz' est un condiment épicé haïtien à base de légumes marinés.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le pikliz est un condiment à base de chou, carottes, piments et vinaigre."
+    },
+    {
+        "id": "culture-8122cc",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien a été membre du groupe Fugees ?",
+        "options": [
+            "Michel Martelly",
+            "Carimi",
+            "Wyclef Jean",
+            "T-Vice"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Wyclef Jean, célèbre musicien haïtien, a fait partie du groupe américain Fugees."
+    },
+    {
+        "id": "culture-341f82",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse folklorique Yanvalou est dédiée au loa Damballah dans le vodou.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le Yanvalou est une danse dédiée à Damballah, l’un des loa du panthéon vodou."
+    },
+    {
+        "id": "culture-559781",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel peintre haïtien est connu pour ses fresques murales religieuses à Port-au-Prince ?",
+        "options": [
+            "Edouard Duval-Carrié",
+            "Préféte Duffaut",
+            "Basquiat",
+            "Philomé Obin"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Préféte Duffaut est célèbre pour ses fresques murales à caractère religieux."
+    },
+    {
+        "id": "culture-c21e8c",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La musique 'mizik rasin' mélange le vodou et les rythmes modernes.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La 'mizik rasin' fusionne les percussions vodou et les influences modernes."
+    },
+    {
+        "id": "culture-6c49d9",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur de 'Le Nègre marron' ?",
+        "options": [
+            "Jean Price-Mars",
+            "Ida Faubert",
+            "Frankétienne",
+            "Carl Brouard"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Jean Price-Mars est l’auteur de 'Le Nègre marron' et figure de la négritude haïtienne."
+    },
+    {
+        "id": "culture-7902d8",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Les tambours haïtiens portent parfois le nom de 'manman tanbou'.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le 'manman tanbou' est le tambour maître dans les cérémonies haïtiennes."
+    },
+    {
+        "id": "culture-0b54e2",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur de 'Mémoires d’un égaré' ?",
+        "options": [
+            "Gary Victor",
+            "Jacques Roumain",
+            "René Depestre",
+            "Dany Laferrière"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Gary Victor est un écrivain contemporain haïtien connu pour 'Mémoires d’un égaré'."
+    },
+    {
+        "id": "culture-d6ed63",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel chanteur haïtien est connu pour la chanson 'Anba Rad La' ?",
+        "options": [
+            "T-Vice",
+            "Emeline Michel",
+            "Boukman Eksperyans",
+            "Carimi"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Emeline Michel est une chanteuse haïtienne renommée, interprète de 'Anba Rad La'."
+    },
+    {
+        "id": "culture-d41285",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est une musique traditionnelle associée aux cérémonies funéraires.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le rara est une musique festive jouée lors du carême et des processions populaires."
+    },
+    {
+        "id": "culture-58fcb2",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a écrit 'L’espace d’un cillement' ?",
+        "options": [
+            "René Depestre",
+            "Gary Victor",
+            "Jacques Stephen Alexis",
+            "Frankétienne"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Jacques Stephen Alexis est l’auteur du roman 'L’espace d’un cillement'."
+    },
+    {
+        "id": "culture-4f5933",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse Yanvalou est pratiquée en l’honneur des esprits du vodou.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le Yanvalou est une danse dédiée aux esprits, notamment Damballah."
+    },
+    {
+        "id": "culture-674c61",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel artiste haïtien a popularisé la peinture surréaliste et vodouesque ?",
+        "options": [
+            "Basquiat",
+            "Hector Hyppolite",
+            "Edouard Duval-Carrié",
+            "Philomé Obin"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Edouard Duval-Carrié est un artiste contemporain qui mêle surréalisme et culture vodou."
+    },
+    {
+        "id": "culture-c943b9",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le festival 'Fête de la Mer' se déroule à Aquin.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La 'Fête de la Mer' est célébrée à Aquin chaque été avec musique et gastronomie."
+    },
+    {
+        "id": "culture-3c5153",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a publié 'Le goût des jeunes filles' ?",
+        "options": [
+            "Frankétienne",
+            "Gary Victor",
+            "Dany Laferrière",
+            "René Depestre"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Dany Laferrière est l’auteur de 'Le goût des jeunes filles'."
+    },
+    {
+        "id": "culture-1c4432",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La 'mizik rasin' s’inspire du vodou et des rythmes traditionnels.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La mizik rasin mélange percussions traditionnelles et influences modernes."
+    },
+    {
+        "id": "culture-6d172a",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat haïtien est à base de feuilles de lalo (corète potagère) ?",
+        "options": [
+            "Lalo",
+            "Marinad",
+            "Soup joumou",
+            "Griot"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le lalo est un plat préparé avec des feuilles de corète potagère, souvent avec du crabe."
+    },
+    {
+        "id": "culture-431140",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le tambour 'petwo' est utilisé dans certaines cérémonies vodou.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le tambour petwo est associé aux rituels énergiques du vodou."
+    },
+    {
+        "id": "culture-20a33a",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est l’auteur du morceau 'Ayiti Se' ?",
+        "options": [
+            "Emeline Michel",
+            "Tabou Combo",
+            "Boukman Eksperyans",
+            "Sweet Micky"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le groupe Boukman Eksperyans a popularisé la chanson 'Ayiti Se'."
+    },
+    {
+        "id": "culture-4ad725",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La 'Rara tech' est une fusion moderne de rara et de musique électronique.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La Rara tech est une évolution contemporaine qui mélange rara et sons électroniques."
+    },
+    {
+        "id": "culture-5f6920",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel auteur haïtien a écrit 'Compère Général Soleil' ?",
+        "options": [
+            "Dany Laferrière",
+            "Gary Victor",
+            "Jacques Roumain",
+            "Jacques Stephen Alexis"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Jacques Stephen Alexis est l’auteur du roman 'Compère Général Soleil'."
+    },
+    {
+        "id": "culture-e8d0d0",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le carnaval de Jacmel est inscrit au patrimoine culturel immatériel de l’UNESCO.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le carnaval de Jacmel est reconnu internationalement, mais pas inscrit à l’UNESCO."
+    },
+    {
+        "id": "culture-9fa315",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel groupe haïtien a popularisé la chanson 'Panama m Tombe' ?",
+        "options": [
+            "Carimi",
+            "Skah Shah",
+            "T-Vice",
+            "Tabou Combo"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Tabou Combo a popularisé 'Panama m Tombe', un succès international."
+    },
+    {
+        "id": "culture-f398d9",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Les 'marinades' sont des beignets frits populaires en Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les marinades sont de petits beignets salés très populaires en Haïti."
+    },
+    {
+        "id": "culture-eff224",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur du roman 'Clair de manbo' ?",
+        "options": [
+            "Frankétienne",
+            "Dany Laferrière",
+            "Jacques Roumain",
+            "Gary Victor"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Gary Victor est l’auteur du roman 'Clair de manbo', inspiré de la culture vodou."
+    },
+    {
+        "id": "culture-37a8cd",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse 'Ibo' est une danse traditionnelle haïtienne.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La danse Ibo est une danse traditionnelle d’origine africaine pratiquée en Haïti."
+    },
+    {
+        "id": "culture-7ef5f1",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat haïtien est préparé avec du maïs moulu et des haricots ?",
+        "options": [
+            "Soup joumou",
+            "Diri ak djon djon",
+            "Mayi moulen ak pwa",
+            "Griot"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Le mayi moulen ak pwa est un plat à base de maïs moulu et d’haricots."
+    },
+    {
+        "id": "culture-3874aa",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est joué avec des instruments comme les 'vaksin' (tubes de bambou).",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les vaksin en bambou sont des instruments phares du rara."
+    },
+    {
+        "id": "culture-d77c2a",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel auteur haïtien a écrit 'Texaco' ?",
+        "options": [
+            "Dany Laferrière",
+            "Frankétienne",
+            "René Depestre",
+            "Patrick Chamoiseau"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Patrick Chamoiseau est un auteur martiniquais, pas haïtien, mais souvent confondu avec la littérature caribéenne."
+    },
+    {
+        "id": "culture-b7c9bd",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 'rabòday' est un style de musique électronique haïtienne.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le rabòday est une musique urbaine populaire en Haïti, très dansée par la jeunesse."
+    },
+    {
+        "id": "culture-579672",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat haïtien est une soupe de poisson préparée dans le Sud ?",
+        "options": [
+            "Bouyon pwason",
+            "Lalo",
+            "Soup joumou",
+            "Diri ak pwa"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le bouyon pwason est une soupe de poisson traditionnelle dans le Sud d’Haïti."
+    },
+    {
+        "id": "culture-f339a6",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La tradition du conte oral est encore vivante en Haïti.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les contes et proverbes transmis oralement font partie intégrante de la culture haïtienne."
+    },
+    {
+        "id": "culture-e2f4dc",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien est l’auteur de 'Amour, colère et folie' ?",
+        "options": [
+            "Yanick Lahens",
+            "Marie Vieux-Chauvet",
+            "Ida Faubert",
+            "Edwidge Danticat"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Marie Vieux-Chauvet est l’auteure du roman 'Amour, colère et folie'."
+    },
+    {
+        "id": "culture-98ab46",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La 'mizik twoubadou' est jouée avec guitare et percussions légères.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les troubadours haïtiens utilisent souvent guitare, banjo et percussions."
+    },
+    {
+        "id": "culture-13b981",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a publié 'Le Cri des oiseaux fous' ?",
+        "options": [
+            "Dany Laferrière",
+            "Gary Victor",
+            "Frankétienne",
+            "René Depestre"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Dany Laferrière est l’auteur de 'Le Cri des oiseaux fous'."
+    },
+    {
+        "id": "culture-a8b406",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La fête patronale de Saut-d’Eau attire des pèlerins chaque été.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La fête de Saut-d’Eau en juillet attire des pèlerins catholiques et vodouisants."
+    },
+    {
+        "id": "culture-e3e416",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel plat haïtien est préparé avec du cabri (chèvre) mariné et frit ?",
+        "options": [
+            "Soup joumou",
+            "Tassot cabrit",
+            "Griot",
+            "Lalo"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le tassot cabrit est un plat de chèvre mariné puis frit, servi avec du riz et du pikliz."
+    },
+    {
+        "id": "culture-ebb171",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le rara est une musique exclusivement urbaine.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le rara est surtout rural, mais il est aussi présent dans les villes."
+    },
+    {
+        "id": "culture-a611fe",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel auteur haïtien a écrit 'Bonheur d’occasion' ?",
+        "options": [
+            "Gabrielle Roy",
+            "Jacques Roumain",
+            "Dany Laferrière",
+            "Frankétienne"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Gabrielle Roy est une écrivaine canadienne. La question met en évidence la distinction culturelle."
+    },
+    {
+        "id": "culture-d624fe",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La peinture haïtienne est internationalement reconnue pour son style naïf.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Les peintres haïtiens comme Hector Hyppolite et Philomé Obin ont popularisé ce style."
+    },
+    {
+        "id": "culture-67b5c3",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est le fondateur du groupe Carimi ?",
+        "options": [
+            "Mickaël Guirand",
+            "Richard Cavé",
+            "Tous",
+            "Carlo Vieux"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Carlo Vieux, Mickaël Guirand et Richard Cavé sont les fondateurs du groupe Carimi."
+    },
+    {
+        "id": "culture-11b4df",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le carnaval haïtien se déroule généralement en février.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Comme dans de nombreux pays, le carnaval précède le carême."
+    },
+    {
+        "id": "culture-9c0d18",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a reçu le prix Médicis en 2009 ?",
+        "options": [
+            "Dany Laferrière",
+            "Lyonel Trouillot",
+            "Jean-Euphèle Milcé",
+            "Yanick Lahens"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Dany Laferrière a reçu le prix Médicis pour son œuvre 'L’Enigme du retour'."
+    },
+    {
+        "id": "culture-48f240",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La danse 'Petwo' est associée aux rituels vodou dynamiques.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La danse Petwo est énergique et associée à des rituels vodou puissants."
+    },
+    {
+        "id": "culture-22e701",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel poète haïtien est l’auteur de 'Choucoune' ?",
+        "options": [
+            "Gary Victor",
+            "Oswald Durand",
+            "Ida Faubert",
+            "René Depestre"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Oswald Durand est l’auteur du poème 'Choucoune', mis en musique sous le nom 'Yellow Bird'."
+    },
+    {
+        "id": "culture-b4b55a",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 'mayi moulen' est une préparation à base de maïs moulu.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Le mayi moulen est une bouillie ou accompagnement de maïs moulu souvent servi avec des haricots."
+    },
+    {
+        "id": "culture-101885",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel musicien haïtien est aussi connu comme militant politique et social ?",
+        "options": [
+            "Tabou Combo",
+            "Sweet Micky",
+            "Emeline Michel",
+            "Wyclef Jean"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Wyclef Jean, membre des Fugees, s’est engagé politiquement pour Haïti."
+    },
+    {
+        "id": "culture-128ec4",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La fête du drapeau haïtien est célébrée à l’Arcahaie.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "L’Arcahaie est la ville où le drapeau haïtien a été créé en 1803."
+    },
+    {
+        "id": "culture-69acea",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a écrit 'La Fermeture' ?",
+        "options": [
+            "Gary Victor",
+            "Frankétienne",
+            "Lyonel Trouillot",
+            "Yanick Lahens"
+        ],
+        "correct": [
+            2
+        ],
+        "explication": "Lyonel Trouillot est un écrivain contemporain auteur de 'La Fermeture'."
+    },
+    {
+        "id": "culture-864a78",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le carnaval de Jacmel met en avant des masques en papier mâché.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Les masques en papier mâché sont une spécialité artisanale du carnaval de Jacmel."
+    },
+    {
+        "id": "culture-49aeaf",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel groupe haïtien est connu pour la chanson 'Haiti Twoubadou' ?",
+        "options": [
+            "Carimi",
+            "Boukan Ginen",
+            "T-Vice",
+            "Tabou Combo"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "Boukan Ginen a popularisé la chanson 'Haiti Twoubadou'."
+    },
+    {
+        "id": "culture-b35b54",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La cuisine haïtienne utilise souvent des épices fortes et du piment.",
+        "options": [
+            "Faux",
+            "Vrai"
+        ],
+        "correct": [
+            1
+        ],
+        "explication": "La cuisine haïtienne est réputée pour ses plats relevés au piment et aux épices locales."
+    },
+    {
+        "id": "culture-7f36b6",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel écrivain haïtien a écrit 'Bicentenaire' ?",
+        "options": [
+            "Lyonel Trouillot",
+            "Gary Victor",
+            "Frankétienne",
+            "Yanick Lahens"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Lyonel Trouillot a publié 'Bicentenaire' en 2004."
+    },
+    {
+        "id": "culture-a4bd50",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "Le 'pain patate' est un dessert haïtien à base de patate douce.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "Le pain patate est un dessert populaire à base de patate douce, lait et épices."
+    },
+    {
+        "id": "culture-08443e",
+        "categorie": "Culture",
+        "type": "single",
+        "question": "Quel groupe haïtien est associé à la chanson 'Se Kreyòl Nou Ye' ?",
+        "options": [
+            "Tabou Combo",
+            "T-Vice",
+            "Carimi",
+            "Boukman Eksperyans"
+        ],
+        "correct": [
+            3
+        ],
+        "explication": "Boukman Eksperyans a popularisé 'Se Kreyòl Nou Ye', un hymne identitaire."
+    },
+    {
+        "id": "culture-1399a1",
+        "categorie": "Culture",
+        "type": "boolean",
+        "question": "La 'sauce pois' accompagne souvent le riz haïtien.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": [
+            0
+        ],
+        "explication": "La sauce pois, faite à base de haricots, accompagne presque toujours le riz en Haïti."
+    }
+  ]
+}
