@@ -198,7 +198,7 @@ export default function Player() {
     panel.scrollTo({ top: clamped, behavior: 'smooth' });
   }, [activeIndex]);
 
-  const fmt = (s: number) => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
+  //const fmt = (s: number) => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
 
   return (
     <section className="space-y-5">

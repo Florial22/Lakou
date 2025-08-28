@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lakou</string>
+    <string name="title_activity_main">Lakou</string>
+    <string name="package_name">com.misly.lakou</string>
+    <string name="custom_url_scheme">com.misly.lakou</string>
+</resources>

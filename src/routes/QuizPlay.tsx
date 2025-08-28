@@ -23,7 +23,7 @@ export default function QuizPlay() {
 
   // round state
   const [index, setIndex] = useState(0);
-  const [played, setPlayed] = useState<PlayedQuestion[]>([]);
+  const [, setPlayed] = useState<PlayedQuestion[]>([]);
   const playedRef = useRef<PlayedQuestion[]>([]);
 
   // per-question state
