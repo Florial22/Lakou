@@ -1,3 +1,5 @@
+import BottomNav from './components/bottomNav';
+
 import { useEffect } from 'react';
 import { Outlet, useLocation } from 'react-router-dom';
 import { APP_NAME } from './config/app';
@@ -20,6 +22,7 @@ export default function App() {
     <div className="min-h-dvh">
       <main className="container py-12">
         <Outlet />
+        <BottomNav />
       </main>
     </div>
   );

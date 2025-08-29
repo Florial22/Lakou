@@ -282,7 +282,7 @@ export default function QuizPlay() {
       </span>
       {lastQuizWasFallback && (
         <span className="text-[11px] text-yellow-400">
-          Mode hors-ligne : questions locales
+          {/* Mode hors-ligne : questions locales */}
         </span>
       )}
     </div>

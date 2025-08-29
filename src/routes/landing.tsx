@@ -1,25 +1,43 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { useEffect, useState, useMemo } from 'react';
+import { loadQuizData } from '../lib/loadQuiz';
+import type { QuizItem } from '../types/quiz';
 
 export default function Landing() {
   const [audioLang, setAudioLang] = useState<'ht' | 'fr' | null>(null);
   const nav = useNavigate();
 
+  const [randomQ, setRandomQ] = useState<QuizItem | null>(null);
+  useEffect(() => {
+  let mounted = true;
+  // on charge en FR pour l'accueil ; ajuste si besoin
+  loadQuizData('fr')
+    .then(data => {
+      const pool = data.questions.filter(q => q.type !== 'boolean');
+      if (!pool.length) return;
+      const pick = pool[Math.floor(Math.random() * pool.length)];
+      if (mounted) setRandomQ(pick);
+    })
+    .catch(() => {
+      // silencieux : si échec réseau, on n’affiche pas la carte
+    });
+  return () => {
+    mounted = false;
+  };
+}, []);
+
   return (
     <div className="mx-auto max-wy-2xl space-y-8">
-      {/* En-tête de page (pour toute la page d'accueil) */}
-      <header className="text-center space-y-2">
-        <h1 className="text-3xl font-semibold">Accueil</h1>
-        <p className="muted">Écoutez l’hymne national d’Haïti en Kreyòl ou en Français.</p>
-        {/* <img
-            src="/assets/brand/lakou.png"
-            alt="Lakou"
-            className="h-8 w-auto mx-auto"
-        /> */}
-      </header>
+      {/* En-tête */}
+    <header className="max-w-md  px-4 pt-4 pb-2">
+      <h1 className="text-xl font-extrabold tracking-wide">LAKOU</h1>
+    <p className="text-[12px] text-zinc-400">istwa, kilti, fyete</p>
+    </header>
 
       {/* Section : langue de l’audio */}
       <section className="card p-6">
+        <p className="text-xl font-normal text-center mb-4">Écoutez l'hymne national d'haïti en Kreyòl ou en Français</p>
         <h2 className="text-xl font-semibold text-center mb-4">Langue de l’audio</h2>
 
         <div className="grid grid-cols-2 gap-3 max-w-md mx-auto">
@@ -48,12 +66,41 @@ export default function Landing() {
         </div>
       </section>
 
+        {/* Section : Question du jour */}
+        <section className="card p-6">
+          <div className="p-5">
+            <h2 className="text-sm text-zinc-400 text-center mb-3">Question du jour</h2>
+
+            {randomQ ? (
+              <div>
+                <p className="text-center font-semibold mb-3">{randomQ.question}</p>
+                <p className="text-center text-green-500 font-bold text-lg">
+                  {randomQ.options[randomQ.correct[0]]}
+                </p>
+              </div>
+            ) : (
+              <p className="text-center text-zinc-500 text-sm">Chargement…</p>
+            )}
+          </div>
+        </section>
+
+        {/* Section 3 : à venir */}
+        <section className="card p-6">
+          <div className="p-5">
+            <h2 className="text-sm text-zinc-400 text-center mb-1">À venir</h2>
+            <p className="text-center text-zinc-500 text-sm">Nouvelle section bientôt disponible.</p>
+          </div>
+        </section>
+
+
+          
+
       {/* Section : Quiz */}
-      <section className="card p-6 text-center">
+      {/* <section className="card p-6 text-center">
         <h2 className="text-xl font-semibold mb-2">Quiz</h2>
         <p className="muted mb-3">Testez vos connaissances sur Haïti.</p>
         <button onClick={() => nav('/quiz')} className="btn btn--primary">Ouvrir le quiz</button>
-      </section>
+      </section> */}
     </div>
   );
 }
