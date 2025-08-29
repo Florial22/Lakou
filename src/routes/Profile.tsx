@@ -8,10 +8,8 @@ export default function Profile() {
 
   // URL à partager (fonctionne en web, Pages, app)
   const shareUrl = useMemo(() => {
-    if (typeof window === 'undefined') return 'https://lakou.app';
-    const base = import.meta.env.BASE_URL ?? '/';
-    return new URL(base, window.location.origin).toString();
-  }, []);
+  return import.meta.env.VITE_SHARE_URL || 'https://lakou.app';
+}, []);
 
   async function copyToClipboard(text: string) {
     try {

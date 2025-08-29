@@ -1,6 +1,6 @@
 // import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useEffect, useState, useMemo } from 'react';
+import { useEffect, useState} from 'react';
 import { loadQuizData } from '../lib/loadQuiz';
 import type { QuizItem } from '../types/quiz';
 
@@ -85,12 +85,12 @@ export default function Landing() {
         </section>
 
         {/* Section 3 : à venir */}
-        <section className="card p-6">
+        {/* <section className="card p-6">
           <div className="p-5">
             <h2 className="text-sm text-zinc-400 text-center mb-1">À venir</h2>
             <p className="text-center text-zinc-500 text-sm">Nouvelle section bientôt disponible.</p>
           </div>
-        </section>
+        </section> */}
 
 
           
