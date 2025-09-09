@@ -7,7 +7,7 @@ const baseIcon = 'w-5 h-5 mb-1';
 
 export default function BottomNav() {
   return (
-    <nav className="fixed bottom-0 left-0 right-0 border-t border-[#2A2A2E] bg-black/90 backdrop-blur z-40">
+    <nav className="fixed bottom-0 left-0 right-0 border-t border-[#2A2A2E] h-20 bg-black/90 backdrop-blur z-40">
       <div className="max-w-md mx-auto flex">
         <NavLink
           to="/"

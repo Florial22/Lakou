@@ -18,12 +18,12 @@ export default function App() {
     document.title = map[pathname] ?? APP_NAME;
   }, [pathname]);
 
-  return (
-    <div className="min-h-dvh">
-      <main className="container py-12">
+  return ( 
+    <div className="min-h-dvh bg-[#0b0b0f] text-white">
+      <main className="container py-12 pb-[calc(6rem+env(safe-area-inset-bottom))]">
         <Outlet />
-        <BottomNav />
       </main>
+      <BottomNav />
     </div>
   );
 }

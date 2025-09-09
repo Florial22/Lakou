@@ -8,20 +8,45 @@ export default function Landing() {
   const [audioLang, setAudioLang] = useState<'ht' | 'fr' | null>(null);
   const nav = useNavigate();
 
-  const [randomQ, setRandomQ] = useState<QuizItem | null>(null);
-  useEffect(() => {
+  const IGNORED_ANSWERS = [
+  'tous',
+  'toutes les réponses',
+  'toutes',
+  'all of the above',
+];
+
+const isIgnoredAnswer = (s?: string | null) =>
+  !!s && IGNORED_ANSWERS.some(w => new RegExp(`^\\s*${w}\\s*$`, 'i').test(s));
+
+const getCorrectAnswer = (q: any): string | null => {
+  // Try common shapes: options + correctIndex, or direct answer fields
+  if (Array.isArray(q.options) && typeof q.correctIndex === 'number') {
+    return q.options[q.correctIndex];
+  }
+  if (q.answer) return String(q.answer);
+  if (q.bonneReponse) return String(q.bonneReponse);
+  return null;
+};
+
+const [randomQ, setRandomQ] = useState<QuizItem | null>(null);
+
+useEffect(() => {
   let mounted = true;
-  // on charge en FR pour l'accueil ; ajuste si besoin
   loadQuizData('fr')
     .then(data => {
-      const pool = data.questions.filter(q => q.type !== 'boolean');
+      // exclude boolean + exclude ignored-answer questions
+      const pool = data.questions
+        .filter((q: any) => q.type !== 'boolean')
+        .filter((q: any) => !isIgnoredAnswer(getCorrectAnswer(q)));
+
       if (!pool.length) return;
       const pick = pool[Math.floor(Math.random() * pool.length)];
       if (mounted) setRandomQ(pick);
     })
     .catch(() => {
-      // silencieux : si échec réseau, on n’affiche pas la carte
+      // silent fail: no home card
     });
+
   return () => {
     mounted = false;
   };

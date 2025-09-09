@@ -160,13 +160,13 @@
         "id": 5,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Haïti fut la première république noire indépendante du monde.",
+        "question": "Haïti fut la première république indépendante du monde.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "En 1804, Haïti devint la première république noire indépendante du monde."
     },
@@ -206,13 +206,13 @@
         "id": 8,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Un tremblement de terre dévastateur a frappé Haïti le 12 janvier 2010.",
+        "question": "Un tremblement de terre dévastateur a frappé Haïti le 12 janvier 2011.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "Le séisme du 12 janvier 2010 a causé plus de 200 000 morts et de lourds dégâts."
     },
@@ -284,13 +284,13 @@
         "id": 13,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Toussaint Louverture a été capturé et envoyé en France où il est mort en prison.",
+        "question": "Toussaint Louverture a été capturé et envoyé aux etats-unis où il est mort en prison.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "Toussaint Louverture a été capturé par les troupes de Napoléon en 1802 et est mort en prison au Fort de Joux en 1803."
     },
@@ -330,13 +330,13 @@
         "id": 16,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Haïti a aboli l’esclavage en 1804.",
+        "question": "Haïti a aboli l’esclavage en 1806.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "L’abolition de l’esclavage fut proclamée en même temps que l’indépendance en 1804."
     },
@@ -392,13 +392,13 @@
         "id": 20,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Le massacre des Français ordonné par Dessalines eut lieu en 1804.",
+        "question": "Le massacre des Français ordonné par Dessalines eut lieu en 1904.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "En 1804, Dessalines ordonna le massacre des colons français restés en Haïti."
     },
@@ -516,13 +516,13 @@
         "id": 28,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "La bataille de Vertières s’est déroulée en 1803.",
+        "question": "La bataille de Vertières s’est déroulée en 1802.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "La bataille de Vertières a eu lieu le 18 novembre 1803 et a scellé la victoire des troupes haïtiennes."
     },
@@ -670,13 +670,13 @@
         "id": 38,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Le drapeau haïtien fut adopté pour la première fois en 1803.",
+        "question": "Le drapeau haïtien fut adopté pour la première fois en 1804.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "Le drapeau bleu et rouge fut créé à l’Arcahaie en mai 1803."
     },
@@ -778,13 +778,13 @@
         "id": 45,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "La révolution haïtienne a commencé en 1791.",
+        "question": "La révolution haïtienne a commencé en 1891.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "L’insurrection des esclaves débuta en août 1791, marquant le début de la révolution."
     },
@@ -916,13 +916,13 @@
         "id": 55,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "La bataille de Crête-à-Pierrot a eu lieu en 1802.",
+        "question": "La bataille de Crête-à-Pierrot a eu lieu en 1805.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "La bataille de Crête-à-Pierrot opposa les troupes haïtiennes aux forces françaises en mars 1802."
     },
@@ -1038,13 +1038,13 @@
         "id": 63,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Le massacre de Jérémie de 1964 a eu lieu sous François Duvalier.",
+        "question": "Le massacre de Jérémie de 1964 a eu lieu sous Jean-Claude Duvalier.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "En 1964, des opposants furent massacrés à Jérémie sur ordre du régime de François Duvalier."
     },
@@ -1176,13 +1176,13 @@
         "id": 72,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "La dynastie des Duvalier a gouverné Haïti de 1957 à 1986.",
+        "question": "La dynastie des Duvalier a gouverné Haïti de 1957 à 2002.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "François puis Jean-Claude Duvalier ont régné de 1957 à 1986."
     },
@@ -1239,13 +1239,13 @@
         "id": 77,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Jean-Bertrand Aristide a été président d’Haïti à trois reprises.",
+        "question": "Jean-Bertrand Aristide a été président d’Haïti à deux reprises.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "Aristide fut élu en 1990, revenu en 1994, puis réélu en 2000."
     },
@@ -1299,13 +1299,13 @@
         "id": 81,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "Le président Sam a été assassiné en 1915.",
+        "question": "Le président Sam a été assassiné en 2003.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "Vilbrun Guillaume Sam fut lynché en juillet 1915, entraînant l’occupation américaine."
     },
@@ -1359,13 +1359,13 @@
         "id": 85,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "La bataille de Vertières s’est déroulée le 18 novembre 1803.",
+        "question": "La bataille de Vertières s’est déroulée le 18 novembre 1804.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "La victoire de Vertières scella l’indépendance d’Haïti en 1803."
     },
@@ -1419,13 +1419,13 @@
         "id": 89,
         "categorie": "Histoire",
         "type": "boolean",
-        "question": "L’occupation américaine d’Haïti dura 19 ans.",
+        "question": "L’occupation américaine d’Haïti dura 29 ans.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "L’occupation dura de 1915 à 1934, soit 19 ans."
     },
@@ -1924,15 +1924,15 @@
         "id": "geo-81521e",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le fleuve Artibonite prend sa source en République dominicaine.",
+        "question": "Le fleuve Artibonite prend sa source en Jmaïque.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
-        "explication": "L’Artibonite prend sa source en République dominicaine et traverse Haïti."
+        "explication": "Le fleuve prend sa source en République dominicaine et traverse Haïti."
     },
     {
         "id": "geo-04cc0e",
@@ -2014,13 +2014,13 @@
         "id": "geo-20089e",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le lac de Péligre est un lac artificiel créé par un barrage.",
+        "question": "Le lac de Péligre est un lac naturel.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "Le lac de Péligre a été créé suite à la construction du barrage hydroélectrique du même nom."
     },
@@ -2044,13 +2044,13 @@
         "id": "geo-9c3f6f",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le Pic la Selle est plus haut que le Morne Macaya.",
+        "question": "Le Morne Macaya est plus haut que le Pic la Selle.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "Le Pic la Selle (2 680 m) est plus élevé que le Morne Macaya (2 347 m)."
     },
@@ -2104,13 +2104,13 @@
         "id": "geo-53c1bc",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "L’île-à-Vache se trouve au large du département du Sud.",
+        "question": "L’île-à-Vache se trouve au large du département du Nord.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "L’île-à-Vache est une petite île située près de la côte sud d’Haïti."
     },
@@ -2164,13 +2164,13 @@
         "id": "geo-31543b",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le Parc National Macaya est situé dans le département du Sud.",
+        "question": "Le Parc National Macaya est situé dans le département du Nord.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "Le Parc National Macaya se trouve dans le massif de la Hotte, dans le Sud."
     },
@@ -2194,13 +2194,13 @@
         "id": "geo-5f9b2e",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le département du Centre est dépourvu de littoral.",
+        "question": "Le département du Centre est bordé au sud par la mer des Caraïbes.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "Le département du Centre est enclavé et n’a pas d’accès direct à la mer."
     },
@@ -2284,13 +2284,13 @@
         "id": "geo-5e8e1b",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "La Plaine du Cul-de-Sac est située près de Port-au-Prince.",
+        "question": "La Plaine du Cul-de-Sac est située près du Cap-Haïtien.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "La plaine du Cul-de-Sac se trouve à l’est de Port-au-Prince et abrite l’Étang Saumâtre."
     },
@@ -2314,7 +2314,7 @@
         "id": "geo-de4922",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Les montagnes haïtiennes occupent environ les deux tiers du territoire.",
+        "question": "Les montagnes haïtiennes occupent plus de la moitié du territoire.",
         "options": [
             "Faux",
             "Vrai"
@@ -2341,20 +2341,6 @@
         "explication": "Le golfe de Môle-Saint-Nicolas se situe au nord-ouest du pays."
     },
     {
-        "id": "geo-f1f23a",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "Le département du Sud-Est est traversé par la Chaîne de la Selle.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "La Chaîne de la Selle traverse le département du Sud-Est où se trouve le Pic la Selle."
-    },
-    {
         "id": "geo-85cefc",
         "categorie": "Géographie",
         "type": "single",
@@ -2374,13 +2360,13 @@
         "id": "geo-7b7d5c",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le Massif de la Hotte se trouve dans le département du Sud.",
+        "question": "Le Massif de la Hotte se trouve dans le département du Nord.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "Le Massif de la Hotte est situé dans la péninsule sud d’Haïti."
     },
@@ -2399,20 +2385,6 @@
             3
         ],
         "explication": "Cap-Haïtien est la deuxième ville du pays par sa population."
-    },
-    {
-        "id": "geo-3cca3f",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "Le littoral haïtien mesure environ 1 500 kilomètres.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Le littoral haïtien est estimé à environ 1 500 km de longueur."
     },
     {
         "id": "geo-534a35",
@@ -2478,7 +2450,7 @@
         "id": "geo-50b5ea",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le département de l’Ouest comprend l’île de la Gonâve.",
+        "question": "Le département de l’Ouest comprend l’île de la Tortue.",
         "options": [
             "Vrai",
             "Faux"
@@ -2486,7 +2458,7 @@
         "correct": [
             0
         ],
-        "explication": "L’île de la Gonâve appartient administrativement au département de l’Ouest."
+        "explication": "L’île de la Tortue fait partie du département du Nord-Ouest, pas de l’Ouest."
     },
     {
         "id": "geo-6aad45",
@@ -2535,20 +2507,6 @@
         "explication": "Port-de-Paix est la principale ville portuaire du Nord-Ouest."
     },
     {
-        "id": "geo-553ed7",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "La rivière Grise traverse Port-au-Prince.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "La rivière Grise traverse la région de Port-au-Prince."
-    },
-    {
         "id": "geo-6780e6",
         "categorie": "Géographie",
         "type": "single",
@@ -2563,20 +2521,6 @@
             3
         ],
         "explication": "Jacmel est célèbre pour ses plages et son carnaval."
-    },
-    {
-        "id": "geo-c74a43",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "Le Massif de la Hotte est situé dans la presqu’île du Sud.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Le Massif de la Hotte est localisé dans la presqu’île du Sud."
     },
     {
         "id": "geo-be17f3",
@@ -2595,20 +2539,6 @@
         "explication": "Jacmel est située dans le département du Sud-Est."
     },
     {
-        "id": "geo-6716e9",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "La presqu’île du Nord-Ouest est une extension du Massif du Nord.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "La péninsule du Nord-Ouest est une prolongation du Massif du Nord."
-    },
-    {
         "id": "geo-99450b",
         "categorie": "Géographie",
         "type": "single",
@@ -2624,20 +2554,7 @@
         ],
         "explication": "Les Gonaïves sont la capitale administrative de l’Artibonite."
     },
-    {
-        "id": "geo-1ae6bf",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "Le département du Centre est traversé par la rivière Guayamouc.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "La rivière Guayamouc traverse le département du Centre."
-    },
+    
     {
         "id": "geo-a1cedb",
         "categorie": "Géographie",
@@ -2654,20 +2571,7 @@
         ],
         "explication": "Les Cayes se trouvent sur la côte sud-ouest."
     },
-    {
-        "id": "geo-7ae988",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "La plaine du Cul-de-Sac est connue pour son lac salé, l’Étang Saumâtre.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "L’Étang Saumâtre est un lac salé situé dans la plaine du Cul-de-Sac."
-    },
+    
     {
         "id": "geo-dd4bdc",
         "categorie": "Géographie",
@@ -2688,15 +2592,15 @@
         "id": "geo-5bd3d8",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le département des Nippes est l’un des plus jeunes départements d’Haïti.",
+        "question": "Le département des Nippes est l’un des plus vieux départements d’Haïti.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
-        "explication": "Le département des Nippes a été créé en 2003."
+        "explication": "Le département des Nippes est l’un des plus récents. Il a été créé en 2003."
     },
     {
         "id": "geo-3d45fc",
@@ -2718,13 +2622,13 @@
         "id": "geo-22b344",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Le Morne la Vigie se trouve dans le département du Nord-Ouest.",
+        "question": "Le Morne la Vigie se trouve dans le département de l'Ouest.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "Le Morne la Vigie est une montagne importante du Nord-Ouest."
     },
@@ -2774,20 +2678,7 @@
         ],
         "explication": "Cap-Haïtien est un centre historique majeur avec la Citadelle et Sans-Souci."
     },
-    {
-        "id": "geo-7b9d70",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "La chaîne des Matheux est située entre Port-au-Prince et Saint-Marc.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "La chaîne des Matheux est une chaîne de montagnes située au centre-ouest du pays."
-    },
+    
     {
         "id": "geo-cccf43",
         "categorie": "Géographie",
@@ -2864,20 +2755,7 @@
         ],
         "explication": "Miragoâne est la capitale du département des Nippes."
     },
-    {
-        "id": "geo-d60c93",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "Le département du Nord-Ouest comprend l’île de la Tortue.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "L’île de la Tortue fait partie du département du Nord-Ouest."
-    },
+    
     {
         "id": "geo-677273",
         "categorie": "Géographie",
@@ -2984,20 +2862,7 @@
         ],
         "explication": "Cap-Haïtien est surnommée la Cité Christophe en hommage au roi Henri Christophe."
     },
-    {
-        "id": "geo-b90729",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "La rivière Massacre se trouve à la frontière avec la République dominicaine.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "La rivière Massacre sépare une partie d’Haïti et de la République dominicaine."
-    },
+    
     {
         "id": "geo-d7e09d",
         "categorie": "Géographie",
@@ -3014,20 +2879,7 @@
         ],
         "explication": "L’île-à-Vache est située au large des Cayes, dans le Sud."
     },
-    {
-        "id": "geo-b82fe8",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "La Plaine du Nord est propice à l’agriculture.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "La Plaine du Nord est une région agricole fertile."
-    },
+    
     {
         "id": "geo-b6aa69",
         "categorie": "Géographie",
@@ -3043,20 +2895,6 @@
             0
         ],
         "explication": "Jacmel est la capitale du département du Sud-Est."
-    },
-    {
-        "id": "geo-74f663",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "Le climat d’Haïti comprend une saison sèche et une saison pluvieuse.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Haïti connaît un climat tropical avec deux saisons principales."
     },
     {
         "id": "geo-74a955",
@@ -3078,13 +2916,13 @@
         "id": "geo-25becd",
         "categorie": "Géographie",
         "type": "boolean",
-        "question": "Haïti est divisé en 10 départements.",
+        "question": "Haïti est divisé en 9 départements.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
         "explication": "Haïti compte 10 départements administratifs."
     },
@@ -3104,20 +2942,7 @@
         ],
         "explication": "Port-de-Paix est la capitale du Nord-Ouest."
     },
-    {
-        "id": "geo-f1e047",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "L’île de la Tortue est au large de Port-de-Paix.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "L’île de la Tortue est située face à Port-de-Paix."
-    },
+    
     {
         "id": "geo-05add2",
         "categorie": "Géographie",
@@ -3134,20 +2959,7 @@
         ],
         "explication": "Le département de l’Artibonite se situe entre le Nord et l’Ouest."
     },
-    {
-        "id": "geo-804fdc",
-        "categorie": "Géographie",
-        "type": "boolean",
-        "question": "Les Gonaïves se trouvent sur la côte des Caraïbes.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Les Gonaïves sont situées au bord de la baie des Gonaïves, sur la mer des Caraïbes."
-    },
+    
 
 
 
@@ -3195,7 +3007,7 @@
         "id": "culture-392166",
         "categorie": "Culture",
         "type": "boolean",
-        "question": "Le vodou haïtien est reconnu comme une religion officielle en Haïti depuis 2003.",
+        "question": "Le vodou haïtien n’est pas reconnu comme une religion officielle en Haïti.",
         "options": [
             "Vrai",
             "Faux"
@@ -3221,20 +3033,7 @@
         ],
         "explication": "La soupe joumou est consommée chaque 1er janvier pour commémorer l’indépendance."
     },
-    {
-        "id": "culture-5e514f",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le compas est un style musical haïtien populaire.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Le compas (ou konpa) est un style musical haïtien inventé par Nemours Jean-Baptiste dans les années 1950."
-    },
+    
     {
         "id": "culture-239d23",
         "categorie": "Culture",
@@ -3251,20 +3050,7 @@
         ],
         "explication": "Le Cola Couronne est une boisson gazeuse emblématique et populaire en Haïti."
     },
-    {
-        "id": "culture-a06cae",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La danse Yanvalou est associée au rituel vodou.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Le Yanvalou est une danse traditionnelle pratiquée dans les cérémonies vodou."
-    },
+    
     {
         "id": "culture-8969b9",
         "categorie": "Culture",
@@ -3311,20 +3097,7 @@
         ],
         "explication": "Les cornes en bambou et les tambours sont des instruments phares du rara."
     },
-    {
-        "id": "culture-da827f",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le griot est un plat haïtien préparé avec du porc frit.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Le griot est un plat emblématique de porc mariné et frit, servi avec du riz ou du pikliz."
-    },
+    
     {
         "id": "culture-1f44d6",
         "categorie": "Culture",
@@ -3345,13 +3118,13 @@
         "id": "culture-447cfd",
         "categorie": "Culture",
         "type": "boolean",
-        "question": "Le konpa dirèk a été inventé par Nemours Jean-Baptiste.",
+        "question": "Le konpa dirèk a été inventé par Gracia delva.",
         "options": [
             "Faux",
             "Vrai"
         ],
         "correct": [
-            1
+            0
         ],
         "explication": "Nemours Jean-Baptiste est considéré comme le père du konpa dirèk."
     },
@@ -3375,15 +3148,15 @@
         "id": "culture-2db05d",
         "categorie": "Culture",
         "type": "boolean",
-        "question": "La fête du drapeau haïtien est célébrée le 18 mai.",
+        "question": "La fête du drapeau haïtien est célébrée le 18 Novembre.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
-        "explication": "Chaque 18 mai, Haïti célèbre la création de son drapeau à l’Arcahaie en 1803."
+        "explication": "Chaque 18 mai, Haïti célèbre la création de son drapeau."
     },
     {
         "id": "culture-8f2432",
@@ -3431,20 +3204,7 @@
         ],
         "explication": "Dany Laferrière est le premier auteur haïtien élu à l’Académie française en 2013."
     },
-    {
-        "id": "culture-29c7cc",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La danse Rabòday est une tendance musicale récente en Haïti.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Le Rabòday est une musique et danse urbaine moderne en Haïti."
-    },
+    
     {
         "id": "culture-d34e50",
         "categorie": "Culture",
@@ -3461,11 +3221,11 @@
         ],
         "explication": "Le griot est traditionnellement servi avec du riz, des bananes pesées et du pikliz."
     },
-    {
-        "id": "culture-a03649",
+        {
+        "id": "culture-d17462",
         "categorie": "Culture",
         "type": "boolean",
-        "question": "Le rara est joué uniquement dans les églises catholiques.",
+        "question": "Le carnaval haïtien se déroule uniquement dans la capitale, Port-au-Prince.",
         "options": [
             "Vrai",
             "Faux"
@@ -3473,8 +3233,9 @@
         "correct": [
             1
         ],
-        "explication": "Le rara est une musique de rue festive, associée aux traditions populaires et au vodou."
-    },
+        "explication": "Le carnaval haïtien se célèbre dans plusieurs villes du pays."
+        }
+        ,
     {
         "id": "culture-7b934c",
         "categorie": "Culture",
@@ -3567,20 +3328,7 @@
         ],
         "explication": "Le kleren est une boisson alcoolisée traditionnelle haïtienne issue de la distillation de la canne à sucre."
     },
-    {
-        "id": "culture-3fa748",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La musique troubadour est un genre traditionnel haïtien.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Les troubadours haïtiens jouent des chansons acoustiques populaires, souvent accompagnées de guitare."
-    },
+    
     {
         "id": "culture-794e33",
         "categorie": "Culture",
@@ -3613,20 +3361,7 @@
         ],
         "explication": "Le rara est une musique festive et populaire jouée surtout pendant le carême et Pâques."
     },
-    {
-        "id": "culture-d0ba44",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le festival de jazz de Port-au-Prince attire des musiciens internationaux.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Le PAP Jazz Festival accueille chaque année des artistes de renommée mondiale."
-    },
+    
     {
         "id": "culture-90e923",
         "categorie": "Culture",
@@ -3644,19 +3379,20 @@
         "explication": "Dany Laferrière est l’auteur du roman 'Pays sans chapeau'."
     },
     {
-        "id": "culture-7bc94f",
+        "id": "culture-e49271",
         "categorie": "Culture",
         "type": "boolean",
-        "question": "La Prestige est une bière produite en Haïti.",
+        "question": "La bière Prestige est produite uniquement en Haïti.",
         "options": [
             "Vrai",
             "Faux"
         ],
         "correct": [
-            0
+            1
         ],
-        "explication": "La bière Prestige est l’une des boissons les plus connues d’Haïti."
-    },
+        "explication": "La Prestige est aussi produite à l’étranger depuis son rachat par Heineken."
+        }
+        ,
     {
         "id": "culture-6e0a81",
         "categorie": "Culture",
@@ -3673,20 +3409,7 @@
         ],
         "explication": "Tabou Combo est un groupe mythique du compas haïtien, fondé en 1968."
     },
-    {
-        "id": "culture-653a5f",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La fête de la musique rara est célébrée principalement dans les campagnes.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Le rara est particulièrement répandu dans les zones rurales du pays."
-    },
+    
     {
         "id": "culture-9a041e",
         "categorie": "Culture",
@@ -3703,20 +3426,7 @@
         ],
         "explication": "Philomé Obin est un peintre majeur de l’école du Cap-Haïtien."
     },
-    {
-        "id": "culture-966b73",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le festival international de film de Jacmel est un événement culturel important.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Le festival de Jacmel est un rendez-vous majeur du cinéma en Haïti."
-    },
+    
     {
         "id": "culture-6e1cd4",
         "categorie": "Culture",
@@ -3745,7 +3455,7 @@
         "correct": [
             0
         ],
-        "explication": "Le carnaval de Jacmel est plus ancien et plus réputé pour son authenticité."
+        "explication": "Le carnaval de Jacmel est plus ancien."
     },
     {
         "id": "culture-6e078e",
@@ -3823,20 +3533,7 @@
         ],
         "explication": "Wyclef Jean, célèbre musicien haïtien, a fait partie du groupe américain Fugees."
     },
-    {
-        "id": "culture-341f82",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La danse folklorique Yanvalou est dédiée au loa Damballah dans le vodou.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Le Yanvalou est une danse dédiée à Damballah, l’un des loa du panthéon vodou."
-    },
+    
     {
         "id": "culture-559781",
         "categorie": "Culture",
@@ -3883,20 +3580,7 @@
         ],
         "explication": "Jean Price-Mars est l’auteur de 'Le Nègre marron' et figure de la négritude haïtienne."
     },
-    {
-        "id": "culture-7902d8",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Les tambours haïtiens portent parfois le nom de 'manman tanbou'.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Le 'manman tanbou' est le tambour maître dans les cérémonies haïtiennes."
-    },
+    
     {
         "id": "culture-0b54e2",
         "categorie": "Culture",
@@ -4019,20 +3703,7 @@
         ],
         "explication": "Dany Laferrière est l’auteur de 'Le goût des jeunes filles'."
     },
-    {
-        "id": "culture-1c4432",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La 'mizik rasin' s’inspire du vodou et des rythmes traditionnels.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "La mizik rasin mélange percussions traditionnelles et influences modernes."
-    },
+    
     {
         "id": "culture-6d172a",
         "categorie": "Culture",
@@ -4049,20 +3720,7 @@
         ],
         "explication": "Le lalo est un plat préparé avec des feuilles de corète potagère, souvent avec du crabe."
     },
-    {
-        "id": "culture-431140",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le tambour 'petwo' est utilisé dans certaines cérémonies vodou.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Le tambour petwo est associé aux rituels énergiques du vodou."
-    },
+    
     {
         "id": "culture-20a33a",
         "categorie": "Culture",
@@ -4079,20 +3737,7 @@
         ],
         "explication": "Le groupe Boukman Eksperyans a popularisé la chanson 'Ayiti Se'."
     },
-    {
-        "id": "culture-4ad725",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La 'Rara tech' est une fusion moderne de rara et de musique électronique.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "La Rara tech est une évolution contemporaine qui mélange rara et sons électroniques."
-    },
+   
     {
         "id": "culture-5f6920",
         "categorie": "Culture",
@@ -4170,20 +3815,6 @@
         "explication": "Gary Victor est l’auteur du roman 'Clair de manbo', inspiré de la culture vodou."
     },
     {
-        "id": "culture-37a8cd",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La danse 'Ibo' est une danse traditionnelle haïtienne.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "La danse Ibo est une danse traditionnelle d’origine africaine pratiquée en Haïti."
-    },
-    {
         "id": "culture-7ef5f1",
         "categorie": "Culture",
         "type": "single",
@@ -4199,20 +3830,7 @@
         ],
         "explication": "Le mayi moulen ak pwa est un plat à base de maïs moulu et d’haricots."
     },
-    {
-        "id": "culture-3874aa",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le rara est joué avec des instruments comme les 'vaksin' (tubes de bambou).",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Les vaksin en bambou sont des instruments phares du rara."
-    },
+    
     {
         "id": "culture-d77c2a",
         "categorie": "Culture",
@@ -4259,20 +3877,7 @@
         ],
         "explication": "Le bouyon pwason est une soupe de poisson traditionnelle dans le Sud d’Haïti."
     },
-    {
-        "id": "culture-f339a6",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La tradition du conte oral est encore vivante en Haïti.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Les contes et proverbes transmis oralement font partie intégrante de la culture haïtienne."
-    },
+    
     {
         "id": "culture-e2f4dc",
         "categorie": "Culture",
@@ -4288,20 +3893,6 @@
             1
         ],
         "explication": "Marie Vieux-Chauvet est l’auteure du roman 'Amour, colère et folie'."
-    },
-    {
-        "id": "culture-98ab46",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La 'mizik twoubadou' est jouée avec guitare et percussions légères.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Les troubadours haïtiens utilisent souvent guitare, banjo et percussions."
     },
     {
         "id": "culture-13b981",
@@ -4409,20 +4000,7 @@
         ],
         "explication": "Carlo Vieux, Mickaël Guirand et Richard Cavé sont les fondateurs du groupe Carimi."
     },
-    {
-        "id": "culture-11b4df",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le carnaval haïtien se déroule généralement en février.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Comme dans de nombreux pays, le carnaval précède le carême."
-    },
+    
     {
         "id": "culture-9c0d18",
         "categorie": "Culture",
@@ -4438,20 +4016,6 @@
             0
         ],
         "explication": "Dany Laferrière a reçu le prix Médicis pour son œuvre 'L’Enigme du retour'."
-    },
-    {
-        "id": "culture-48f240",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La danse 'Petwo' est associée aux rituels vodou dynamiques.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "La danse Petwo est énergique et associée à des rituels vodou puissants."
     },
     {
         "id": "culture-22e701",
@@ -4470,20 +4034,6 @@
         "explication": "Oswald Durand est l’auteur du poème 'Choucoune', mis en musique sous le nom 'Yellow Bird'."
     },
     {
-        "id": "culture-b4b55a",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le 'mayi moulen' est une préparation à base de maïs moulu.",
-        "options": [
-            "Faux",
-            "Vrai"
-        ],
-        "correct": [
-            1
-        ],
-        "explication": "Le mayi moulen est une bouillie ou accompagnement de maïs moulu souvent servi avec des haricots."
-    },
-    {
         "id": "culture-101885",
         "categorie": "Culture",
         "type": "single",
@@ -4499,20 +4049,7 @@
         ],
         "explication": "Wyclef Jean, membre des Fugees, s’est engagé politiquement pour Haïti."
     },
-    {
-        "id": "culture-128ec4",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La fête du drapeau haïtien est célébrée à l’Arcahaie.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "L’Arcahaie est la ville où le drapeau haïtien a été créé en 1803."
-    },
+    
     {
         "id": "culture-69acea",
         "categorie": "Culture",
@@ -4529,20 +4066,7 @@
         ],
         "explication": "Lyonel Trouillot est un écrivain contemporain auteur de 'La Fermeture'."
     },
-    {
-        "id": "culture-864a78",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le carnaval de Jacmel met en avant des masques en papier mâché.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Les masques en papier mâché sont une spécialité artisanale du carnaval de Jacmel."
-    },
+   
     {
         "id": "culture-49aeaf",
         "categorie": "Culture",
@@ -4589,20 +4113,7 @@
         ],
         "explication": "Lyonel Trouillot a publié 'Bicentenaire' en 2004."
     },
-    {
-        "id": "culture-a4bd50",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "Le 'pain patate' est un dessert haïtien à base de patate douce.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "Le pain patate est un dessert populaire à base de patate douce, lait et épices."
-    },
+    
     {
         "id": "culture-08443e",
         "categorie": "Culture",
@@ -4618,20 +4129,6 @@
             3
         ],
         "explication": "Boukman Eksperyans a popularisé 'Se Kreyòl Nou Ye', un hymne identitaire."
-    },
-    {
-        "id": "culture-1399a1",
-        "categorie": "Culture",
-        "type": "boolean",
-        "question": "La 'sauce pois' accompagne souvent le riz haïtien.",
-        "options": [
-            "Vrai",
-            "Faux"
-        ],
-        "correct": [
-            0
-        ],
-        "explication": "La sauce pois, faite à base de haricots, accompagne presque toujours le riz en Haïti."
     }
   ]
 }
